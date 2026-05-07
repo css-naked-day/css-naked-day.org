@@ -106,13 +106,14 @@ async function processFile(filePath) {
       await new Promise(r => setTimeout(r, DELAY_MS));
       const archiveUrl = await getArchiveUrl(originalUrl, maxYear);
       const normUrl = normalizeUrl(originalUrl);
-      const newUrl = archiveUrl || `https://web.archive.org/web/*/${normUrl}`;
+      const newUrl = archiveUrl || `https://web.archive.org/web/${normUrl}`;
       results[results.length - 1].newUrl = newUrl;
 
       if (UPDATE_FILES) {
+        const escapedUrl = originalUrl.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
         content = content.replace(
-          `url = "${originalUrl}"`,
-          `url = "${newUrl}"`
+          new RegExp(`(url\\s*=\\s*)"${escapedUrl}"`),
+          `$1"${newUrl}"`
         );
         fileModified = true;
       }
