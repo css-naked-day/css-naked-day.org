@@ -4,12 +4,12 @@ display = "rlog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://rlog.cn/blog"
+url   = "https://web.archive.org/web/http://rlog.cn/blog"
 title = "rlog"
 years = [ 2007 ]
 
 [[websites]]
-url   = "http://rlog.cn/"
+url   = "https://web.archive.org/web/http://rlog.cn/"
 title = "Rlog"
 years = [
 	2008,

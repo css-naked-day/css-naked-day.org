@@ -4,7 +4,7 @@ display = "prower"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.prower.cn/"
+url   = "https://web.archive.org/web/http://www.prower.cn/"
 title = "prower"
 years = [
 	2008,

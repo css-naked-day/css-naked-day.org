@@ -4,11 +4,11 @@ display = "Universe"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.weirdncrazy.com/universe/"
+url   = "https://web.archive.org/web/http://www.weirdncrazy.com/universe/"
 title = "Universe"
 years = [ 2008 ]
 
 [[websites]]
-url   = "http://weirdncrazy.com/universe/"
+url   = "https://web.archive.org/web/2008/http://weirdncrazy.com/universe/"
 title = "Universe"
 years = [ 2009 ]

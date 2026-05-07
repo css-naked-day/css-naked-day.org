@@ -4,6 +4,6 @@ display = "Liechtenecker"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.liechtenecker.at/"
+url   = "https://web.archive.org/web/http://www.liechtenecker.at/"
 title = "Liechtenecker"
 years = [ 2008 ]

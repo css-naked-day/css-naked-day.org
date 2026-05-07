@@ -4,6 +4,6 @@ display = "seopost"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.seopost.ru/"
+url   = "https://web.archive.org/web/http://www.seopost.ru/"
 title = "seopost"
 years = [ 2008 ]

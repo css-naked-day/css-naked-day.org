@@ -4,12 +4,12 @@ display = "David Russell"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.davidblog.com/"
+url   = "https://web.archive.org/web/http://www.davidblog.com/"
 title = "David Russell"
 years = [ 2006 ]
 
 [[websites]]
-url   = "http://davidrussell.org/"
+url   = "https://web.archive.org/web/http://davidrussell.org/"
 title = "David Russell"
 years = [
 	2007,

@@ -4,6 +4,6 @@ display = "大医药"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.dayiyao.com/"
+url   = "https://web.archive.org/web/http://www.dayiyao.com/"
 title = "大医药"
 years = [ 2008 ]
