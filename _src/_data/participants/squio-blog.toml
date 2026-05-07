@@ -4,7 +4,7 @@ display = "Squio blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://squio.nl/blog/"
+url   = "https://web.archive.org/web/http://squio.nl/blog/"
 title = "Squio blog"
 years = [ 2007 ]
 

@@ -4,6 +4,6 @@ display = "Ben Carlson.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.ben-carlson.com/"
+url   = "https://web.archive.org/web/http://www.ben-carlson.com/"
 title = "Ben Carlson.com"
 years = [ 2008 ]

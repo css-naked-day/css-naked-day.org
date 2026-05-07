@@ -4,7 +4,7 @@ display = "Sitemap"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.rapidsitemap.com/"
+url   = "https://web.archive.org/web/http://www.rapidsitemap.com/"
 title = "in english"
 years = [ 2009 ]
 

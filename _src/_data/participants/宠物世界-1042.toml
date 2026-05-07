@@ -4,6 +4,6 @@ display = "宠物世界"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.petsworld.cn/"
+url   = "https://web.archive.org/web/http://www.petsworld.cn/"
 title = "宠物世界"
 years = [ 2008 ]

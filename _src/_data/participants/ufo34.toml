@@ -4,7 +4,7 @@ display = "ufo34记录"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.ufo34.com/blog"
+url   = "https://web.archive.org/web/http://www.ufo34.com/blog"
 title = "ufo34记录"
 years = [ 2008 ]
 

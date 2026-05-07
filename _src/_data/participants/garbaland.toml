@@ -4,7 +4,7 @@ display = "Garbaland"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://garbaland.belfagor.net/"
+url   = "https://web.archive.org/web/http://garbaland.belfagor.net/"
 title = "Garbaland"
 years = [
 	2007,

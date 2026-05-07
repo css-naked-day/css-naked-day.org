@@ -4,6 +4,6 @@ display = "jaadu hai"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.jaaduhai.com/blog/"
+url   = "https://web.archive.org/web/http://www.jaaduhai.com/blog/"
 title = "jaadu hai"
 years = [ 2009 ]

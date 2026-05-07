@@ -4,7 +4,7 @@ display = "WISEPIG"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.wisepig.cn/"
+url   = "https://web.archive.org/web/http://www.wisepig.cn/"
 title = "home"
 years = [ 2008 ]
 

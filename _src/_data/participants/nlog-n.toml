@@ -4,7 +4,7 @@ display = "nlog(n)"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://nlogn.ath.cx/"
+url   = "https://web.archive.org/web/http://nlogn.ath.cx/"
 title = "nlog(n)"
 years = [
 	2007,

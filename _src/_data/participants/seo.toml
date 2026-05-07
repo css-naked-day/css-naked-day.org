@@ -4,7 +4,7 @@ display = "SEO ツール"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://value-seo.biz/"
+url   = "https://web.archive.org/web/http://value-seo.biz/"
 title = "SEO ツール"
 years = [ 2008 ]
 

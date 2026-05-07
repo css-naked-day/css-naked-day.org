@@ -4,7 +4,7 @@ display = "酷秀网络"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.dnxh.cn/blog"
+url   = "https://web.archive.org/web/http://www.dnxh.cn/blog"
 years = [ 2007 ]
 
 [[websites]]

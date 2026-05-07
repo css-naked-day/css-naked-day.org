@@ -4,7 +4,7 @@ display = "Englishman"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://roberto.ovh.org/blog"
+url   = "https://web.archive.org/web/http://roberto.ovh.org/blog"
 title = "Englishman"
 years = [ 2007 ]
 

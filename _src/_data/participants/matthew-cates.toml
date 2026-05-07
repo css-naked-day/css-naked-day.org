@@ -4,12 +4,12 @@ display = "Matthew Cates"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.matthewcates.com/"
+url   = "https://web.archive.org/web/http://www.matthewcates.com/"
 title = "home"
 years = [ 2009 ]
 
 [[websites]]
-url   = "http://inetlnx.francistuttle.com"
+url   = "https://web.archive.org/web/http://inetlnx.francistuttle.com"
 title = "school page"
 years = [ 2009 ]
 

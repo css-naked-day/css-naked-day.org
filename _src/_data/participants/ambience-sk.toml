@@ -4,6 +4,6 @@ display = "Ambience.sk"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.ambience.sk/"
+url   = "https://web.archive.org/web/http://www.ambience.sk/"
 title = "Ambience.sk"
 years = [ 2007 ]

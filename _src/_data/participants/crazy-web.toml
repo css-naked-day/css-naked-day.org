@@ -4,7 +4,7 @@ display = "Crazy Web"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.webdeveloping.cn/"
+url   = "https://web.archive.org/web/http://www.webdeveloping.cn/"
 title = "home"
 years = [ 2009 ]
 
