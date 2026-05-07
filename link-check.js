@@ -20,7 +20,7 @@ function getTomlFiles(dir, limit = Infinity) {
 }
 
 function getMaxYear(years) {
-  return Math.max(...years);
+  return years.length > 0 ? Math.max(...years) : new Date().getFullYear();
 }
 
 async function checkUrl(url) {
@@ -79,9 +79,10 @@ async function getArchiveUrl(originalUrl, targetYear) {
 }
 
 async function processFile(filePath) {
-  const content = fs.readFileSync(filePath, 'utf-8');
+  let content = fs.readFileSync(filePath, 'utf-8');
   const data = TOML.parse(content);
   const results = [];
+  let fileModified = false;
 
   if (!data.websites || data.websites.length === 0) {
     return results;
@@ -104,21 +105,22 @@ async function processFile(filePath) {
     if (!isAlive) {
       await new Promise(r => setTimeout(r, DELAY_MS));
       const archiveUrl = await getArchiveUrl(originalUrl, maxYear);
-      if (archiveUrl) {
-        results[results.length - 1].newUrl = archiveUrl;
-      } else {
-        const normUrl = normalizeUrl(originalUrl);
-        results[results.length - 1].newUrl = `https://web.archive.org/web/${normUrl}`;
-      }
+      const normUrl = normalizeUrl(originalUrl);
+      const newUrl = archiveUrl || `https://web.archive.org/web/*/${normUrl}`;
+      results[results.length - 1].newUrl = newUrl;
 
-      if (UPDATE_FILES && results[results.length - 1].newUrl) {
-        const newContent = content.replace(
+      if (UPDATE_FILES) {
+        content = content.replace(
           `url = "${originalUrl}"`,
-          `url = "${results[results.length - 1].newUrl}"`
+          `url = "${newUrl}"`
         );
-        fs.writeFileSync(filePath, newContent);
+        fileModified = true;
       }
     }
+  }
+
+  if (UPDATE_FILES && fileModified) {
+    fs.writeFileSync(filePath, content);
   }
 
   return results;
