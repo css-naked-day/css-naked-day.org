@@ -1,7 +1,6 @@
 display = "uicity.net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://uicity.net/blog/"

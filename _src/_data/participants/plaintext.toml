@@ -1,7 +1,6 @@
 display = "plaintext."
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://plaintext.ru/"

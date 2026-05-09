@@ -1,7 +1,6 @@
 display = "愛麗絲樂遊部落格仙境"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.askareiko.com/"

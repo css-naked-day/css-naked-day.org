@@ -1,7 +1,6 @@
 display = "Daneomatic"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.daneomatic.com/"

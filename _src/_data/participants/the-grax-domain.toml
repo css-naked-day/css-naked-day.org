@@ -1,7 +1,6 @@
 display = "The Grax Domain"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.graxdomain.co.uk/"

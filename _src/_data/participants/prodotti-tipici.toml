@@ -1,7 +1,6 @@
 display = "Prodotti Tipici"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.lacompagniadelcavatappi.it/catalog/index.php"

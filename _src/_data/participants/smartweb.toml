@@ -1,7 +1,6 @@
 display = "Smartweb"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.smartwebtec.com/"

@@ -1,7 +1,6 @@
 display = "Fernseher Portal"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.tvfacts.de/"

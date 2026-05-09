@@ -1,7 +1,6 @@
 display = "Vmetni – Macedonian Pastebin"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.vmetni.com/"

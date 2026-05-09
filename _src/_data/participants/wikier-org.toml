@@ -1,7 +1,6 @@
 display = "Wikier.org"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.wikier.org/"

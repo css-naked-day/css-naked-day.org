@@ -1,7 +1,6 @@
 display = "wetwebwork"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blackd0g.com/blog/"

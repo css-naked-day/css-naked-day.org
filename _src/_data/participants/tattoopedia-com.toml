@@ -1,7 +1,6 @@
 display = "Tattoopedia.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.tattoopedia.com/"

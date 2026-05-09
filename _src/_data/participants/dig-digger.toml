@@ -1,7 +1,6 @@
 display = "Dig Digger"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://digdigger.xail.net/"

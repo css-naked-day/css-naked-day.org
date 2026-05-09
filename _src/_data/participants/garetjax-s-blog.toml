@@ -1,7 +1,6 @@
 display = "GaretJax’s Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://garetjax.info/"

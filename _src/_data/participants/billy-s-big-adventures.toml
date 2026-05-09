@@ -1,7 +1,6 @@
 display = "Billy’s Big Adventures"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.billysbigadventures.com/"

@@ -1,7 +1,6 @@
 display = "andrey ivanov"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://werf.ru/"

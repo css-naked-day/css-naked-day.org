@@ -1,7 +1,6 @@
 display = "free lyrics"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://searchlyrics.awardspace.com/"

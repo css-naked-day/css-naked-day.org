@@ -1,7 +1,6 @@
 display = "Unstructure"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.unstructure.com/"

@@ -1,7 +1,6 @@
 display = "Cugbig’s Site"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.cugbig.net/"

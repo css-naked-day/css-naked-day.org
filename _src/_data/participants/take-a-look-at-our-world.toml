@@ -1,7 +1,6 @@
 display = "Take a look [at] our world"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.the-world-in-our-eyes.de/"

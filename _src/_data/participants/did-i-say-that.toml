@@ -1,7 +1,6 @@
 display = "did i say that?"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://home.planet.nl/%7ewilliamg/www/dist/"

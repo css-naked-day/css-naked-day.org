@@ -1,7 +1,6 @@
 display = "Stoyan Zhekov"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://planet.zhekov.net/"

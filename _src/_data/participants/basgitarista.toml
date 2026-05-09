@@ -1,7 +1,6 @@
 display = "basgitarista"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://basgitarista.kadera.eu/"

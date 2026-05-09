@@ -1,7 +1,6 @@
 display = "Helical Library (Gemma)"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.helical-library.net/"

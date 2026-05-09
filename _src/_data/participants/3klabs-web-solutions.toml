@@ -1,7 +1,6 @@
 display = "3KLabs Web Solutions"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.3klabs.com/"

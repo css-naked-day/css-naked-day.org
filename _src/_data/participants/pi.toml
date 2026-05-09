@@ -1,7 +1,6 @@
 display = "Pi"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://beats2.pinewave.tw/"

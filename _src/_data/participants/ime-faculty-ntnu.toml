@@ -1,7 +1,6 @@
 display = "IME faculty, NTNU"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ime.ntnu.no/"

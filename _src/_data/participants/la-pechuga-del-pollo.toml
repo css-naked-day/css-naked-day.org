@@ -1,7 +1,6 @@
 display = "La pechuga del Pollo"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://lpdp.familyguest.com/"

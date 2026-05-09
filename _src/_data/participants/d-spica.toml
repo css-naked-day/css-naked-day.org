@@ -1,7 +1,6 @@
 display = "d-spica"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.d-spica.com/"

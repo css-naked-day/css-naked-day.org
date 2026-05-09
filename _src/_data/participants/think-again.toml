@@ -1,7 +1,6 @@
 display = "Think Again!"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.think-again.org/"

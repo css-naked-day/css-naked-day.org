@@ -1,7 +1,6 @@
 display = "zielona jaśminowa"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.pawelsobczak.pl/"

@@ -1,7 +1,6 @@
 display = "Big Dog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2005/http://www.bigpawsonly.com/"

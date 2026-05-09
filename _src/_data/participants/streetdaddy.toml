@@ -1,7 +1,6 @@
 display = "Streetdaddy"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.streetdaddy.com/"

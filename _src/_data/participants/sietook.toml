@@ -1,7 +1,6 @@
 display = "Sieťook"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://sietook.org/"

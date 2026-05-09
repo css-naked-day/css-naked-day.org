@@ -1,7 +1,6 @@
 display = "Sea Quest"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://dev.vis-maior.net/"

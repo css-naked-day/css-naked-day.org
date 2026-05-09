@@ -1,7 +1,6 @@
 display = "Thinkcage"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.thinkcage.com/"

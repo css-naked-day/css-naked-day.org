@@ -1,7 +1,6 @@
 display = "poluz live?"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.poluz.net/blog"

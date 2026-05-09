@@ -1,7 +1,6 @@
 display = "pestaola.gr"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.pestaola.gr/"

@@ -1,7 +1,6 @@
 display = "ISD Webteam"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://webteam.tencent.com/"

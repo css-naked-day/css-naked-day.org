@@ -1,7 +1,6 @@
 display = "tlog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://tibonihoo.free.fr/"

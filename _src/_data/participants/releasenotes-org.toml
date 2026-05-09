@@ -1,7 +1,6 @@
 display = "ReleaseNotes.org"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://releasenotes.org/"

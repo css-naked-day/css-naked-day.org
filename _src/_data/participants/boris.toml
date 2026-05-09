@@ -1,7 +1,6 @@
 display = "Boris"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.dyingeyes.de/"

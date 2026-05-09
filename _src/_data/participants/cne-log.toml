@@ -1,7 +1,6 @@
 display = "cne _LOG"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.calm-n-easy.de/"

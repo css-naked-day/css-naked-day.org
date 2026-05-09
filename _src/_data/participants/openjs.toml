@@ -1,7 +1,6 @@
 display = "OpenJS"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.openjs.com/"

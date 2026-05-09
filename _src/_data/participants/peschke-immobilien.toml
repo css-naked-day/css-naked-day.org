@@ -1,7 +1,6 @@
 display = "Peschke Immobilien"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.peschke-immobilien.de/"

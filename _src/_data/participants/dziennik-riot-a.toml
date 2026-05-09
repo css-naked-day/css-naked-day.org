@@ -1,7 +1,6 @@
 display = "Dziennik RioT'a"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://riot.pl/"

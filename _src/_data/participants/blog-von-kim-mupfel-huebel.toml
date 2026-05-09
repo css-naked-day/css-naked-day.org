@@ -1,7 +1,6 @@
 display = "Blog von Kim (Mupfel) Huebel"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2007/http://blog.huebel-online.de/"

@@ -1,7 +1,6 @@
 display = "ppb"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://potentpoetbear.com/"

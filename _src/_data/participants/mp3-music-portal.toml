@@ -1,7 +1,6 @@
 display = "MP3 Music Portal"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.mp3easy.net/"

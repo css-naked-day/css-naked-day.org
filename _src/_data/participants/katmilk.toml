@@ -1,7 +1,6 @@
 display = "katmilk"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.katmilk.com/"

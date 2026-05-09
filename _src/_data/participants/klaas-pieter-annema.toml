@@ -3,7 +3,6 @@ firstname = "Klaas Pieter"
 surname = "Annema"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://annema.me/"

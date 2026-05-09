@@ -1,7 +1,6 @@
 display = "SourceForts"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.sourcefortsmod.com/"

@@ -1,7 +1,6 @@
 display = "Obec Krajne"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.krajne.sk/"

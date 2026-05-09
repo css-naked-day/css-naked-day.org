@@ -1,7 +1,6 @@
 display = "Vendorama"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.vendorama.com"

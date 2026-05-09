@@ -1,7 +1,6 @@
 display = "i-fekt Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.i-fekt.de/"

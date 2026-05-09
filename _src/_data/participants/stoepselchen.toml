@@ -1,7 +1,6 @@
 display = "Stoepselchen"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.stoepselchen.net/index.php"

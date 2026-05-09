@@ -1,7 +1,6 @@
 display = "clue free"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://cluefree.org/"

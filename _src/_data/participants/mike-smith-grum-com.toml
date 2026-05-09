@@ -1,7 +1,6 @@
 display = "Mike Smith – grum.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.grum.com/"

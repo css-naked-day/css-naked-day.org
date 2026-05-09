@@ -1,7 +1,6 @@
 display = "Femilicious"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.femilicious.com/"

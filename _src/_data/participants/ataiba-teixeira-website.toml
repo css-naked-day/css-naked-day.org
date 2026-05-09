@@ -1,7 +1,6 @@
 display = "Ataiba Teixeira WebSite"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ataliba.eti.br/"

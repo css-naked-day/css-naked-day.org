@@ -1,7 +1,6 @@
 display = "SXSW Scurvy"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://sxswscurvy.com/"

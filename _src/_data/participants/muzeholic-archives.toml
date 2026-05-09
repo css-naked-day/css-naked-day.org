@@ -1,7 +1,6 @@
 display = "Muzeholic Archives."
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://muzeholic.tistory.com/"

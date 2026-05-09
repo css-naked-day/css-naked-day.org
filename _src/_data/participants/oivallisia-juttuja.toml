@@ -1,7 +1,6 @@
 display = "Oivallisia juttuja"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.bobs.fi/oiva/"

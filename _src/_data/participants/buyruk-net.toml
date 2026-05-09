@@ -1,7 +1,6 @@
 display = "buyruk | net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://buyruk.net/blog/"

@@ -1,7 +1,6 @@
 display = "romey:radio"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.romeyradio.net/"

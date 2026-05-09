@@ -1,7 +1,6 @@
 display = "Gansik blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://gansik.tagv.com/"

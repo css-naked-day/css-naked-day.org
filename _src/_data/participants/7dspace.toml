@@ -1,7 +1,6 @@
 display = "7dspace"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2005/http://www.7dspace.net"

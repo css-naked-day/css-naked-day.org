@@ -1,7 +1,6 @@
 display = "i can't fish"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.icantfish.com/"

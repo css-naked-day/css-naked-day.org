@@ -1,7 +1,6 @@
 display = "BKLove Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://bklove.info/"

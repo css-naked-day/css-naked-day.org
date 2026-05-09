@@ -1,7 +1,6 @@
 display = "时间线"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.teanie.com/"

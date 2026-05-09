@@ -1,7 +1,6 @@
 display = "云南旅游"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.17yunnan.com/"

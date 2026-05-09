@@ -1,7 +1,6 @@
 display = "Cloud City Digital"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://cloudcitydigital.com/"

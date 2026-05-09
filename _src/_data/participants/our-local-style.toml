@@ -1,7 +1,6 @@
 display = "Our Local Style"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.ourlocalstyle.com/"

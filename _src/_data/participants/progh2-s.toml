@@ -1,7 +1,6 @@
 display = "Progh2’s 블로그!"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://progh2.tistory.com/"

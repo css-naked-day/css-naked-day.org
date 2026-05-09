@@ -1,7 +1,6 @@
 display = "Pendulum blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://blog.grakhov.com/"

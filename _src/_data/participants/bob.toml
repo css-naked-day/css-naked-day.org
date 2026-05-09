@@ -1,7 +1,6 @@
 display = "Bob的部落格"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.bo-blog.com/weblog/index.php"

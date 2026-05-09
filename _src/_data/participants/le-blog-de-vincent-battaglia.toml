@@ -1,7 +1,6 @@
 display = "Le blog de Vincent Battaglia"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.vinch.be/blog"

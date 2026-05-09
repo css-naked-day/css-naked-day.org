@@ -1,7 +1,6 @@
 display = "Lyn4"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://lyn4.phpnet.us/"

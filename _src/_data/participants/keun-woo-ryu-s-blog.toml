@@ -1,7 +1,6 @@
 display = "Keun-woo Ryu’s blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://updong.net/"

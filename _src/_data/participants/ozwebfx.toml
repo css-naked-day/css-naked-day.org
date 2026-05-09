@@ -1,7 +1,6 @@
 display = "ozwebfx"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ozwebfx.com/"

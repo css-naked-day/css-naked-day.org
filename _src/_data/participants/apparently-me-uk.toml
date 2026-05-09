@@ -1,7 +1,6 @@
 display = "apparently.me.uk"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.apparently.me.uk/"

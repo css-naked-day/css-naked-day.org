@@ -1,7 +1,6 @@
 display = "Gemini Diva"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://gemini-diva.com/"

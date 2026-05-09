@@ -1,14 +1,13 @@
 display = "I do my own stunts"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://idomyownstunts.blogspot.com/"
 title = "blogspot.com"
 years = [
 	2007,
-	2008 
+	2008
 ]
 
 [[websites]]

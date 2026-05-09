@@ -1,7 +1,6 @@
 display = "Emingos"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://emi.wazzap.dk/"

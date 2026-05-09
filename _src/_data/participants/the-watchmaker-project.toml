@@ -1,7 +1,6 @@
 display = "The Watchmaker Project"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.thewatchmakerproject.com/"

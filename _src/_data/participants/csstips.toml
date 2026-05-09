@@ -1,7 +1,6 @@
 display = "CSSTips"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://css.tweetips.net/"

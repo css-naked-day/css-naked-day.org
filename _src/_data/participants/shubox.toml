@@ -1,7 +1,6 @@
 display = "Shubox"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://shubox.net/"

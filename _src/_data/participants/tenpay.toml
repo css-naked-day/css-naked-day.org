@@ -1,7 +1,6 @@
 display = "tenpay"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.tenpay.com/"

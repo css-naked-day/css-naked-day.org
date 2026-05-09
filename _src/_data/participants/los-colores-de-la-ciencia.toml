@@ -1,7 +1,6 @@
 display = "Los Colores de la Ciencia"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.loscoloresdelaciencia.com/"

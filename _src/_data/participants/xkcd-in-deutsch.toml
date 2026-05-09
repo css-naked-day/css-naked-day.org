@@ -1,7 +1,6 @@
 display = "xkcd in Deutsch"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://thorstenpeh.de/xkcd-in-deutsch/"

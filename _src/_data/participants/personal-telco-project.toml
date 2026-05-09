@@ -1,7 +1,6 @@
 display = "Personal Telco Project"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://wiki.personaltelco.net/"

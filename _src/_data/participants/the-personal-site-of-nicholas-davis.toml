@@ -1,7 +1,6 @@
 display = "The Personal Site of Nicholas Davis"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.nicholasdavis.info/"

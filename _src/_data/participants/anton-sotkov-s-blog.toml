@@ -1,7 +1,6 @@
 display = "Anton Sotkov’s Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://amaxskv.com/"

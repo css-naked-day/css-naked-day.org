@@ -1,7 +1,6 @@
 display = "Kylin"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.zhaoweiqi.com/"

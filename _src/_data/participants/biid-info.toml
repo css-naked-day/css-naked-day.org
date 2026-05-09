@@ -1,7 +1,6 @@
 display = "BIID Info"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://biid-info.org/"

@@ -1,7 +1,6 @@
 display = "Prepaid Vergleich – Tarife"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.simkarten-aktion.de/"

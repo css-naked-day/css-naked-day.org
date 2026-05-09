@@ -1,7 +1,6 @@
 display = "fraggle.FM"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.fraggle.fm/"

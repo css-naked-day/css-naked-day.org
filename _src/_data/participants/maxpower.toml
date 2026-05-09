@@ -1,7 +1,6 @@
 display = "Maxpower"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.maxpower.ca/"

@@ -1,7 +1,6 @@
 display = "Spedition & Transporte"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.spedition-hellrung.de/"

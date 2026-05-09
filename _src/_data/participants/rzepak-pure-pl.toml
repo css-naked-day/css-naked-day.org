@@ -1,7 +1,6 @@
 display = "rzepak.pure.pl"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.rzepak.pure.pl/"

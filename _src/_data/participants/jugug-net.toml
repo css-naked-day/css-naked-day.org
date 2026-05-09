@@ -1,7 +1,6 @@
 display = "희주의 블로그 : jugug.net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://jugug.net/"

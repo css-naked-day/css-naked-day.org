@@ -1,7 +1,6 @@
 display = "suwaowa/kenmat"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://suwaowa.blogspot.com/"

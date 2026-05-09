@@ -1,7 +1,6 @@
 display = "和你在一起"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.singrun.com/"

@@ -1,7 +1,6 @@
 display = "wordpad.cc"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://wordpad.cc/"

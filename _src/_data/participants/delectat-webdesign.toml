@@ -1,7 +1,6 @@
 display = "Delectat Webdesign"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.delectat.de/"

@@ -1,7 +1,6 @@
 display = "freeQblog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.freeqworld.de/"

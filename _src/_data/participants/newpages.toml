@@ -1,7 +1,6 @@
 display = "Newpages"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.newpages.cn/"

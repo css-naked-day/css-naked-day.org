@@ -1,7 +1,6 @@
 display = "obed"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://www.obed.org.mx/"

@@ -1,7 +1,6 @@
 display = "Pheonix"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://liquira.com/"

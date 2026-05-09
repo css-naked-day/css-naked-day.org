@@ -1,7 +1,6 @@
 display = "DSNG blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.dsng.hu/"

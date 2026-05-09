@@ -1,7 +1,6 @@
 display = "chinahtml"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.chinahtml.com/"

@@ -1,7 +1,6 @@
 display = "femwerk Webdesign"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.femwerk.de/"

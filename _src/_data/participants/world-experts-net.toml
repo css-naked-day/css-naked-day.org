@@ -1,7 +1,6 @@
 display = "World Experts Net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://world-experts.net/"

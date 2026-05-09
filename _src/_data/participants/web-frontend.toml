@@ -1,7 +1,6 @@
 display = "web.Frontend"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://old9.blogsome.com/"

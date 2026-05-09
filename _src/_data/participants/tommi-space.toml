@@ -1,7 +1,6 @@
 display = "tommi.space"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://tommi.space/"

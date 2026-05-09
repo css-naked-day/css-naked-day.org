@@ -1,7 +1,6 @@
 display = "Libin Pan’s Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.libinpan.com/"

@@ -1,7 +1,6 @@
 display = "esn studio"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://eisabainyo.net/weblog"

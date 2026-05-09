@@ -1,7 +1,6 @@
 display = "WeBlog de JoEyInBoX"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.joeyinbox.net/"

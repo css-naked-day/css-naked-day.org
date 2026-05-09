@@ -1,7 +1,6 @@
 display = "xugglybug.co.uk"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://www.xugglybug.co.uk/"

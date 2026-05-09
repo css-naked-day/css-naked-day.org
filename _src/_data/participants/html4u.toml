@@ -1,7 +1,6 @@
 display = "html4u"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://html4u.pl/"

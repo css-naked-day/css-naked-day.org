@@ -1,7 +1,6 @@
 display = "Spionage Abhörschutz"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.shopping-alarm.de/"

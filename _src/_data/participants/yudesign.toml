@@ -1,7 +1,6 @@
 display = "yudesign"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.yudesign.cn/"

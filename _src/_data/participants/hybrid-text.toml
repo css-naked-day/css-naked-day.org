@@ -1,7 +1,6 @@
 display = "hybrid text"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://nuzl.com/"

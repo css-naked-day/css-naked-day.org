@@ -1,7 +1,6 @@
 display = "Accessify"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.accessify.com/"

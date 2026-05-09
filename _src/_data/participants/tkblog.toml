@@ -1,7 +1,6 @@
 display = "tkBlog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.tomaskafka.com/"

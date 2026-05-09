@@ -1,7 +1,6 @@
 display = "One Percent"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://chris.johnstone.id.au/blog"

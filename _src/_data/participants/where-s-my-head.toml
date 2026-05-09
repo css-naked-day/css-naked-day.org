@@ -1,7 +1,6 @@
 display = "Where’s My Head?"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.wheresmyhead.com/"

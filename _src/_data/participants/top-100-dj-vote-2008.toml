@@ -1,7 +1,6 @@
 display = "TOP 100 DJ VOTE 2008"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://top100dj.net/"

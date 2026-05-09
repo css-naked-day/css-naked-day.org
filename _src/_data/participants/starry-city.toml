@@ -1,7 +1,6 @@
 display = "Starry City"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://starrycity.com/"

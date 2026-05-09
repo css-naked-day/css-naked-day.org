@@ -1,7 +1,6 @@
 display = "Hannim"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://hannim.net/wp"

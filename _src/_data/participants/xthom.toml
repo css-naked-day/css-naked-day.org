@@ -1,7 +1,6 @@
 display = "XThom"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.gluchman.sk/"

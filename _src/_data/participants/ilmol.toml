@@ -1,12 +1,11 @@
 display = "Ilmol"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://ilmol.com/"
 title = "Ilmol"
 years = [
 	2006,
-	2007 
+	2007
 ]

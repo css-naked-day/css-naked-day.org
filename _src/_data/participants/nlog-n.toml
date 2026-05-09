@@ -1,14 +1,13 @@
 display = "nlog(n)"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://nlogn.ath.cx/"
 title = "nlog(n)"
 years = [
 	2007,
-	2009 
+	2009
 ]
 
 [[websites]]

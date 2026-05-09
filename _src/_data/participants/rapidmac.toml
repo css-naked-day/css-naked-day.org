@@ -1,7 +1,6 @@
 display = "RapidMac"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.rapidmac.com/"

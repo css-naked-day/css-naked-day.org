@@ -1,7 +1,6 @@
 display = "vbali blogja"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.linuxforge.hu/"

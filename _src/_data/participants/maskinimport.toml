@@ -1,7 +1,6 @@
 display = "Maskinimport"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.maskinimport.se/"

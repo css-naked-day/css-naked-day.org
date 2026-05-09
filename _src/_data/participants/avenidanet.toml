@@ -1,7 +1,6 @@
 display = "Avenidanet"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.avenidanet.com/blog"

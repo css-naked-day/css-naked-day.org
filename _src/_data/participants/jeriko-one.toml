@@ -1,7 +1,6 @@
 display = "Jeriko One"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.i-jeriko.de/"

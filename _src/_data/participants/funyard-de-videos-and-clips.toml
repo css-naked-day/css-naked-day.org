@@ -1,7 +1,6 @@
 display = "Funyard.de – Videos & Clips"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://funyard.de/"

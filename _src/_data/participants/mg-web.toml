@@ -1,7 +1,6 @@
 display = "MG Web"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://mg55.homeip.net/"

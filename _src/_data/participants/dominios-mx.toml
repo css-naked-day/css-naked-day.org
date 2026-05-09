@@ -1,7 +1,6 @@
 display = "dominios mx"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.rioserver.com/"

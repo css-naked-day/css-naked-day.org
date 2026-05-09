@@ -1,12 +1,11 @@
 display = "Reality: The Slow Race of Life"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.lostlogicx.com/"
 title = "Reality: The Slow Race of Life"
 years = [
 	2007,
-	2009 
+	2009
 ]

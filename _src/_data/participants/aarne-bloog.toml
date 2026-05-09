@@ -1,7 +1,6 @@
 display = "Aarne bloog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://toompark.pri.ee/aarne/"

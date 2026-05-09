@@ -1,7 +1,6 @@
 display = "NSA"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.tehnsa.ath.cx:4242/zenbb"

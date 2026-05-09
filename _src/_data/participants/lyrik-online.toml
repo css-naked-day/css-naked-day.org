@@ -1,7 +1,6 @@
 display = "Lyrik Online"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://www.lyrikonline.org/"

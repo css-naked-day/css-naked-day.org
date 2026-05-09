@@ -1,7 +1,6 @@
 display = "Invisible Window"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.invisiblewindow.com/notepad"

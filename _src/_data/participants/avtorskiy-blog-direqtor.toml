@@ -1,7 +1,6 @@
 display = "Авторский блог direqtor"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://shaman.asiadata.ru/"

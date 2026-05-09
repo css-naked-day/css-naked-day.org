@@ -1,7 +1,6 @@
 display = "媒体在线"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.mediaol.cn/"

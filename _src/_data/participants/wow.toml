@@ -1,7 +1,6 @@
 display = "WoW"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.mmogliderbot.de/"

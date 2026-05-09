@@ -1,7 +1,6 @@
 display = "7 Zip"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.7zip.gen.tr/"

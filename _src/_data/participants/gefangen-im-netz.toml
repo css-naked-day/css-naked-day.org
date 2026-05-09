@@ -1,7 +1,6 @@
 display = "gefangen im netz"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.spiderpc.de/"

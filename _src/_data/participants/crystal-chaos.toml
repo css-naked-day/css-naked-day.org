@@ -1,12 +1,11 @@
 display = "Crystal Chaos"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://crystal-chaos.pink-pistol.net/"
 title = "Crystal Chaos"
 years = [
 	2007,
-	2008 
+	2008
 ]

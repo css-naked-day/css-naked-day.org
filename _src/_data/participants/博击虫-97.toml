@@ -1,7 +1,6 @@
 display = "博击虫"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://combator.cn"

@@ -1,7 +1,6 @@
 display = "安化论坛"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.anhua.org/"

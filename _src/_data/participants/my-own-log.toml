@@ -1,7 +1,6 @@
 display = "my own log"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.nugrahadi.pramono.info/"

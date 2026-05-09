@@ -1,11 +1,10 @@
 display = "Holger Rüprich"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.rueprich.de/"
 years = [
 	2007,
-	2009 
+	2009
 ]

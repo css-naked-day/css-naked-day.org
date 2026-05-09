@@ -1,7 +1,6 @@
 display = "XJiang blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.webforu.cn"

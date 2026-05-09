@@ -1,7 +1,6 @@
 display = "Sheep"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://web.fi.uba.ar/~spark"

@@ -1,7 +1,6 @@
 display = "BrokenLogic"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://atdpweb.berkeley.edu/brokenlogic/"

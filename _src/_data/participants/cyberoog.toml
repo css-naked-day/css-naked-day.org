@@ -1,7 +1,6 @@
 display = "Cyberoog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.cyberoog.de/"

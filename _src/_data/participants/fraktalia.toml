@@ -1,7 +1,6 @@
 display = "fraktalia"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.fraktal.org/"

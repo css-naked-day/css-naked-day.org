@@ -1,7 +1,6 @@
 display = "ai-em"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.ai-em.net/"

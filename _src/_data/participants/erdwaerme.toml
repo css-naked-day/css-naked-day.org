@@ -1,7 +1,6 @@
 display = "Erdwärme"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.erdwaerme-loesung.de/"

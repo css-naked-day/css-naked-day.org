@@ -1,7 +1,6 @@
 display = "produktvergleichr"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.produktvergleichr.de/"

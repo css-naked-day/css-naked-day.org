@@ -1,7 +1,6 @@
 display = "Eduardo Aguayo’s personal site"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.aguayoki.cl/"

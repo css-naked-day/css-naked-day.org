@@ -1,7 +1,6 @@
 display = "risk yönetimi istatistik"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://riziko.wordpress.com/"

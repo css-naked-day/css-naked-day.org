@@ -1,7 +1,6 @@
 display = "xlab"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.xlab.somee.com/"

@@ -1,7 +1,6 @@
 display = "tension.name"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://tension.name/"

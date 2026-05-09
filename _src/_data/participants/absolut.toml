@@ -1,7 +1,6 @@
 display = "absolut"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.olnev.com/"

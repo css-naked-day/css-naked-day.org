@@ -1,7 +1,6 @@
 display = "Site Offline"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.siteoffline.com/"

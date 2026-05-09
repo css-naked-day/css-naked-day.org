@@ -1,7 +1,6 @@
 display = "liencf"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://liencf.com/"

@@ -1,7 +1,6 @@
 display = "runoo"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.runoo.com/"

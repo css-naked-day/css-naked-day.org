@@ -1,7 +1,6 @@
 display = "blog@ben"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://bpruneau.blogspot.com/"

@@ -1,7 +1,6 @@
 display = "Global Spin"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://globalspin.com/"

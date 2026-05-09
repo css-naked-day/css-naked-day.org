@@ -1,7 +1,6 @@
 display = "reod project"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://ra.jogger.pl/"

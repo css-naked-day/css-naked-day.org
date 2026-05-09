@@ -1,7 +1,6 @@
 display = "RWS Football"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.rwsfootball.co.uk"

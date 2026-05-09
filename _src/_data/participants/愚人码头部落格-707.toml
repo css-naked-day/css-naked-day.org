@@ -1,7 +1,6 @@
 display = "愚人码头部落格"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.ajoys.com/"

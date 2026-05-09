@@ -1,7 +1,6 @@
 display = "明星风云录"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.fengyunlu.com/"

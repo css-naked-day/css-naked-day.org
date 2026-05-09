@@ -1,7 +1,6 @@
 display = "ebro Web Development"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ebro.ch/"

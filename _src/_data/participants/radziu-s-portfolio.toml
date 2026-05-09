@@ -1,7 +1,6 @@
 display = "Radziu’s portfolio"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.radziu.art.pl"

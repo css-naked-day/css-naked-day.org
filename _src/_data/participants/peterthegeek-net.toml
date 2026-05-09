@@ -1,7 +1,6 @@
 display = "Peterthegeek.net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://peteref.com/wordpress/"

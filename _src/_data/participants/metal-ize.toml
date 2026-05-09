@@ -1,7 +1,6 @@
 display = "metal.ize"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://metalize.liveonstyle.com/"

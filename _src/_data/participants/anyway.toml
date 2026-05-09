@@ -1,7 +1,6 @@
 display = "anyway"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.anyway.com.tw/"

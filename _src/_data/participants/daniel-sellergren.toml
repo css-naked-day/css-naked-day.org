@@ -1,7 +1,6 @@
 display = "Daniel Sellergren"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://danielsellergren.com/"
@@ -9,5 +8,5 @@ title = "Daniel Sellergren"
 years = [
 	2021,
 	2023,
-	2024 
+	2024
 ]

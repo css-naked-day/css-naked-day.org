@@ -1,7 +1,6 @@
 display = "NOM"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://wearenom.com/"

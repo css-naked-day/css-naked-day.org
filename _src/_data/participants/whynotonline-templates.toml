@@ -1,7 +1,6 @@
 display = "whynotonline templates"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://templates.whynotonline.com/"

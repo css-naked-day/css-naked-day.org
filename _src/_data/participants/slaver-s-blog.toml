@@ -1,12 +1,11 @@
 display = "Slaver’s Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://slaver.info/"
 title = "Slaver’s Blog"
 years = [
 	2008,
-	2009 
+	2009
 ]

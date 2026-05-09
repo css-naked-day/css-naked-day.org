@@ -1,7 +1,6 @@
 display = "Bikes & More"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.bikie.de/"

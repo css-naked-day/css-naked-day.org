@@ -1,7 +1,6 @@
 display = "choixstory"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://choixstory.tistory.com/"

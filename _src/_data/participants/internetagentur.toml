@@ -1,7 +1,6 @@
 display = "Internetagentur"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.websedit.de/"

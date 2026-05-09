@@ -1,7 +1,6 @@
 display = "100% design"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://www.100la100design.ro/"
@@ -9,5 +8,5 @@ title = "100% design"
 years = [
 	2007,
 	2008,
-	2009 
+	2009
 ]

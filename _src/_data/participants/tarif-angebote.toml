@@ -1,7 +1,6 @@
 display = "Tarif-Angebote"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://tarif-angebote.de/"

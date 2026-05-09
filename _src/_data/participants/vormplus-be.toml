@@ -1,7 +1,6 @@
 display = "vormplus.be"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.vormplus.be/"

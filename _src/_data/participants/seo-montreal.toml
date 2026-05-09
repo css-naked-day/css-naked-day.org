@@ -1,7 +1,6 @@
 display = "seo montreal"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.samuellavoie.com/"

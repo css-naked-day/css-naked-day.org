@@ -1,7 +1,6 @@
 display = "QuickShare blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://msblog.cz/"

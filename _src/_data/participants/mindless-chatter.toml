@@ -1,7 +1,6 @@
 display = "Mindless Chatter"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.justincox.com/"

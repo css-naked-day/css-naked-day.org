@@ -1,7 +1,6 @@
 display = "Eshine :-)"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.eshine.de/"

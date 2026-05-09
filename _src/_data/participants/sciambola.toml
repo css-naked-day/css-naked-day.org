@@ -1,7 +1,6 @@
 display = "Sciambola!"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.sciambola.org/"

@@ -1,7 +1,6 @@
 display = "Astronomy Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.strudel.org.uk/blog/astro/index.shtml"

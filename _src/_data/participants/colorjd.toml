@@ -1,7 +1,6 @@
 display = "colorjd"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://life.colorjd.com/"

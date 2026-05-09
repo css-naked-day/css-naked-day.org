@@ -1,7 +1,6 @@
 display = "Macelodeon (Stegoe)"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://macelodeon.de/"

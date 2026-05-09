@@ -1,7 +1,6 @@
 display = "buryta.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.buryta.com/"

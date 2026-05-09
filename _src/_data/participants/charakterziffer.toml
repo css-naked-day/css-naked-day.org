@@ -1,7 +1,6 @@
 display = "charakterziffer"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://charakterziffer.github.io/"

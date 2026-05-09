@@ -1,7 +1,6 @@
 display = "vast.fatal.ru"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://vast.fatal.ru/"

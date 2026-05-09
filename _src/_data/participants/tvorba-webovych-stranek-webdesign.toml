@@ -1,7 +1,6 @@
 display = "Tvorba webových stránek (Webdesign)"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.princ.name/"

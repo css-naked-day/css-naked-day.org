@@ -1,7 +1,6 @@
 display = "CSSForest"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.cssforest.org/blog"

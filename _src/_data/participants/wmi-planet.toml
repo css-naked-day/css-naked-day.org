@@ -1,7 +1,6 @@
 display = "WMI Planet"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://planet.wmid.amu.edu.pl/"

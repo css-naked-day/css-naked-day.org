@@ -1,7 +1,6 @@
 display = "blogged on"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blogged-on.de/"

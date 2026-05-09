@@ -1,7 +1,6 @@
 display = "Left or Right"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.left-or-right.com/"

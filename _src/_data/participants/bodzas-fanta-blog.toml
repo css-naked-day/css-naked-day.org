@@ -1,7 +1,6 @@
 display = "Bodzás Fanta blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://bodzasfanta.freeblog.hu/"

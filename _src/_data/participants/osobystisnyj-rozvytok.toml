@@ -1,7 +1,6 @@
 display = "Osobystisnyj rozvytok"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.rozvytok.co.ua/"

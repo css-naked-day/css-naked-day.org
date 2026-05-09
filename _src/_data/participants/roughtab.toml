@@ -1,7 +1,6 @@
 display = "roughtab"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.roughtab.com/blog/"

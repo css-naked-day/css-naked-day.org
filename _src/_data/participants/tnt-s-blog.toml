@@ -1,7 +1,6 @@
 display = "TNT’s Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://tnt.1980th.com/"

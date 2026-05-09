@@ -1,12 +1,11 @@
 display = "Supreme Headshot Killers"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.shk-clan.de/"
 title = "Supreme Headshot Killers"
 years = [
 	2008,
-	2009 
+	2009
 ]

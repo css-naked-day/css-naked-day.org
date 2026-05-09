@@ -1,7 +1,6 @@
 display = "Kefasek Website"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.kefasek.boo.pl/"

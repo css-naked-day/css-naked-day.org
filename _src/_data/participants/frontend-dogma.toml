@@ -1,7 +1,6 @@
 display = "Frontend Dogma"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://frontenddogma.com/"
@@ -15,7 +14,6 @@ years = [
 ]
 
 # Accounts
-# ------------------------------------------------------------------------------
 
 [[accounts]]
 type = "Mastodon"

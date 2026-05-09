@@ -1,7 +1,6 @@
 display = "RPS"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://rps.rigtersir.com/"

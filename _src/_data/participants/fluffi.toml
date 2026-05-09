@@ -1,7 +1,6 @@
 display = "Fluffi"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.winzipp.org/"

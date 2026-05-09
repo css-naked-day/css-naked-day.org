@@ -1,7 +1,6 @@
 display = "Stopdesign"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://stopdesign.com/"

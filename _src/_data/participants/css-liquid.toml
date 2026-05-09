@@ -1,7 +1,6 @@
 display = "CSS Liquid"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://cssliquid.com/"

@@ -1,7 +1,6 @@
 display = "News for Greens"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.newsforgreens.com/"

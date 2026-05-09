@@ -1,7 +1,6 @@
 display = "reality.hk"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.reality.hk/"

@@ -1,7 +1,6 @@
 display = "Shaka Web"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://shakaweb.org/"

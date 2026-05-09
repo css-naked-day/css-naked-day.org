@@ -1,7 +1,6 @@
 display = "Bodyboard"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.bodyboard.se/"

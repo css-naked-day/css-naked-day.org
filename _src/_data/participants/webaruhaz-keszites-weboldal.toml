@@ -1,7 +1,6 @@
 display = "webáruház készítés, weboldal"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2007/http://netpromo.hu/"

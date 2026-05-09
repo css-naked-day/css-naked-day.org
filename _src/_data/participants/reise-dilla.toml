@@ -1,7 +1,6 @@
 display = "Reise dilla"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://reisedilla.no/"

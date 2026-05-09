@@ -1,7 +1,6 @@
 display = "一个藏袍"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.example.net.cn/"

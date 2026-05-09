@@ -1,7 +1,6 @@
 display = "bujarek"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://mabuj.jogger.pl/"

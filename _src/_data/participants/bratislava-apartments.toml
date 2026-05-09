@@ -1,7 +1,6 @@
 display = "Bratislava Apartments"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.bratislavahotels.com/bratislava-apartments"

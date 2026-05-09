@@ -1,7 +1,6 @@
 display = "Parrfolio"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.parrfolio.com/"

@@ -1,7 +1,6 @@
 display = "Wisdump"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://wisdump.com/"

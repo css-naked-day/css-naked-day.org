@@ -1,7 +1,6 @@
 display = "amici del muretto"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.amicidelmuretto.org/"

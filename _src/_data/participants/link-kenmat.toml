@@ -1,7 +1,6 @@
 display = "link!/kenmat"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://linklink.wordpress.com/"

@@ -1,7 +1,6 @@
 display = "Valderhaugs"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://danielbv.hotserv.dk/"

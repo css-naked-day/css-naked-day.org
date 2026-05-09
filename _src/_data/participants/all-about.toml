@@ -1,7 +1,6 @@
 display = "All about"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.melvin.ru/"

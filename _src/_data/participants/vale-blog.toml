@@ -1,7 +1,6 @@
 display = "vale[ blog ]"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.valerauko.net/"

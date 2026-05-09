@@ -1,7 +1,6 @@
 display = "1000Volt"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://1000volt.se/"

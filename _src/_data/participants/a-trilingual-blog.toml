@@ -1,7 +1,6 @@
 display = "A Trilingual Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.buyruk.net/blog/"

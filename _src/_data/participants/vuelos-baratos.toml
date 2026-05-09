@@ -1,7 +1,6 @@
 display = "Vuelos baratos"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://devuelosbaratos.es/"

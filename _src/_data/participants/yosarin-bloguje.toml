@@ -1,7 +1,6 @@
 display = "Yosarin Bloguje"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blok.yosarin.net/"

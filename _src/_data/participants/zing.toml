@@ -1,7 +1,6 @@
 display = "zing"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://zingyu.blogbus.com/"

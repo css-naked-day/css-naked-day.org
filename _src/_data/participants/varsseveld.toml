@@ -1,7 +1,6 @@
 display = "varsseveld"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.scvarsseveld.nl"

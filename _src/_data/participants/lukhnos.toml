@@ -1,7 +1,6 @@
 display = "Lukhnos"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://lukhnos.org/blog/zh/"

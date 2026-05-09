@@ -1,7 +1,6 @@
 display = "Keukens"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.keukenintermediair.nl/"

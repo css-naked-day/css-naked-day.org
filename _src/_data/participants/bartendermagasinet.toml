@@ -1,7 +1,6 @@
 display = "Bartendermagasinet"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.bartender.dk/blog/"

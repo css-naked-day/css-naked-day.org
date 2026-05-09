@@ -1,7 +1,6 @@
 display = "Guillermo Esteves"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.gesteves.com/"
@@ -13,7 +12,7 @@ url   = "http://guillermoesteves.com/"
 title = "Guillermo Esteves"
 years = [
 	2007,
-	2008 
+	2008
 ]
 
 [[websites]]

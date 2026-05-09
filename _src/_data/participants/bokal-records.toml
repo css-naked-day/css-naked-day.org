@@ -1,7 +1,6 @@
 display = "Bokal Records"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.bokal.eu/"

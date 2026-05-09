@@ -1,7 +1,6 @@
 display = "Build that Geek"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://conradmiguel.com/"

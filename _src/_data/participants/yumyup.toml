@@ -1,7 +1,6 @@
 display = "YumYup"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.yumyup.unbeknownst-music.org/"

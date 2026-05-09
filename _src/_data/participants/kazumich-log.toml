@@ -1,12 +1,11 @@
 display = "kazumich.log"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://kazumich.com/"
 title = "kazumich.log"
 years = [
 	2008,
-	2009 
+	2009
 ]

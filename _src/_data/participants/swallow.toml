@@ -1,7 +1,6 @@
 display = "swallow"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://dmedia.centerbbs.com/blog/"

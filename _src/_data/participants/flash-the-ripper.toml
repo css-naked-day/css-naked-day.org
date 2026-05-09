@@ -1,7 +1,6 @@
 display = "Flash The Ripper"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://flash-ripper.com/"

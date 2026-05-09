@@ -1,7 +1,6 @@
 display = "Dustin Diaz"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.dustindiaz.com/"
@@ -9,5 +8,5 @@ title = "Dustin Diaz"
 years = [
 	2007,
 	2008,
-	2009 
+	2009
 ]

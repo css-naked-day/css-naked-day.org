@@ -1,7 +1,6 @@
 display = "conBLOG"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.converter.cz/"

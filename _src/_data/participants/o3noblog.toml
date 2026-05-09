@@ -1,7 +1,6 @@
 display = "O3noBLOG"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.othree.net/"

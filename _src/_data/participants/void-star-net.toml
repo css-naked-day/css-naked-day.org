@@ -1,7 +1,6 @@
 display = "void-star.net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://void-star.net/"

@@ -1,7 +1,6 @@
 display = "Cleanstick"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://cleanstick.net/planet/"

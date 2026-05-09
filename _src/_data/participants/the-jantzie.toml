@@ -1,7 +1,6 @@
 display = "the jantzie"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.jantzie.com/"

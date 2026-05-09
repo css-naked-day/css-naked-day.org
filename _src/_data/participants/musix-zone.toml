@@ -1,7 +1,6 @@
 display = "Musix Zone"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://musixzone.com/"

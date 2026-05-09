@@ -1,7 +1,6 @@
 display = "Lion’s Fart"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.kezele.com"
@@ -13,5 +12,5 @@ url   = "https://web.archive.org/web/http://lionsfart.com/"
 title = "Lion’s Fart"
 years = [
 	2008,
-	2009 
+	2009
 ]

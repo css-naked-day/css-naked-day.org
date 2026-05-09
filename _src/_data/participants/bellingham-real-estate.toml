@@ -1,7 +1,6 @@
 display = "Bellingham Real Estate"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://ryanmartinrealestate.com/"

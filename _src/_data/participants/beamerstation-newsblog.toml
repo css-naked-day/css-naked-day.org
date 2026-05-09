@@ -1,7 +1,6 @@
 display = "BeamerStation Newsblog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.beamerstation.de/"

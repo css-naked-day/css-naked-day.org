@@ -1,7 +1,6 @@
 display = "redbrick’s private Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.redbrick.de/"

@@ -1,7 +1,6 @@
 display = "Gwen"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://oui-ja.de/"

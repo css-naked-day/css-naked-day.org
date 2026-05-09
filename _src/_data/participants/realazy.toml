@@ -1,7 +1,6 @@
 display = "realazy"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://realazy.org/blog/"

@@ -1,7 +1,6 @@
 display = "Phixarmedia"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.phixarmedia.com/"

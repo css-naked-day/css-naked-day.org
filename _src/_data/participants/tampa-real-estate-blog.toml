@@ -1,7 +1,6 @@
 display = "Tampa Real Estate Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.tampa-real-estate-blog.com/"

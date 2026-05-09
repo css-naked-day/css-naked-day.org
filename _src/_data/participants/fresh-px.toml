@@ -1,7 +1,6 @@
 display = "Fresh PX"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://freshpx.com/"

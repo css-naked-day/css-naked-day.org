@@ -1,7 +1,6 @@
 display = "Decryption of the Encrypted"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://nima.malloc.us/"

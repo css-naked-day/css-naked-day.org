@@ -1,7 +1,6 @@
 display = "Prenumerera"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.magazines.se/"

@@ -1,7 +1,6 @@
 display = "David Russell"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.davidblog.com/"
@@ -13,5 +12,5 @@ url   = "https://web.archive.org/web/http://davidrussell.org/"
 title = "David Russell"
 years = [
 	2007,
-	2008 
+	2008
 ]

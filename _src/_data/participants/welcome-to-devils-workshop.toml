@@ -1,7 +1,6 @@
 display = "Welcome To Devils Workshop"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.devilsworkshop.org/"

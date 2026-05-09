@@ -1,7 +1,6 @@
 display = "Our Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://lolicalee.com/"

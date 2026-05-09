@@ -1,7 +1,6 @@
 display = "AS-Webdesign"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.aswebdesign.co.uk/"

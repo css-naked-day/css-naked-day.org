@@ -1,7 +1,6 @@
 display = "csask站长日志"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://www.csask.com/blog"

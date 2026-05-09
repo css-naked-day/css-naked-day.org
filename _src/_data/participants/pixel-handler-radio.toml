@@ -1,7 +1,6 @@
 display = "Pixel Handler Radio"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.pixelhandler.com/"

@@ -1,7 +1,6 @@
 display = "Talk is cheap…"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://arda.pardusman.org/blog/"

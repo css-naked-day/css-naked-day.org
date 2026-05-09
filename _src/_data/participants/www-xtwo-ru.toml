@@ -1,7 +1,6 @@
 display = "www.xtwo.ru"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.xtwo.ru/"

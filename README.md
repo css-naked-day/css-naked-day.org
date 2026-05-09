@@ -118,7 +118,6 @@ email     = "joan@example.com"              # [optional]
 username  = "jelm"                          # [optional]
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://css-naked-day.org/"
@@ -131,7 +130,6 @@ title = "JS Naked Day"
 years = [2010]
 
 # Accounts [optional]
-# ------------------------------------------------------------------------------
 
 [[accounts]]
 type = "Mastodon"

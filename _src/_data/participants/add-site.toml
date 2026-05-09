@@ -1,7 +1,6 @@
 display = "add site"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://comline.awardspace.com/"

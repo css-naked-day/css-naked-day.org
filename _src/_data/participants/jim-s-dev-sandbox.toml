@@ -1,7 +1,6 @@
 display = "Jim’s Dev Sandbox"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.jaaulde.com/"

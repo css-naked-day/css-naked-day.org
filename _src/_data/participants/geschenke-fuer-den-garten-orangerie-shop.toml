@@ -1,7 +1,6 @@
 display = "Geschenke für den Garten: Orangerie-Shop"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.orangerie-shop.de/"

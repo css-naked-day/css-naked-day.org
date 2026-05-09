@@ -1,7 +1,6 @@
 display = "Crml"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://crml.blogspot.com/"

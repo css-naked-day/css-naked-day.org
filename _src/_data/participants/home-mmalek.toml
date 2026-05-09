@@ -1,7 +1,6 @@
 display = "/home/mmalek"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.mmalek.pl/"

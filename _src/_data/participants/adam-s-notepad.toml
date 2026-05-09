@@ -1,7 +1,6 @@
 display = "Adam’s Notepad"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://notepad.jslab.net/"

@@ -1,7 +1,6 @@
 display = "Niklas Lindgren"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.nikc.org/"

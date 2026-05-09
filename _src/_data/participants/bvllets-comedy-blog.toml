@@ -1,7 +1,6 @@
 display = "Bvllets' Comedy Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.wtfis.com"

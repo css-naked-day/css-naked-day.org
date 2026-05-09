@@ -1,7 +1,6 @@
 display = "Mike’s Geek Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://geek.michaelgrace.org/"

@@ -1,7 +1,6 @@
 display = "Webseite von Christian Berendt"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.thorlin.de/"

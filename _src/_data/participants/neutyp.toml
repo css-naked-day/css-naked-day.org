@@ -1,7 +1,6 @@
 display = "NeuTyp"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://neutyp.com/"

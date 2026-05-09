@@ -1,7 +1,6 @@
 display = "HORSES FOR SALE"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.cavalos.com.pt/"

@@ -1,7 +1,6 @@
 display = "Vendita Vini"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.lacompagniadelcavatappi.it/"

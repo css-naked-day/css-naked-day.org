@@ -1,7 +1,6 @@
 display = "Bernie Zimmermann"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://www.bernzilla.com/"
@@ -9,5 +8,5 @@ title = "Bernie Zimmermann"
 years = [
 	2006,
 	2008,
-	2009 
+	2009
 ]

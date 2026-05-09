@@ -1,7 +1,6 @@
 display = "Websites That Don’t Suck"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://websitesthatdontsuck.com/"

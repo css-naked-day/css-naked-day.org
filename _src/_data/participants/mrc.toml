@@ -1,7 +1,6 @@
 display = "Mrc"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://pionentes.net/"

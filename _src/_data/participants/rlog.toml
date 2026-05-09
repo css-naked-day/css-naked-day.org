@@ -1,7 +1,6 @@
 display = "rlog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://rlog.cn/blog"
@@ -13,5 +12,5 @@ url   = "https://web.archive.org/web/http://rlog.cn/"
 title = "Rlog"
 years = [
 	2008,
-	2009 
+	2009
 ]

@@ -1,7 +1,6 @@
 display = "카우리"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://gaury.pe.kr/"

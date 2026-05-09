@@ -1,7 +1,6 @@
 display = "yang’s blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://opennet.net.cn/"

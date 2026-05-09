@@ -1,7 +1,6 @@
 display = "Web Optimizator"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://webo.in/"

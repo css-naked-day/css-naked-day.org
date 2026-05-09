@@ -1,7 +1,6 @@
 display = "El Paso Futbol Sala"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.elpasofutbol.com/"

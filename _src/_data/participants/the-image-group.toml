@@ -1,7 +1,6 @@
 display = "The Image Group"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.imagegroup.com/"

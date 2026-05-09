@@ -1,7 +1,6 @@
 display = "dtamas' blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.dtamas.dynamo.hu/"

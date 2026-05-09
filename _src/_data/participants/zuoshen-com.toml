@@ -1,7 +1,6 @@
 display = "作甚@ZUOSHEN.COM"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://zuoshen.com/"

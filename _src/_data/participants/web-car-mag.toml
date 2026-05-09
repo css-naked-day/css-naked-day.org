@@ -1,7 +1,6 @@
 display = "Web Car Mag"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://webcarmag.ifastnet.com/"

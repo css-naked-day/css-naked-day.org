@@ -1,7 +1,6 @@
 display = "easyOne’s story"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://easyone.tistory.com/"

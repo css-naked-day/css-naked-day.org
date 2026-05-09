@@ -1,7 +1,6 @@
 display = "Baggie"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.rockpaperfire.com/baggie"

@@ -1,7 +1,6 @@
 display = "Tobias Sjösten"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://vvv.tobiassjosten.net/javascript/introducing-cssnakedday-js/"

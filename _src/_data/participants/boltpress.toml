@@ -1,12 +1,11 @@
 display = "BoltPress"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.novalistic.com/"
 title = "BoltPress"
 years = [
 	2008,
-	2009 
+	2009
 ]

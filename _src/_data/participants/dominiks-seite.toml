@@ -1,7 +1,6 @@
 display = "Dominiks Seite"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.dasgib.de/"

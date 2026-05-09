@@ -1,7 +1,6 @@
 display = "Simon Willison"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://simon.incutio.com/"

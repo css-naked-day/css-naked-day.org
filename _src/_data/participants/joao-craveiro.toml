@@ -1,7 +1,6 @@
 display = "João Craveiro"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://weblog.jcraveiro.com/"

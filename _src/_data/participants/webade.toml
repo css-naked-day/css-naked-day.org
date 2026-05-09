@@ -1,7 +1,6 @@
 display = "Webade"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.webade.eu/"

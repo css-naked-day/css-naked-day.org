@@ -1,7 +1,6 @@
 display = "Caziam"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.fluxplay.com/fp"

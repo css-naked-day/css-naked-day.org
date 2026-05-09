@@ -1,7 +1,6 @@
 display = "Stuart Langridge"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.kryogenix.org/days/"

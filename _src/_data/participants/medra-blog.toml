@@ -1,7 +1,6 @@
 display = "Medra – blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://medra.jogger.pl/"

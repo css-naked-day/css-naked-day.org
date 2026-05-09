@@ -1,7 +1,6 @@
 display = "China tiket "
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.yoolcool.com/"

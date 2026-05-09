@@ -1,7 +1,6 @@
 display = "iOracle"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://ioracle.ru/"

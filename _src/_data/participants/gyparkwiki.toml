@@ -1,7 +1,6 @@
 display = "GyparkWiki"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://gypark.pe.kr/wiki"

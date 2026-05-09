@@ -1,7 +1,6 @@
 display = "number 9"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://number9.hellooperator.net/"

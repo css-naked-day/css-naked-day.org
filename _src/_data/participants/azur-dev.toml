@@ -1,7 +1,6 @@
 display = "Azur Dev"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://azur.ironie.org/"

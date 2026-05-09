@@ -1,7 +1,6 @@
 display = "Intertwingly"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://intertwingly.net/blog/"

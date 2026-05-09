@@ -1,7 +1,6 @@
 display = "Skim"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.skimspots.com/"

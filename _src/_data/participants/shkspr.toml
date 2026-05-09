@@ -1,7 +1,6 @@
 display = "Terence Eden's Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://shkspr.mobi/blog/"

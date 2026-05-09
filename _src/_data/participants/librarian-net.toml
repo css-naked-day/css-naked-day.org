@@ -1,7 +1,6 @@
 display = "librarian.net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://librarian.net/"

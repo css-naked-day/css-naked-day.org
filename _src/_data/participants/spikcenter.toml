@@ -1,7 +1,6 @@
 display = "SpikCenter"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://spik.webpark.pl/"

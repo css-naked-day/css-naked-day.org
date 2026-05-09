@@ -1,7 +1,6 @@
 display = "Making XKCD Slightly Worse"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://xkcdsw.com/"

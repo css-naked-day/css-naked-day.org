@@ -1,7 +1,6 @@
 display = "Sash"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://saschaweidner.de/"

@@ -1,7 +1,6 @@
 display = "Блог FX'а"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.fxposter.org/"

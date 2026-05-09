@@ -1,7 +1,6 @@
 display = "Tinendo Studio."
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.tinendo.de/"

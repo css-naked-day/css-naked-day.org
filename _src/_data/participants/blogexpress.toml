@@ -1,7 +1,6 @@
 display = "BlogExpress"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blogexpress.altervista.org/"

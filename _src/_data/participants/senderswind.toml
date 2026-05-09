@@ -1,7 +1,6 @@
 display = "Senderswind"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.senderswind.at/"

@@ -1,7 +1,6 @@
 display = "Gine"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ginelli.it/blog/"

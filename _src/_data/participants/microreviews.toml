@@ -1,7 +1,6 @@
 display = "MicroReviews"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://microrevie.ws/"

@@ -1,7 +1,6 @@
 display = "holst.notes"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://holst.biz/notes/"

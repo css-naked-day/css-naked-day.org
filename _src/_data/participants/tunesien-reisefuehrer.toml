@@ -1,7 +1,6 @@
 display = "Tunesien Reiseführer"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.tunesien-infos.de/"

@@ -1,7 +1,6 @@
 display = "Remember to blink"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.remembertoblink.co.uk/"

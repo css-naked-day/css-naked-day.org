@@ -1,7 +1,6 @@
 display = "Phoenix"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.phoenix-medien.de/"

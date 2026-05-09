@@ -1,7 +1,6 @@
 display = "insult generator"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.insultme.net/"

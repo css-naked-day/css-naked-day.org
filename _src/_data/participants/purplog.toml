@@ -1,7 +1,6 @@
 display = "purplog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://englover.cafe24.com/purplog"

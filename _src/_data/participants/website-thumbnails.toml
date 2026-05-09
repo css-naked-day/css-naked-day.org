@@ -1,7 +1,6 @@
 display = "Website thumbnails"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.websitethumbnails.net/"

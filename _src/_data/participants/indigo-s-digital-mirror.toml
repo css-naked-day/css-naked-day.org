@@ -1,7 +1,6 @@
 display = "indigo’s digital mirror"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://indigos.cn/"

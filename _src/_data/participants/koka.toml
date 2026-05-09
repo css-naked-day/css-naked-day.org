@@ -1,7 +1,6 @@
 display = "Koka"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.4thcube.de/blog"

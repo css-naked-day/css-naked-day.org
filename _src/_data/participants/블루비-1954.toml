@@ -1,7 +1,6 @@
 display = "블루비"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blueb.net/blog"

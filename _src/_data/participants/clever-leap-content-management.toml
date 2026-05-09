@@ -1,7 +1,6 @@
 display = "Clever Leap content management"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.cleverleap.com/"

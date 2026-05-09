@@ -1,7 +1,6 @@
 display = "Web Starters"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.web-starters.net/"

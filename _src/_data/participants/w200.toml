@@ -1,7 +1,6 @@
 display = "w200"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.w200i.info/"

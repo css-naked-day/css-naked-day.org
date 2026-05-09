@@ -1,7 +1,6 @@
 display = "CreativeBits Srudio"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.creativebits.it/"

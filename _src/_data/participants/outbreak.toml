@@ -1,7 +1,6 @@
 display = "Outbreak"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://friedcellcollective.net/outbreak/"

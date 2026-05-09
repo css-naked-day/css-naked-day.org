@@ -1,7 +1,6 @@
 display = "Book Two"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://booktwo.org/"

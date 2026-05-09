@@ -1,7 +1,6 @@
 display = "netdirectsales"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.nds.uk.com/"

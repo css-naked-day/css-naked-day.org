@@ -1,7 +1,6 @@
 display = "Bibula alternatiff magazine"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://bibart.info/bibula/index.php"

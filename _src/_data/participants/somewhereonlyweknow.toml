@@ -1,7 +1,6 @@
 display = "SomewhereOnlyWeKnow"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://my.opera.com/SOSoul/blog/"

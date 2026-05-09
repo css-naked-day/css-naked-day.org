@@ -1,7 +1,6 @@
 display = "zenra"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://zenra.wordpress.com/"

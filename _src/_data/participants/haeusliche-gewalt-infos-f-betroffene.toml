@@ -1,7 +1,6 @@
 display = "Häusliche Gewalt-Infos f. Betroffene"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.gewaltschutz.info/"

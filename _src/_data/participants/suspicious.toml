@@ -1,7 +1,6 @@
 display = "Suspicious"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://suspicious.tumblr.com/"

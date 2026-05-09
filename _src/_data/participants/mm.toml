@@ -1,7 +1,6 @@
 display = "偶和偶MM"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.onomm.com/roller"

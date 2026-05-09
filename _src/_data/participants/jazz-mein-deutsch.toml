@@ -1,7 +1,6 @@
 display = "Jazz mein Deutsch"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://checkbox.twoday.net/"

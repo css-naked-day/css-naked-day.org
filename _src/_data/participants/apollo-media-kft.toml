@@ -1,7 +1,6 @@
 display = "Apolló Média Kft"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://apollomedia.hu/"

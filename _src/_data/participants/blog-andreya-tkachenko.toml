@@ -1,7 +1,6 @@
 display = "Блог Андрея Ткаченко"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://aver.kiev.ua/"

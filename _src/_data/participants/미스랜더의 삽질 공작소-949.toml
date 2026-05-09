@@ -1,7 +1,6 @@
 display = "미스랜더의 삽질 공작소"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://tisphie.net/typo"

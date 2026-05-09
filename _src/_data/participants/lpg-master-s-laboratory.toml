@@ -1,7 +1,6 @@
 display = "LpG_Master’s Laboratory"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://lirasoft.tistory.com"

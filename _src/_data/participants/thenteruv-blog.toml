@@ -1,7 +1,6 @@
 display = "Thenterův blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://thenter.bloguje.cz/"

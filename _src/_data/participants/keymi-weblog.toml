@@ -1,7 +1,6 @@
 display = "Keymi'Weblog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.keymi.cn/"

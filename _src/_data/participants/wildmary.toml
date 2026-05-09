@@ -1,7 +1,6 @@
 display = "Wildmary"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://wildmary.net-sauvage.com/weblog"

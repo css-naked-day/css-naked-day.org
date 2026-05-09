@@ -1,7 +1,6 @@
 display = "Christian Rieger personal Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.christianrieger.de/"

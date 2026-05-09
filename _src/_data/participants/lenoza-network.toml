@@ -1,7 +1,6 @@
 display = "Lenoza Network"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://seo.lenoza.com/"

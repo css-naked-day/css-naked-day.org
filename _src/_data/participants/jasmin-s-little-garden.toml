@@ -1,7 +1,6 @@
 display = "jasmin’s little garden"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/https://jasminchen.dev/"

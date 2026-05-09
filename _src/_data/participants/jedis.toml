@@ -1,7 +1,6 @@
 display = "JEDIS"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://jedis.aspweb.cz/"

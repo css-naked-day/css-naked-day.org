@@ -1,7 +1,6 @@
 display = "陳凱劭的BLOG"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.kaishao.idv.tw/"

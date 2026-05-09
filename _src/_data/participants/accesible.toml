@@ -1,7 +1,6 @@
 display = "Accesible"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.accesible.com.ar/"

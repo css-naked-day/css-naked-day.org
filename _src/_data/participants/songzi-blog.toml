@@ -1,7 +1,6 @@
 display = "songzi blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.songzi.org/blog"

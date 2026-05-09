@@ -1,7 +1,6 @@
 display = "adactio"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://adactio.com/"

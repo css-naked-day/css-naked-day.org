@@ -1,7 +1,6 @@
 display = "WordZine"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://wordzine.cn/"

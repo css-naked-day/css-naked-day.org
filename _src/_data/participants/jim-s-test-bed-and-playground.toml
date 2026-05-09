@@ -1,7 +1,6 @@
 display = "Jim’s test bed and playground"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.jaaulde.com/"

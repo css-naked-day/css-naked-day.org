@@ -1,7 +1,6 @@
 display = "Koogar"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.koogar.co.uk/"

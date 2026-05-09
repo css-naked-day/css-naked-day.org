@@ -1,7 +1,6 @@
 display = "Resistan"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.naxer.net/"

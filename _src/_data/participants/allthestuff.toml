@@ -1,7 +1,6 @@
 display = "Allthestuff"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://wp.vocz.ru/"

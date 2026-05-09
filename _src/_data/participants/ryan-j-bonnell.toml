@@ -1,12 +1,11 @@
 display = "Ryan J. Bonnell"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://ryanjbonnell.com/"
 title = "Ryan J. Bonnell"
 years = [
 	2006,
-	2007 
+	2007
 ]

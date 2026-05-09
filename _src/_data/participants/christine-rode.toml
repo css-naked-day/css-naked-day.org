@@ -1,7 +1,6 @@
 display = "Christine Røde"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://inexistent.org/"

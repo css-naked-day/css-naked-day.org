@@ -1,7 +1,6 @@
 display = "Медицинское сообщество"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://medsocium.com/"

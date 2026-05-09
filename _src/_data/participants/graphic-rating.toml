@@ -1,7 +1,6 @@
 display = "Graphic Rating"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.graphicrating.com/"

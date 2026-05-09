@@ -1,7 +1,6 @@
 display = "adjustafresh"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://adjustafresh.com/"

@@ -1,7 +1,6 @@
 display = "ceglie"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ceglieplurale.it/blog/"

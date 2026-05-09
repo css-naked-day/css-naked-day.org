@@ -1,7 +1,6 @@
 display = "Tutorials.cz – all about tutorials to PS"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.tutorials.cz/"

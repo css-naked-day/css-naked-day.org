@@ -1,7 +1,6 @@
 display = "Ceдьmoй Сайт"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://7thsite.ru/"

@@ -1,7 +1,6 @@
 display = "Prescott Websites"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://prescottazwebsites.com/blog"

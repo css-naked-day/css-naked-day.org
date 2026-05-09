@@ -1,7 +1,6 @@
 display = "Videos gratis"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://devideosgratis.com/"

@@ -1,7 +1,6 @@
 display = "Internetagentur Berlin"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.qlworx.de/"

@@ -1,7 +1,6 @@
 display = "肿瘤治疗网"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.tuanzhang.org.cn/"

@@ -1,7 +1,6 @@
 display = "The Web Blog of Alex Fraiser"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2007/http://alexfraiser.com/"

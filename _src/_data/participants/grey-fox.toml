@@ -1,7 +1,6 @@
 display = "Grey Fox"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://hacktek.net/"

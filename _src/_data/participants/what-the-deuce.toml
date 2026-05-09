@@ -1,7 +1,6 @@
 display = "What the deuce"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.whatthedeuce.co.nz/"

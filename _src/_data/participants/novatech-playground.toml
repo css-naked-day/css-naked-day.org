@@ -1,7 +1,6 @@
 display = "novatech playground"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://wan.pengganas.net/"

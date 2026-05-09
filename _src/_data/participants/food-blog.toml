@@ -1,7 +1,6 @@
 display = "Food blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://foodblog.sk/"

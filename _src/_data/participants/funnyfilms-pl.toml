@@ -1,7 +1,6 @@
 display = "FunnyFilms.pl"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.funnyfilms.pl/"

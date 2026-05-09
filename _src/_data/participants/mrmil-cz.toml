@@ -1,7 +1,6 @@
 display = "Mrmil.cz"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.mrmil.cz/"

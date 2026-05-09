@@ -1,7 +1,6 @@
 display = "mixfog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.mixfog.com/blog"

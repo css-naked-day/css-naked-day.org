@@ -1,7 +1,6 @@
 display = "Twoplayer"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.twoplayer.net/"

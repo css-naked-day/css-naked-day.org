@@ -1,7 +1,6 @@
 display = "Proto"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://proto.garden/"

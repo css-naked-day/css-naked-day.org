@@ -1,7 +1,6 @@
 display = "Die CVJM in Nürnberg"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.cvjm-nuernberg.de/"

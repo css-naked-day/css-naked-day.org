@@ -1,7 +1,6 @@
 display = "Rawrville"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://iaman.leafo.net/"

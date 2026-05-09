@@ -1,7 +1,6 @@
 display = "uebermuedet"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.silberkind.de/"

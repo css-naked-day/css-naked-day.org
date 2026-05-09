@@ -1,7 +1,6 @@
 display = "Kino-Fahrplan Hamburg"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://kino-fahrplan.de/"

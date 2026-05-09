@@ -1,7 +1,6 @@
 display = "Tula’s ISP"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.dialogm.ru/"

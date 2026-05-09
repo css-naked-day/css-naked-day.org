@@ -1,7 +1,6 @@
 display = "Jachty Miś"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.mis.org.pl/"

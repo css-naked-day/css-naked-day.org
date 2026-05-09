@@ -1,7 +1,6 @@
 display = "İnternet Devri"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.internetdevri.com/"

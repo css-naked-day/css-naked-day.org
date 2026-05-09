@@ -1,7 +1,6 @@
 display = "Charn BloG"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://charni.org/"

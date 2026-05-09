@@ -1,7 +1,6 @@
 display = "monlog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.monlog.nl/"

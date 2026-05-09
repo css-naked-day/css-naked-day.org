@@ -1,7 +1,6 @@
 display = "badpixel blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.badpixel.net/"

@@ -1,7 +1,6 @@
 display = "mickro.design"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.mickro.de/"

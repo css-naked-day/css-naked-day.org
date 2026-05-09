@@ -1,7 +1,6 @@
 display = "Standard Pixel"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://standardpixel.com/"

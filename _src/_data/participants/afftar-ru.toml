@@ -1,7 +1,6 @@
 display = "Afftar.ru"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://afftar.ru/"

@@ -1,7 +1,6 @@
 display = "我自己|MYZIJI.CN"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/https://HTTP://WWW.MYZIJI.CN"

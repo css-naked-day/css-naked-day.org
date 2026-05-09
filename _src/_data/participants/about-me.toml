@@ -1,7 +1,6 @@
 display = "about:me"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.milanvit.net/"

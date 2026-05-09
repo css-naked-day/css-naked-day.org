@@ -1,7 +1,6 @@
 display = "Spackblog Lifestream"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://spackmat.de/lifestream"

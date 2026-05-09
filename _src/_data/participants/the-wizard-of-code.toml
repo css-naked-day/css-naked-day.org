@@ -1,7 +1,6 @@
 display = "the wizard of code"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.codewizard.org/"

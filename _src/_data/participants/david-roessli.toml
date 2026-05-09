@@ -3,7 +3,6 @@ firstname = "David"
 surname   = "Roessli"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://davidroessli.com/"

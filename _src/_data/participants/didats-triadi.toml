@@ -1,7 +1,6 @@
 display = "Didats Triadi"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://didats.net/"

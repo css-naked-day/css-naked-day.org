@@ -1,7 +1,6 @@
 display = "Music Raven"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://music.raven.ch/"

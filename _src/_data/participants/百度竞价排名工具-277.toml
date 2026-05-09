@@ -1,7 +1,6 @@
 display = "百度竞价排名工具"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.baidu-jingjia.com/"

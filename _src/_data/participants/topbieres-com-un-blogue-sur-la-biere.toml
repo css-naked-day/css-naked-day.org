@@ -1,7 +1,6 @@
 display = "Topbieres.com, Un blogue sur la bière"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.topbieres.com/"

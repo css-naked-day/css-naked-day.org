@@ -1,7 +1,6 @@
 display = "Weblabor"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://weblabor.hu/"

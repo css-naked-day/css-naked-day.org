@@ -1,7 +1,6 @@
 display = "from the salmon"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://fromthesalmon.com/"

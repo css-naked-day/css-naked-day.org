@@ -1,7 +1,6 @@
 display = "slice2css"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.slice2css.com/"

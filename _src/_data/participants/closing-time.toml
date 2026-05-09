@@ -1,7 +1,6 @@
 display = "Closing Time"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://closingtime.agapeitsolutions.com/"

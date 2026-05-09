@@ -1,7 +1,6 @@
 display = "zielony bloger"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://bloggerpl.com/"

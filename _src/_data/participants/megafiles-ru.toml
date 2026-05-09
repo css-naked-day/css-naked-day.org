@@ -1,7 +1,6 @@
 display = "Megafiles.ru"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.megafiles.ru/"

@@ -1,7 +1,6 @@
 display = "eMaster"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.emaster.de/"

@@ -1,7 +1,6 @@
 display = "Reviews OnLine"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.reviewsonline.com/"

@@ -1,7 +1,6 @@
 display = "AG Prime Web Development"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ag-prime.com/"

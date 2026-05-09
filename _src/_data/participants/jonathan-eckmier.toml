@@ -1,7 +1,6 @@
 display = "Jonathan Eckmier"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.reinspire.net/"
@@ -9,5 +8,5 @@ title = "Jonathan Eckmier"
 years = [
 	2006,
 	2007,
-	2008 
+	2008
 ]

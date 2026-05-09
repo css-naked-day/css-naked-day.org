@@ -1,7 +1,6 @@
 display = "Konténer"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.kontener.hu/"

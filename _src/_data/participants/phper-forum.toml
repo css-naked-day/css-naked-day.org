@@ -1,7 +1,6 @@
 display = "phper forum"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.seoyou.cn/"

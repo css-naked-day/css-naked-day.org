@@ -1,7 +1,6 @@
 display = "Taxodium"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://taxodium.ink"

@@ -1,7 +1,6 @@
 display = "07"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://log.07xi.com/"

@@ -1,7 +1,6 @@
 display = "Patrick Haney, Not a Sausage"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://patrickhaney.com/"
@@ -9,5 +8,5 @@ title = "Patrick Haney, Not a Sausage"
 years = [
 	2007,
 	2008,
-	2009 
+	2009
 ]

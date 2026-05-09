@@ -1,7 +1,6 @@
 display = "48-Hour Days"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.kashubeck.com/"

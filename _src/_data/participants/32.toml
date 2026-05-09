@@ -1,7 +1,6 @@
 display = "32℃여름"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2007/http://areaky.tistory.com"

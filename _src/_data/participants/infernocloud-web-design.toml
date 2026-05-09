@@ -1,7 +1,6 @@
 display = "Infernocloud, web design"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.infernocloud.com/"

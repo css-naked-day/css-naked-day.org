@@ -1,7 +1,6 @@
 display = "Melissa’s Purplestars Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.purplestars.com/"

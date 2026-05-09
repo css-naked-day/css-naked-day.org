@@ -1,7 +1,6 @@
 display = "Userland"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.userland.fr/"
