@@ -1,7 +1,6 @@
 display = "mcville.net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.mcville.net/"
@@ -9,5 +8,5 @@ title = "mcville.net"
 years = [
 	2007,
 	2008,
-	2009 
+	2009
 ]

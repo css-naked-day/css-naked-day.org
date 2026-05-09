@@ -1,7 +1,6 @@
 display = "WENBOlog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://bolog.blog.com.cn/"

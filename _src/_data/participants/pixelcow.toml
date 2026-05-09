@@ -1,7 +1,6 @@
 display = "pixelcow"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.pixelcow.com/blog/"

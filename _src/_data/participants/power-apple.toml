@@ -1,7 +1,6 @@
 display = "power apple"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.powerapple.com"

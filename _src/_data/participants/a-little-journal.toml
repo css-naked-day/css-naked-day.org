@@ -1,7 +1,6 @@
 display = "A Little Journal"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://agung.isnotcyb.org/"

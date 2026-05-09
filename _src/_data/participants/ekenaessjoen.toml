@@ -1,7 +1,6 @@
 display = "Ekenässjön"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ekenassjon.se/"

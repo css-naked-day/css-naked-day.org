@@ -1,7 +1,6 @@
 display = "MySource"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.mysource.pl/"

@@ -1,7 +1,6 @@
 display = "www.noix.com.br"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://www.noix.com.br/"

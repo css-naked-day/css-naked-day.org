@@ -1,7 +1,6 @@
 display = "Poptarts Diary"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.meao.ws/"

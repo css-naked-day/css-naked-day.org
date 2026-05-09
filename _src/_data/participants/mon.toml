@@ -1,7 +1,6 @@
 display = "Mon!"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://insomnia.m3w.com.ar/"

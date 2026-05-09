@@ -1,12 +1,11 @@
 display = "Jeff Schiller"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.codedread.com/"
 title = "Jeff Schiller"
 years = [
 	2006,
-	2007 
+	2007
 ]

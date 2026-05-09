@@ -1,7 +1,6 @@
 display = "Véleményem van"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://velemenyemvan.freeblog.hu/"

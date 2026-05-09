@@ -1,7 +1,6 @@
 display = "Mynios"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.mynios.de/"

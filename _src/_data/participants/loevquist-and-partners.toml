@@ -1,7 +1,6 @@
 display = "Lövquist & Partners"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.lovquist.com/"

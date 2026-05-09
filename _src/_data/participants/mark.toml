@@ -1,7 +1,6 @@
 display = "Mark"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://diveintomark.org/"

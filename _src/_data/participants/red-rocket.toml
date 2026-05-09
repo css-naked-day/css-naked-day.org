@@ -1,7 +1,6 @@
 display = "Red Rocket"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://red-rocket.org/"

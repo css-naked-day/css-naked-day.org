@@ -1,7 +1,6 @@
 display = "Moosh"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.moosh.nu/"

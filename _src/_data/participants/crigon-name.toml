@@ -1,7 +1,6 @@
 display = "crigon.name"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://crigon.name/"

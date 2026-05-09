@@ -1,7 +1,6 @@
 display = "kemi-log"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://kemi.versus.jp/kemi/"

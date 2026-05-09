@@ -1,7 +1,6 @@
 display = "CSS Karma"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.csskarma.com/"

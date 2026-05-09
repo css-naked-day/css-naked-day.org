@@ -1,7 +1,6 @@
 display = "Thomas"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://orangescale.net/"

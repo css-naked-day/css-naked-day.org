@@ -1,7 +1,6 @@
 display = "visaap.nl"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.visaap.nl/"

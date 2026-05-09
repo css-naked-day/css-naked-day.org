@@ -1,7 +1,6 @@
 display = "10press"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://10prs.com/"

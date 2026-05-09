@@ -1,7 +1,6 @@
 display = "vlado varbanov portfolio"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.vlado1.com/"

@@ -1,7 +1,6 @@
 display = "Totally Local"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.totallylocalmarketing.com/"

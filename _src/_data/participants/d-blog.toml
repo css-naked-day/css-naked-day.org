@@ -1,7 +1,6 @@
 display = "D-Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://dmay.net/blog"

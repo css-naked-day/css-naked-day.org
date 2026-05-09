@@ -1,7 +1,6 @@
 display = "introspective snapshots"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.sheysmith.com/"

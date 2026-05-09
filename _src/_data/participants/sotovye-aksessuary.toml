@@ -1,7 +1,6 @@
 display = "Сотовые аксессуары"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.zeronix.ru/"

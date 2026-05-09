@@ -3,7 +3,6 @@ firstname = "Andreas"
 surname   = "Jaggi"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://blog.x-way.org/"

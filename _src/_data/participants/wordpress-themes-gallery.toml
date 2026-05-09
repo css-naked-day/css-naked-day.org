@@ -1,7 +1,6 @@
 display = "WordPress Themes Gallery"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://wpsalon.com/"

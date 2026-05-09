@@ -1,7 +1,6 @@
 display = "wivisions GmbH – Graphic- & Webdesign"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.wivisions.ch/"

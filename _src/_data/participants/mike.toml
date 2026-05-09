@@ -1,7 +1,6 @@
 display = "Mike"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://fightgandhi.net/weblog"

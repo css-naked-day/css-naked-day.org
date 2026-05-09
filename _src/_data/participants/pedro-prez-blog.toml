@@ -1,7 +1,6 @@
 display = "Pedro Prez Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.pedroprez.com.ar/"

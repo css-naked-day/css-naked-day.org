@@ -1,7 +1,6 @@
 display = "fire blog!"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.fireblog.net/"

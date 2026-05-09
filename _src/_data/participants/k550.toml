@@ -1,7 +1,6 @@
 display = "k550"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.k550i.info/"

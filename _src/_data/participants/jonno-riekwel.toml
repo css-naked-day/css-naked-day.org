@@ -1,12 +1,11 @@
 display = "Jonno Riekwel"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://jonnoriekwel.nl/"
 title = "Jonno Riekwel"
 years = [
 	2007,
-	2008 
+	2008
 ]

@@ -1,7 +1,6 @@
 display = "Juanita’s Web Spot"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.juanitachronowski.com/"

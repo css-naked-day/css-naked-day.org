@@ -1,7 +1,6 @@
 display = "JotBe"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://jotbe-fx.de/daily"

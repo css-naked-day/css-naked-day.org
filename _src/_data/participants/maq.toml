@@ -1,7 +1,6 @@
 display = "MAQ"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.maq.se/"

@@ -1,7 +1,6 @@
 display = "Enblogopedia"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.enblogopedia.com/"

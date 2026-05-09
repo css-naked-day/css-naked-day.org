@@ -1,7 +1,6 @@
 display = "Majetics"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.majetics.com.ua/"

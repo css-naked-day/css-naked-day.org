@@ -1,7 +1,6 @@
 display = "生活点滴"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.storyday.com/"

@@ -1,7 +1,6 @@
 display = "Posh CSS"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://poshcss.com/"

@@ -1,7 +1,6 @@
 display = "kesshou.om"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://kesshou.com/"

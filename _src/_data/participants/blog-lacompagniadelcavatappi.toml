@@ -1,7 +1,6 @@
 display = "Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.lacompagniadelcavatappi.it/catalog/blog.php/"

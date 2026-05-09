@@ -1,7 +1,6 @@
 display = "충초딩블로그"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://socrazy.kr/"

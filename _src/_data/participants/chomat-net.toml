@@ -1,7 +1,6 @@
 display = "Chomat.net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.chomat.net/"

@@ -1,7 +1,6 @@
 display = "The Blog of Chris Thomson"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://chris24.ca/"

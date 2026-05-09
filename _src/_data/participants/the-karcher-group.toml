@@ -1,7 +1,6 @@
 display = "The Karcher Group"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.thekarchergroup.com/"

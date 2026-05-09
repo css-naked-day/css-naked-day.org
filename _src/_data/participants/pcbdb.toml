@@ -1,7 +1,6 @@
 display = "PCBdB*"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://pcbdb.net/"

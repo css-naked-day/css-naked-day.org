@@ -1,7 +1,6 @@
 display = "iworm"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://iworm.net/"

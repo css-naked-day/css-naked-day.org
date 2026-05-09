@@ -1,7 +1,6 @@
 display = "Travis"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://travis.servebeer.com/blog.net/"

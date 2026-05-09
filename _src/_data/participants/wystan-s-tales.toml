@@ -1,7 +1,6 @@
 display = "wystan’s tales"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.wystan.net/"

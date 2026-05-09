@@ -1,7 +1,6 @@
 display = "Yunar news"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.yunar.com/"

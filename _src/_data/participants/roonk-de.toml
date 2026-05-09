@@ -1,7 +1,6 @@
 display = "roonk.de"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.roonk.de/230-seine-ziele-fokusieren.html"

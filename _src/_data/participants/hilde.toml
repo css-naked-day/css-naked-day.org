@@ -1,7 +1,6 @@
 display = "Hilde"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://hebedesign.com/blogg"

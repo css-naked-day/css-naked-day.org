@@ -1,7 +1,6 @@
 display = "Le BLOG itudiant"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.itudiant.com/"

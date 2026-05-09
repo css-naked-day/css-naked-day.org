@@ -1,7 +1,6 @@
 display = "Salezjanie 1A"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://salezjanie.one.pl/"

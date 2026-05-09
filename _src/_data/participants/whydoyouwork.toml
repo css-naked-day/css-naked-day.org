@@ -1,7 +1,6 @@
 display = "Whydoyouwork"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.whydoyouwork.com/"

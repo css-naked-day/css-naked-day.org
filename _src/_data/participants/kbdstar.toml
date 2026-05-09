@@ -1,7 +1,6 @@
 display = "kbd_star"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://kbdstar.net/"

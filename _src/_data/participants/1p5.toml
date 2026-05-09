@@ -1,7 +1,6 @@
 display = "1P5"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.ex2ex.net/"

@@ -1,7 +1,6 @@
 display = "Lorelle on WordPress"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://lorelle.wordpress.com/"

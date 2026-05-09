@@ -1,7 +1,6 @@
 display = "VERSIONFIVE"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://versionfive.jp/"

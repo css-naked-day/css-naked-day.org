@@ -1,7 +1,6 @@
 display = "Sarok Üzletház"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://sarokuzlethaz.hu/"

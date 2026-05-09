@@ -1,7 +1,6 @@
 display = "Web Enlighten"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.webenlighten.com/"

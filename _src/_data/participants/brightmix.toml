@@ -1,7 +1,6 @@
 display = "BrightMix"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.brightmix.com/"

@@ -1,7 +1,6 @@
 display = "cmcitygadget.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2007/http://cmcitygadget.com/"

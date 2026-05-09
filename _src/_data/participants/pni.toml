@@ -1,7 +1,6 @@
 display = "Pni"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://skrubu.net/"

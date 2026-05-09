@@ -1,7 +1,6 @@
 display = "Drobkovy stránky"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://drobek.nadrobeny.net/"

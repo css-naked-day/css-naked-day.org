@@ -1,7 +1,6 @@
 display = "emergency weblog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://elainenelson.org/"

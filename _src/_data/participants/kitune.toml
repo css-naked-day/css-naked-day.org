@@ -1,7 +1,6 @@
 display = "Kitune"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.blogonrails.com/"

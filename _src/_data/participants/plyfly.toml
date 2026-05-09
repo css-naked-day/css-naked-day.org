@@ -1,7 +1,6 @@
 display = "plyfly"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.plyfly.net/"

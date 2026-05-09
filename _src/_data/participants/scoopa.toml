@@ -1,7 +1,6 @@
 display = "scoopa"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.scoopa.com/"

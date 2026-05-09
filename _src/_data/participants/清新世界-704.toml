@@ -1,7 +1,6 @@
 display = "清新世界"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.trueme.org/"

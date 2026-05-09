@@ -1,7 +1,6 @@
 display = "fan"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://hi.baidu.com/fantexi"

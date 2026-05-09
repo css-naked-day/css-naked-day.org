@@ -1,7 +1,6 @@
 display = "x5.log"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://liushen.org/blog/"

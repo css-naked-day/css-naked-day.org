@@ -1,7 +1,6 @@
 display = "warmrobot"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://warmrobot.com/"

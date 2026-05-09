@@ -1,7 +1,6 @@
 display = "Aenimablog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://aperfectcircle.hu/blog"

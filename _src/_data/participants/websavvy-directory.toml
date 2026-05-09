@@ -1,7 +1,6 @@
 display = "WebSavvy Directory"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.websavvy.cc/"

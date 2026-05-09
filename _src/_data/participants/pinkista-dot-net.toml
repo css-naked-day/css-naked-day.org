@@ -1,7 +1,6 @@
 display = "Pinkista[dot]net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.pinkista.net/"

@@ -1,7 +1,6 @@
 display = "Lector fordítóiroda"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://lector.hu/"

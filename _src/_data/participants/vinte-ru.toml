@@ -1,7 +1,6 @@
 display = "vinte.ru"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.vinte.ru/"

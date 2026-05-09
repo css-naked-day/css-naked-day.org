@@ -1,7 +1,6 @@
 display = "waferbaby"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://waferbaby.com/"

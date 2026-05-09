@@ -1,7 +1,6 @@
 display = "Mika Kähkönen"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://koti.mbnet.fi/kahoset/"

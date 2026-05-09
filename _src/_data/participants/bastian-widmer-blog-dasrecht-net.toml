@@ -1,7 +1,6 @@
 display = "Bastian Widmer {blog.dasrecht.net}"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.dasrecht.net/"

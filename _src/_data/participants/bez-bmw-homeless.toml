@@ -1,7 +1,6 @@
 display = "Bez BMW homeless"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ebmw.ru/"

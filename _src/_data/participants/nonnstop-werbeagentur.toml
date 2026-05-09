@@ -1,7 +1,6 @@
 display = "Nonnstop Werbeagentur"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.nonnstop.de/"

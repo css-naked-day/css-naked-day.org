@@ -1,7 +1,6 @@
 display = "Screen Printing Information"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.screensilk.com/"

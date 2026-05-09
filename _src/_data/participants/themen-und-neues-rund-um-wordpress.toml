@@ -1,7 +1,6 @@
 display = "Themen und Neues rund um WordPress"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://meinerosen.piranho.de/blog/"

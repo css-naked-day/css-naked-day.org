@@ -1,7 +1,6 @@
 display = "Bordom.net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.bordom.net/"

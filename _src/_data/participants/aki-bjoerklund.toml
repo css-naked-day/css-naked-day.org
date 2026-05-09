@@ -1,7 +1,6 @@
 display = "Aki Björklund"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://satunnainenbjorklund.net/"
@@ -13,5 +12,5 @@ url   = "http://akibjorklund.com/"
 title = "Aki Björklund"
 years = [
 	2008,
-	2009 
+	2009
 ]

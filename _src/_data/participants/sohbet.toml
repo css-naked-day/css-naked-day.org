@@ -1,7 +1,6 @@
 display = "sohbet"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.cikolata.net/"

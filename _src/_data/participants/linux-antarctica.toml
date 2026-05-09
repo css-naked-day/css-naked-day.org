@@ -1,7 +1,6 @@
 display = "Linux Antarctica"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.linuxantarctica.com/"

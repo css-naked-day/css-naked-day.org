@@ -1,7 +1,6 @@
 display = "Webdesign Saarland"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.lmx-webdesign.de/"

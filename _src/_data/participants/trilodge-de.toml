@@ -1,14 +1,13 @@
 display = "trilodge.de"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.trilodge.de/blog"
 title = "trilodge.de"
 years = [
 	2007,
-	2008 
+	2008
 ]
 
 [[websites]]

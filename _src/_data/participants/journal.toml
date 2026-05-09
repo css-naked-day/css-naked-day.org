@@ -1,7 +1,6 @@
 display = "Journal"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://dehora.net/journal"

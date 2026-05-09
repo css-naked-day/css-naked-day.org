@@ -1,7 +1,6 @@
 display = "写一点"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.xieyidian.com/"

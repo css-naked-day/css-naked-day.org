@@ -1,7 +1,6 @@
 display = "Paydjo.Net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://paydjo.net/"

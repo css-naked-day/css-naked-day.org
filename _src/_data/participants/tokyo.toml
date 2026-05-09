@@ -1,7 +1,6 @@
 display = "Tokyo"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://tokyo.disparue.org/"

@@ -1,7 +1,6 @@
 display = "tenero"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://tenero.cnblogs.com/"

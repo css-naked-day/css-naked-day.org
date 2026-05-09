@@ -1,7 +1,6 @@
 display = "StreamFM"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://radio.stream.uz/"

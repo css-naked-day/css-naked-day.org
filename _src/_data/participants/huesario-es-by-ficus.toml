@@ -1,7 +1,6 @@
 display = "Huesario.es (by Ficus)"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.huesario.es/"

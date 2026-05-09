@@ -1,7 +1,6 @@
 display = "Blog de Cristian Giménez"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.cristiang.net/"

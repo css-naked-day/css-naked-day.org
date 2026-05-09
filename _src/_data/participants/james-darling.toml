@@ -1,7 +1,6 @@
 display = "James Darling"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://abscond.org/"

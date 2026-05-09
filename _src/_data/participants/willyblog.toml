@@ -1,7 +1,6 @@
 display = "Willyblog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.william-tootill.info/"

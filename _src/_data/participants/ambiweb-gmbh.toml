@@ -1,7 +1,6 @@
 display = "AmbiWeb GmbH"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ambiweb.de/"

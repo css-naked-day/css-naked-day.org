@@ -1,7 +1,6 @@
 display = "Dave Vogt"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2005/http://log.davedot.com/"

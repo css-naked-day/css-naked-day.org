@@ -1,7 +1,6 @@
 display = "another-perfect-world.org"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://another-perfect-world.org/"

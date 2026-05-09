@@ -1,7 +1,6 @@
 display = "DontTrustThisGuy.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://donttrustthisguy.com/"

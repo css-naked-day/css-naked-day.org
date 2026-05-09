@@ -1,7 +1,6 @@
 display = "kuhanzhu’s blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.kuhanzhu.com/index1.asp"

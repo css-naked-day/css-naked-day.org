@@ -1,7 +1,6 @@
 display = "STCFX"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.stcfx.com/"

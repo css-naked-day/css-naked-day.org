@@ -1,7 +1,6 @@
 display = "mybeNi websecurity"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://mybeni.rootzilla.de/"

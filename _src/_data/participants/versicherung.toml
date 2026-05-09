@@ -1,7 +1,6 @@
 display = "Versicherung"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.ca-versicherung.at/"

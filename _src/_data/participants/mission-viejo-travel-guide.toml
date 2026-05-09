@@ -1,7 +1,6 @@
 display = "Mission Viejo Travel Guide"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.missionviejo.org/"

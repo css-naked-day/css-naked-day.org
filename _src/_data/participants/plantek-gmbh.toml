@@ -1,7 +1,6 @@
 display = "planTEK GmbH"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.plantek.de/"

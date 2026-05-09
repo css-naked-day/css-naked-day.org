@@ -1,12 +1,11 @@
 display = "jimmitchell.org"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://jimmitchell.org/"
 title = "jimmitchell.org"
 years = [
 	2007,
-	2008 
+	2008
 ]

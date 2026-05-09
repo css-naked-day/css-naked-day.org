@@ -1,7 +1,6 @@
 display = "Junnama Online (Mirror)"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://junnama.alfasado.net/online/"

@@ -1,7 +1,6 @@
 display = "der tag und ich"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.dertagundich.de/"

@@ -1,7 +1,6 @@
 display = "Viggo.ru – Блог Владимира Корнеева"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://viggo.ru/"

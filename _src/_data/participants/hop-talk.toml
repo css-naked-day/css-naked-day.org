@@ -1,7 +1,6 @@
 display = "Hop Talk"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://hop-talk.com/"

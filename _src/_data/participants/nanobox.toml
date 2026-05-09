@@ -1,7 +1,6 @@
 display = "Nanobox"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://nanobox.chipx86.com/"

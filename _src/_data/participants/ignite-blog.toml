@@ -1,7 +1,6 @@
 display = "Ignite Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://ignite.digitalignition.net/"

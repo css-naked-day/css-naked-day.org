@@ -1,7 +1,6 @@
 display = "알폰손의 블로그"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://alponglog.com/"

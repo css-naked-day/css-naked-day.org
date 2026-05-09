@@ -1,7 +1,6 @@
 display = "飘雨社区"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.doyoe.com/"

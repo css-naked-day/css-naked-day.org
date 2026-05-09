@@ -1,7 +1,6 @@
 display = "keasone.de | finest screen gra"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://keasone.de/"

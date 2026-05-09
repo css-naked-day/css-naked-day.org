@@ -1,12 +1,11 @@
 display = "Figure and Sound"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://figureandsound.com/"
 title = "Figure and Sound"
 years = [
 	2007,
-	2008 
+	2008
 ]

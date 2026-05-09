@@ -1,7 +1,6 @@
 display = "Webkatalog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.webkatalog4all.de/"

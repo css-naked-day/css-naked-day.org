@@ -1,12 +1,11 @@
 display = "fortschritt.tv"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2007/http://fortschritt.tv/"
 title = "fortschritt.tv"
 years = [
 	2007,
-	2008 
+	2008
 ]

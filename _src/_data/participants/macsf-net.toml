@@ -1,7 +1,6 @@
 display = "macsf.net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://macsf.net/breadcrumb/"

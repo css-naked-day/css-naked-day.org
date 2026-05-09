@@ -1,7 +1,6 @@
 display = "ZS Ohradni 9.A."
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ohradni9a.ic.cz/"

@@ -1,7 +1,6 @@
 display = "Fool Orange"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://hi.baidu.com/foolorange"

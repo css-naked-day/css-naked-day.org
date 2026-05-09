@@ -1,7 +1,6 @@
 display = "ihower"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://ihower.idv.tw/blog/"

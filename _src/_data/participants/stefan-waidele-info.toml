@@ -1,7 +1,6 @@
 display = "stefan.waidele.info"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://stefan.waidele.info/"

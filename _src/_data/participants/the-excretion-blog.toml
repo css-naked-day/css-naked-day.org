@@ -1,7 +1,6 @@
 display = "The Excretion Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://ex.tistory.com/"

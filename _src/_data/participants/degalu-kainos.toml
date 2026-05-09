@@ -1,7 +1,6 @@
 display = "Degalu kainos"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.degalukainos.lt/"

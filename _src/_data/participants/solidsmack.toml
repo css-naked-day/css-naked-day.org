@@ -1,7 +1,6 @@
 display = "SolidSmack"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.solidsmack.com/"

@@ -1,7 +1,6 @@
 display = "Picando Código"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.picandocodigo.net/"

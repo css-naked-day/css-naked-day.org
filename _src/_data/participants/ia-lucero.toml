@@ -1,7 +1,6 @@
 display = "ia lucero"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://stellify.net/"

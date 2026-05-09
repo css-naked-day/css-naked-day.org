@@ -1,7 +1,6 @@
 display = "The Prompt Corner"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.tentpeg.org/promptcorner"

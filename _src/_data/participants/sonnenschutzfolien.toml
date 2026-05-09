@@ -1,7 +1,6 @@
 display = "Sonnenschutzfolien"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.soldera.de/"

@@ -1,7 +1,6 @@
 display = "Theinfor"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.theinfor.com/"

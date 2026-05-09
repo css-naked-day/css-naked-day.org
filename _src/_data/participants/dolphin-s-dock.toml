@@ -1,7 +1,6 @@
 display = "Dolphin’s Dock"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.dolphinsdock.com/"

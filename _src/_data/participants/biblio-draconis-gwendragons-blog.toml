@@ -1,7 +1,6 @@
 display = "Biblio Draconis – GwenDragons blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.gwendragon.de/blog/"

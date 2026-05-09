@@ -1,7 +1,6 @@
 display = "FlyReady.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.flyready.com/"

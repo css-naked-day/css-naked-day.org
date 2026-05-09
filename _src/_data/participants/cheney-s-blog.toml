@@ -1,7 +1,6 @@
 display = "Cheney’s blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://my.opera.com/iCheney"

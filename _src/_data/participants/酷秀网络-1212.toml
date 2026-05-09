@@ -1,7 +1,6 @@
 display = "酷秀网络"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.dnxh.cn/blog"

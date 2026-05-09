@@ -1,7 +1,6 @@
 display = "hanher"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.hanbox.com.tw/"

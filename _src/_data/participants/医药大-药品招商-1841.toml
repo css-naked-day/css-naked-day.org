@@ -1,7 +1,6 @@
 display = "医药大-药品招商"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.yiyaoda.com/"

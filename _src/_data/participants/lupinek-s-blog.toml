@@ -1,7 +1,6 @@
 display = "Lupinek’s blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.lupinek.webd.pl/"

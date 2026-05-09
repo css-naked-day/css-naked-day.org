@@ -1,7 +1,6 @@
 display = "treevis"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://treevis.com/"

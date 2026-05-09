@@ -1,12 +1,11 @@
 display = "Herock Post"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://herock.net/"
 title = "Herock Post"
 years = [
 	2007,
-	2008 
+	2008
 ]

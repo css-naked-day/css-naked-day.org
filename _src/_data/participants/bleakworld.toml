@@ -1,7 +1,6 @@
 display = "bleakworld"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.bleakworld.com/"

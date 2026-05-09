@@ -1,7 +1,6 @@
 display = "sui"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://north.suirakukai.com/"

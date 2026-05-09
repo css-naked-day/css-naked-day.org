@@ -1,7 +1,6 @@
 display = "Jorturos"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.fotomurcia.com.es/"

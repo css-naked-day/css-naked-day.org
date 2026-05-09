@@ -1,7 +1,6 @@
 display = "Komova.net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.komova.net/"

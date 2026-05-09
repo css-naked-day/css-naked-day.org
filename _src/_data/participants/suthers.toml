@@ -1,7 +1,6 @@
 display = "Suthers"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://softwarephilosophy.com/"

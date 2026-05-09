@@ -1,7 +1,6 @@
 display = "Nerdverk"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.nerdverk.com/"

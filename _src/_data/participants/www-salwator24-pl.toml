@@ -1,7 +1,6 @@
 display = "www.salwator24.pl"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.salwator24.pl"

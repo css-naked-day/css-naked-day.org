@@ -1,7 +1,6 @@
 display = "Yangın Söndürme"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.yanginsondurme.info/"

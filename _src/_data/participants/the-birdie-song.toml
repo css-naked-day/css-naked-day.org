@@ -1,7 +1,6 @@
 display = "The Birdie Song"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.birdie-song.com/"

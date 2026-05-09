@@ -1,7 +1,6 @@
 display = "Anonymity.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://anonymity.com/"

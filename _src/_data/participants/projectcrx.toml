@@ -1,7 +1,6 @@
 display = "ProjectCRX"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://projectcrx.wordpress.com/"

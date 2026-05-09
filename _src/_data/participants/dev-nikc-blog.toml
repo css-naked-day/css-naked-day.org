@@ -1,7 +1,6 @@
 display = "/dev/nikc/blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.nikc.org/"

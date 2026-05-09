@@ -1,7 +1,6 @@
 display = "Wulf’s Web-den"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.web-den.org.uk/home/"

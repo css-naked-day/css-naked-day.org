@@ -1,7 +1,6 @@
 display = "Articulos"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.yugler.com/"

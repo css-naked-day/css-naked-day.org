@@ -1,7 +1,6 @@
 display = "New Kids on the Block Tickets"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.newkidsontheblocktickets.org/"

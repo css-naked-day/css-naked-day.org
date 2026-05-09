@@ -1,7 +1,6 @@
 display = "在路上[moogle]"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.moogle.cn/"

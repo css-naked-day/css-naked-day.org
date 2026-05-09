@@ -1,12 +1,11 @@
 display = "Il Ginepraio"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ginelli.it/blog/"
 title = "Il Ginepraio"
 years = [
 	2007,
-	2008 
+	2008
 ]

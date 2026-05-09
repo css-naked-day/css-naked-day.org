@@ -1,7 +1,6 @@
 display = "不惊了’s blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://www.aspxsky.cn/"

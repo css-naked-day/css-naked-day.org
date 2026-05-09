@@ -1,7 +1,6 @@
 display = "Vatican Apartment, Rome"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.vaticanapartment.it/"

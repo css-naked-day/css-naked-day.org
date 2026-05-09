@@ -1,7 +1,6 @@
 display = "marx"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.marx.livenet.pl/index.php"

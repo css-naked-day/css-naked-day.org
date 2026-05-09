@@ -1,14 +1,13 @@
 display = "Ceglie Messapica"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ceglieplurale.it/"
 title = "Ceglie Plurale"
 years = [
 	2007,
-	2008 
+	2008
 ]
 
 [[websites]]

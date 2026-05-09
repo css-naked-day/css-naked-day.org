@@ -1,7 +1,6 @@
 display = "Another Friday"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://another-friday.com/"

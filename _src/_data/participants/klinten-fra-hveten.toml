@@ -1,7 +1,6 @@
 display = "Klinten fra hveten"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://lawier.blogspot.com/"

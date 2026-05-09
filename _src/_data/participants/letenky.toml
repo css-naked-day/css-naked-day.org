@@ -1,7 +1,6 @@
 display = "Letenky"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://letenky.lacnejsie-to-ide.sk/"

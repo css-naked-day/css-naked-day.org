@@ -1,7 +1,6 @@
 display = "SEO ツール"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://value-seo.biz/"

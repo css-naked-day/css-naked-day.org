@@ -1,7 +1,6 @@
 display = "alles was bewegt by Oliver Muenk"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://alleswasbewegt.de/"

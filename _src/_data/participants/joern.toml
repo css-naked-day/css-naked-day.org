@@ -1,7 +1,6 @@
 display = "Joern"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2005/http://immaterialfacts.com/"

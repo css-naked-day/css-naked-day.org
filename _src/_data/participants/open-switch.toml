@@ -1,7 +1,6 @@
 display = "Open Switch"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://openswitch.org/"

@@ -1,7 +1,6 @@
 display = "Šime Vidas"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url     = "https://webplatform.news/"

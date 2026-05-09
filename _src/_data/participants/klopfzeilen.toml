@@ -1,7 +1,6 @@
 display = "Klopfzeilen"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://klopfzeilen.de/"

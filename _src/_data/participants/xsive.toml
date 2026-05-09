@@ -1,7 +1,6 @@
 display = "xsive"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.xsive.co.nz/"

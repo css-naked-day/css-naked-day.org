@@ -1,7 +1,6 @@
 display = "csmoll.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://www.csmoll.com/"

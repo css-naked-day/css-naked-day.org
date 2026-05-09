@@ -1,7 +1,6 @@
 display = "Das Blog vomn Dorf"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.hintertuxingen.de/"

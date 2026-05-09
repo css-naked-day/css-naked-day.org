@@ -1,7 +1,6 @@
 display = "今日无大事"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.windia.net/"

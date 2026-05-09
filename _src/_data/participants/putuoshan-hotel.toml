@@ -1,7 +1,6 @@
 display = "putuoshan hotel"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.putuoshanhotel.com/en/"

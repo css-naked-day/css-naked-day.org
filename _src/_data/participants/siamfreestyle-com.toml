@@ -1,7 +1,6 @@
 display = "SiamFreestyle.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://samui.siamfreestyle.com/"

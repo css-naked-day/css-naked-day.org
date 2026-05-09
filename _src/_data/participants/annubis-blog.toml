@@ -1,7 +1,6 @@
 display = "Annubis Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.schweizer-web.ch/"

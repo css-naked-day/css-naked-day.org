@@ -1,7 +1,6 @@
 display = "todoslot noticias"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://noticias.todoslot.es/"

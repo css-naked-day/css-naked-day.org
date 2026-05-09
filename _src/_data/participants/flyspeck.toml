@@ -1,7 +1,6 @@
 display = "Flyspeck"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://flyspeck.talpai.net/"

@@ -1,7 +1,6 @@
 display = "TYPO3 Dienstleister"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.websedit.de/"

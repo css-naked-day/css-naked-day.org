@@ -1,7 +1,6 @@
 display = "handyshop"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.my-freebies.de/"

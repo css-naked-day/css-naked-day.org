@@ -1,7 +1,6 @@
 display = "NOSE Design Intelligence"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.nose.ch/"

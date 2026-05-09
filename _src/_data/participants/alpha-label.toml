@@ -1,7 +1,6 @@
 display = "ALPHA LABEL"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.alphalabel.net/"

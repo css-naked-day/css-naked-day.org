@@ -1,7 +1,6 @@
 display = "yougoon"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://yougoon.tistory.com/"

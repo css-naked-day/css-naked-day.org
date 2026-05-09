@@ -1,7 +1,6 @@
 display = "My Way of Life"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://cholito.org/"

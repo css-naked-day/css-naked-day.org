@@ -1,7 +1,6 @@
 display = "Porovnanie cien"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.lacnejsie-to-ide.sk/"

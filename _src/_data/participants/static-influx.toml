@@ -1,7 +1,6 @@
 display = "Static Influx"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://brodyh.ath.cx/stc/lang=en"

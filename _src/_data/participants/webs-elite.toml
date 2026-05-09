@@ -1,7 +1,6 @@
 display = "webs-elite"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.webs-elite.com/"

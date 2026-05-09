@@ -1,7 +1,6 @@
 display = "White’s Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://white.addoma.de/s9y"

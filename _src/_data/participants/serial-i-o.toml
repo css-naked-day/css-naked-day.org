@@ -1,7 +1,6 @@
 display = "Serial I/O"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://serail.io/"

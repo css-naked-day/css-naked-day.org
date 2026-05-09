@@ -1,7 +1,6 @@
 display = "Parmon"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.devfreak.com/"

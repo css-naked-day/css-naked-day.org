@@ -1,7 +1,6 @@
 display = "Alex"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://poolie.kulando.de/"

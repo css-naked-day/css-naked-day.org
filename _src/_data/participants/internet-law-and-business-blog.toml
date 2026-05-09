@@ -1,7 +1,6 @@
 display = "Internet Law and Business Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.mikeyounglaw.com/wp/"

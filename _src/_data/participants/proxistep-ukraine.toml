@@ -1,7 +1,6 @@
 display = "Proxistep Ukraine"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://proxistep.com.ua/"

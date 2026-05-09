@@ -1,7 +1,6 @@
 display = "Tistory Report Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://report.tistory.com/"

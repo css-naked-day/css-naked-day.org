@@ -1,7 +1,6 @@
 display = "bomb_dot_org_dot_uk"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.bomb.org.uk/"

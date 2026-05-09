@@ -1,7 +1,6 @@
 display = "Pesche"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.designchuchi.ch/"

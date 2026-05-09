@@ -1,7 +1,6 @@
 display = "burnis blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.burnis.org/"

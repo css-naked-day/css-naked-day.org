@@ -1,7 +1,6 @@
 display = "journal from STRUND"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://journal.strund.jp/"

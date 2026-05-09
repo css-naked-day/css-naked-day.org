@@ -1,7 +1,6 @@
 display = "TheDavis Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://arpaneting.es/"

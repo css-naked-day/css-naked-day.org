@@ -1,7 +1,6 @@
 display = "Country’s Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.k1der.net/country/"

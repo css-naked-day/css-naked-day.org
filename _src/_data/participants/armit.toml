@@ -1,7 +1,6 @@
 display = "Armit"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.aboutwebdesigning.com/"

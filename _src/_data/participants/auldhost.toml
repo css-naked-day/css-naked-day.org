@@ -1,7 +1,6 @@
 display = "AuldHost"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.auldhost.com/"

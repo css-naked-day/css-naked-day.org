@@ -1,7 +1,6 @@
 display = "Nestor’s Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://nestor.redesprofesionales.com/"

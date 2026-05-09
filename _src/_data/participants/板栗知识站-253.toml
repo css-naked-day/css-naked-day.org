@@ -1,7 +1,6 @@
 display = "板栗知识站"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://web.archive.org/web/20080611212944/http://chestnut.xiexiao.com:80/"

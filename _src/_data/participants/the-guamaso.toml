@@ -1,7 +1,6 @@
 display = "The Guamaso"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://guamaso.com"

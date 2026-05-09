@@ -1,7 +1,6 @@
 display = "Placerea nu se refuza"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://groller.info/geza/"

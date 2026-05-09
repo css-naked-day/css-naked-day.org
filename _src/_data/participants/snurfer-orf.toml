@@ -1,7 +1,6 @@
 display = "Snurfer.orf"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://snurfer.org/jibba/"

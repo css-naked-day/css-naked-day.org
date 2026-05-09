@@ -1,7 +1,6 @@
 display = "position: absolute"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.parasight.de/"

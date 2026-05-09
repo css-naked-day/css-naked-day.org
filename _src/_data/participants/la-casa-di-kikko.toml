@@ -1,7 +1,6 @@
 display = "La casa di Kikko"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.enricorotelli.it/blog/"

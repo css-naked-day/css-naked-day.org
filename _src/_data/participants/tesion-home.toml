@@ -1,7 +1,6 @@
 display = "tesion.home"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.tesion.cn/"

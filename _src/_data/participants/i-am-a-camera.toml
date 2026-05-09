@@ -1,7 +1,6 @@
 display = "i am a camera"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://iamacamera.org/"

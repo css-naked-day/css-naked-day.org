@@ -1,7 +1,6 @@
 display = "kunshou blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://kunshou.cn99.com/"

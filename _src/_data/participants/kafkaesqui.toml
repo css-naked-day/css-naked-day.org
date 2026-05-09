@@ -1,7 +1,6 @@
 display = "Kafkaesqui"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://guff.szub.net/"

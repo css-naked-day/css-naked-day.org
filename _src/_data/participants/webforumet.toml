@@ -1,7 +1,6 @@
 display = "Webforumet"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://webforumet.no/"

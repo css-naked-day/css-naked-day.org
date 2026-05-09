@@ -1,7 +1,6 @@
 display = "Next Weblog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.laurencik.blogspot.com/"

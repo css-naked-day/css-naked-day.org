@@ -1,7 +1,6 @@
 display = "cunningweb"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://dnzin.com/cunningweb"

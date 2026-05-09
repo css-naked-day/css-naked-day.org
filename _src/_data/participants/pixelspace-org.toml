@@ -1,7 +1,6 @@
 display = "pixelspace.org"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.pixelspace.org/"

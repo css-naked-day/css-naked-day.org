@@ -1,7 +1,6 @@
 display = "minizen"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.minizen.net/"

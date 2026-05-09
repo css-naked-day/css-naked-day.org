@@ -1,7 +1,6 @@
 display = "Judofyr"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.bullgaard.no/blogg"

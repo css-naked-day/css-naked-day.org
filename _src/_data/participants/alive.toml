@@ -1,7 +1,6 @@
 display = "ALIVE"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.weiren.org/"

@@ -1,7 +1,6 @@
 display = "Sparanoid"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://sparanoid.com/"

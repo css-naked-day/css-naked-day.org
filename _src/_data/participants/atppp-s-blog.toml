@@ -1,7 +1,6 @@
 display = "atppp’s Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.wuxinan.net/"

@@ -1,7 +1,6 @@
 display = "The Blog of Josh Stodola"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.josh420.com/"

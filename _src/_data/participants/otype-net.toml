@@ -1,7 +1,6 @@
 display = "otype.net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://otype.net/"

@@ -1,7 +1,6 @@
 display = "xkcd in Russian"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.xkcd.com/"

@@ -1,7 +1,6 @@
 display = "虫虫爬’s Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.chongchongpa.cn/"

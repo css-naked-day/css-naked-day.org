@@ -1,7 +1,6 @@
 display = "中山市坦洲镇"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://tanzhou.xiexiao.com/"

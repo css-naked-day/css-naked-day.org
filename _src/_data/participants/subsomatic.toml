@@ -1,7 +1,6 @@
 display = "subsomatic"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.subsomatic.com/"

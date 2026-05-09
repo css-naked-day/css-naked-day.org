@@ -1,7 +1,6 @@
 display = "John Havlik"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://mtekk.weblogs.us/"
@@ -9,5 +8,5 @@ title = "John Havlik"
 years = [
 	2006,
 	2007,
-	2008 
+	2008
 ]

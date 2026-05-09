@@ -1,7 +1,6 @@
 display = "Sebid"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.hagga.net/"

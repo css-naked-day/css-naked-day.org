@@ -1,7 +1,6 @@
 display = "free zone"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://www.3zone.it/"

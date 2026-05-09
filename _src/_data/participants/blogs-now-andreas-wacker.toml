@@ -1,7 +1,6 @@
 display = "Blogs Now (Andreas Wacker)"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.blogsnow.com/"

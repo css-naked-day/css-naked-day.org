@@ -1,7 +1,6 @@
 display = "CEFA::Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://cefa.sakura.ne.jp/"

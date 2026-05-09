@@ -1,7 +1,6 @@
 display = "ITBlog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.itblog.com.ua/"

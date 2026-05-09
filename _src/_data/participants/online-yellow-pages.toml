@@ -1,7 +1,6 @@
 display = "Online Yellow Pages"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.onlinebizbuzz.com/"

@@ -1,7 +1,6 @@
 display = "Suricat, quoi de neuf ?"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.suricat.net/"

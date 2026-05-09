@@ -1,7 +1,6 @@
 display = "가즈랑집"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.gazrang.pe.kr"

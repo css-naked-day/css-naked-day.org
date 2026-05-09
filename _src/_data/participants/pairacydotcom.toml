@@ -1,7 +1,6 @@
 display = "pairacyDotCom"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.pairacy.com/"

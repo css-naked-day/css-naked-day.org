@@ -1,7 +1,6 @@
 display = "My First ActionScript Application"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.yesutin.com/"

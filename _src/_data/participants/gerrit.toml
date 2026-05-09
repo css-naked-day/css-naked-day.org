@@ -1,7 +1,6 @@
 display = "Gerrit"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://praegnanz.de/"

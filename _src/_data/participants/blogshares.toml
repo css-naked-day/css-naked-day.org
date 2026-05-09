@@ -1,7 +1,6 @@
 display = "Blogshares"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blogshares.com/"

@@ -1,7 +1,6 @@
 display = "plan4play"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://web.archive.org/web/20070703030800/http://members.thai.net:80/radiz/"

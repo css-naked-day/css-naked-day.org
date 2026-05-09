@@ -1,7 +1,6 @@
 display = "Mydealz"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.mydealz.de"

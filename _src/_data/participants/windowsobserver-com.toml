@@ -1,7 +1,6 @@
 display = "WindowsObserver.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.windowsobserver.com/"

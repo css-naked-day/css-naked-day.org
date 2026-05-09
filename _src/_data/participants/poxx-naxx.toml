@@ -1,7 +1,6 @@
 display = "poxx-naxx"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://poxx.naxx.ru/"

@@ -1,7 +1,6 @@
 display = "rynX"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://l.ufegmbh.de:8080/rynx/"

@@ -1,7 +1,6 @@
 display = "Teknikens värld"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://magazines.se/index.php?news=15"

@@ -1,7 +1,6 @@
 display = "HAGANE Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.hagane.tv/"

@@ -1,7 +1,6 @@
 display = "Quirksmode (PPK)"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.quirksmode.org/"

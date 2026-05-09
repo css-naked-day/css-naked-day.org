@@ -1,7 +1,6 @@
 display = "IFF!"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://chronobolt.net/iff"

@@ -1,7 +1,6 @@
 display = "BluBlog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.blublog.it/"

@@ -1,7 +1,6 @@
 display = "AG’s blog – 好大一蜘蛛"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://www.allengao.com/"

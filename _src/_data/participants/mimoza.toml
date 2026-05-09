@@ -1,7 +1,6 @@
 display = "mimoza"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://mimoza.freeblog.hu/"

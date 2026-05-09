@@ -1,7 +1,6 @@
 display = "Ach!Mist-Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.achmist.de/blog"

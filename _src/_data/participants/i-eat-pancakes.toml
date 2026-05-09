@@ -1,7 +1,6 @@
 display = "I eat pancakes"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://ieatpancakes.com/"

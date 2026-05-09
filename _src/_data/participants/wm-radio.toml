@@ -1,7 +1,6 @@
 display = "Wm Radio"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://wmradio.tk/"

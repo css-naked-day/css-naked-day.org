@@ -1,7 +1,6 @@
 display = "kejun’s blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://hikejun.com/"

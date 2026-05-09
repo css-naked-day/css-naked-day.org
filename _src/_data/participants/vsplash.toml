@@ -1,7 +1,6 @@
 display = "vsplash"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://vsplash.com/"

@@ -1,7 +1,6 @@
 display = "Virtuelle Tour"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.raumfeld.de/"

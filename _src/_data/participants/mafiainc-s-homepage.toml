@@ -1,7 +1,6 @@
 display = "MafiaInc’s Homepage"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://web.archive.org/web/20201111110349/https://www.mafiainc.net/"

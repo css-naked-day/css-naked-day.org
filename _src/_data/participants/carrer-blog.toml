@@ -1,7 +1,6 @@
 display = "Carrer Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.vcarrer.com/"

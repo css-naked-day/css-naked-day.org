@@ -1,7 +1,6 @@
 display = "Grafware"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.grafware.com/"

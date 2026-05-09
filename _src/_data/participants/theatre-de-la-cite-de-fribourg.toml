@@ -1,7 +1,6 @@
 display = "Théâtre de la Cité de Fribourg"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.tcf.ch/"

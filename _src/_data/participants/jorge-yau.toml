@@ -1,12 +1,11 @@
 display = "Jorge Yau"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.jyau.com/"
 title = "Jorge Yau"
 years = [
 	2006,
-	2008 
+	2008
 ]

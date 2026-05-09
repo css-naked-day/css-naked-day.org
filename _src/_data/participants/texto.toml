@@ -1,7 +1,6 @@
 display = "Texto"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.texto.de/"

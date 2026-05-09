@@ -1,7 +1,6 @@
 display = "Suburbia"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://suburbia.org.uk/"

@@ -1,7 +1,6 @@
 display = "Omega Web"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.omega-web.es/"

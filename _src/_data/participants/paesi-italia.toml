@@ -1,7 +1,6 @@
 display = "Paesi Italia"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.agoraitalia.it/"

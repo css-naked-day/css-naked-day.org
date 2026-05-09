@@ -1,7 +1,6 @@
 display = "Matthew Oliphant’s usabilityworks.org"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://usabilityworks.org/"

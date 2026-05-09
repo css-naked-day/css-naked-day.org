@@ -1,7 +1,6 @@
 display = "Corebean"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.corebean.com/"

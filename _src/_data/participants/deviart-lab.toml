@@ -1,7 +1,6 @@
 display = "Deviart Lab"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.deviart.ru/"

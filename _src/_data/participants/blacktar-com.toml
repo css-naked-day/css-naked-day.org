@@ -1,7 +1,6 @@
 display = "blacktar.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://blacktar.com/"

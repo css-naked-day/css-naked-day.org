@@ -1,7 +1,6 @@
 display = "Jeff Schiller’s blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.codedread.com/"

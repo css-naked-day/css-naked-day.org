@@ -1,7 +1,6 @@
 display = "Fuzzy Logic"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.sacredpaws.org/"

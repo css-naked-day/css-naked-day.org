@@ -1,14 +1,13 @@
 display = "Garbaland"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://garbaland.belfagor.net/"
 title = "Garbaland"
 years = [
 	2007,
-	2008 
+	2008
 ]
 
 [[websites]]

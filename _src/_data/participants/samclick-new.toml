@@ -1,7 +1,6 @@
 display = "Samclick – new"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://samclick.wz.cz/new/menuindex.php"

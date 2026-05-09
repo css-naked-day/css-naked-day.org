@@ -1,7 +1,6 @@
 display = "Strange Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://j.strane.net/wp"

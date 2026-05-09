@@ -1,12 +1,11 @@
 display = "Adi Setiawan"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://ex3me.org/"
 title = "Adi Setiawan"
 years = [
 	2007,
-	2008 
+	2008
 ]

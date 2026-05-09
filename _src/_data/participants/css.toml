@@ -1,7 +1,6 @@
 display = "css资料站"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.dabaii.com/"

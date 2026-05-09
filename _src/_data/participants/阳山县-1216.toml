@@ -1,7 +1,6 @@
 display = "阳山县"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://yangshan.xiexiao.com/"

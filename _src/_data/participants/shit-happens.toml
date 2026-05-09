@@ -1,7 +1,6 @@
 display = "Shit happens!"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://mmister.com/"

@@ -1,7 +1,6 @@
 display = "Carl Camera"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://iamacamera.org/"
@@ -9,5 +8,5 @@ title = "Carl Camera"
 years = [
 	2006,
 	2007,
-	2008 
+	2008
 ]

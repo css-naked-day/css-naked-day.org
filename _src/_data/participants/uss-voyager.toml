@@ -1,7 +1,6 @@
 display = "USS Voyager"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://orca.890m.com/wordpress/"

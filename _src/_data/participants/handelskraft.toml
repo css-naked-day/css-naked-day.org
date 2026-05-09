@@ -1,7 +1,6 @@
 display = "Handelskraft"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.handelskraft.de/"

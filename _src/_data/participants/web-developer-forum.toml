@@ -1,7 +1,6 @@
 display = "Web developer forum"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://webphp.ru/"

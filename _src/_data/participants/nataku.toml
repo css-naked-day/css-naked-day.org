@@ -1,7 +1,6 @@
 display = "NaTaKu"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.nataku.es/"

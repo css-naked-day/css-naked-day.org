@@ -1,7 +1,6 @@
 display = "Toskanaurlaub"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.toskanaurlaub.de/"

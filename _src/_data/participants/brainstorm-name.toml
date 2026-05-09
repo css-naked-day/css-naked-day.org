@@ -1,7 +1,6 @@
 display = "brainstorm.name"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://brainstorm.name/"

@@ -1,7 +1,6 @@
 display = "Biblia Online"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.bibliaonline.com.br/"

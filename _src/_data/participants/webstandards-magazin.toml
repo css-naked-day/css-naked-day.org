@@ -1,7 +1,6 @@
 display = "Webstandards-Magazin"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.webstandards-magazin.de/"

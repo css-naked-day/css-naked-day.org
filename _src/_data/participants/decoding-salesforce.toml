@@ -1,7 +1,6 @@
 display = "Decoding Salesforce"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://salesforce.phollaio.com/"

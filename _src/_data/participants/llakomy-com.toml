@@ -1,7 +1,6 @@
 display = "llakomy.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.llakomy.com/"

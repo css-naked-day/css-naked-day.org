@@ -1,7 +1,6 @@
 display = "Greystate Web"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://greystate.dk/"

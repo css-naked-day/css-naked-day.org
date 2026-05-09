@@ -1,7 +1,6 @@
 display = "Reseguide Dubai"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.dubai24.se/"

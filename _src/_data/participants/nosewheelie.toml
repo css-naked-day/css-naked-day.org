@@ -1,7 +1,6 @@
 display = "nosewheelie"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://adams.id.au/blog/"

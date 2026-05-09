@@ -1,7 +1,6 @@
 display = "虛擬先生"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://vaemon.com/"

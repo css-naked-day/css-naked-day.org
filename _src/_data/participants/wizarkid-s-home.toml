@@ -1,12 +1,11 @@
 display = "WizarKID’s Home"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://xch.name/"
 title = "WizarKID’s Home"
 years = [
 	2008,
-	2009 
+	2009
 ]

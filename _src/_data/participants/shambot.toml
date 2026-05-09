@@ -1,7 +1,6 @@
 display = "Shambot!"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.shambot.com/"

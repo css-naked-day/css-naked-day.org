@@ -1,7 +1,6 @@
 display = "Twisted Intellect"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://twistedintellect.com/"
@@ -9,5 +8,5 @@ title = "Twisted Intellect"
 years = [
 	2006,
 	2007,
-	2008 
+	2008
 ]

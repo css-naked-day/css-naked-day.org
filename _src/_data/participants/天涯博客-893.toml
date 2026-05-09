@@ -1,7 +1,6 @@
 display = "天涯博客"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.tyblog.com/"

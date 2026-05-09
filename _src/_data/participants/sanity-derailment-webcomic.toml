@@ -1,7 +1,6 @@
 display = "Sanity Derailment Webcomic"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://sdcomic.net/"

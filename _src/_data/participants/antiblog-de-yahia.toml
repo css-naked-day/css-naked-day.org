@@ -1,7 +1,6 @@
 display = "Antiblog de Yahia"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://yahia.ma/antiblog/"

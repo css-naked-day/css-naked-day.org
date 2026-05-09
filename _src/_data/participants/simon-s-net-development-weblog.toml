@@ -1,7 +1,6 @@
 display = "Simon’s .Net Development Weblog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://weblog.simondeshaies.com/"

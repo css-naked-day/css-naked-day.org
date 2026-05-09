@@ -1,7 +1,6 @@
 display = "G4ss13 Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://tee.frih.net/blog"

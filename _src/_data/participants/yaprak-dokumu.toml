@@ -1,7 +1,6 @@
 display = "Yaprak Dokumu"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.yaprakdokumu.be/"

@@ -1,7 +1,6 @@
 display = "Becky"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.babblative.com/"

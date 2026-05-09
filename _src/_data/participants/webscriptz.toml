@@ -1,7 +1,6 @@
 display = "WebScriptz"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.webscriptz.net/"

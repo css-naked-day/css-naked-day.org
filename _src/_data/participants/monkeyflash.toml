@@ -1,7 +1,6 @@
 display = "monkeyflash"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.monkeyflash.com/"

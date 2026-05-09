@@ -1,7 +1,6 @@
 display = "Yurukov Live"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://yurukov.net/blog"

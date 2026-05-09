@@ -1,7 +1,6 @@
 display = "Radio Levhita"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.levhita.net/"

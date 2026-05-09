@@ -1,7 +1,6 @@
 display = "Go Free Range"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://gofreerange.com/"

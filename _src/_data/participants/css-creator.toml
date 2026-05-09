@@ -1,7 +1,6 @@
 display = "CSS Creator"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://csscreator.com/"

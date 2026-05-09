@@ -1,7 +1,6 @@
 display = "飘雨设计社区"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://pysj.v-ec.com/"

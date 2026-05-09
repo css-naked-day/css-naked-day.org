@@ -1,7 +1,6 @@
 display = "hzsé.blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://hzse.try.hu/"

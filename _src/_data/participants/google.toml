@@ -1,7 +1,6 @@
 display = "Google"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.google.com"

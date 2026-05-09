@@ -1,7 +1,6 @@
 display = "zone41"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://zone41.info/"

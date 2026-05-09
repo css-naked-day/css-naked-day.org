@@ -1,7 +1,6 @@
 display = "Quack"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.quackpipe.com"

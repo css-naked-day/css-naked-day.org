@@ -1,7 +1,6 @@
 display = "log.alamagordo.org"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://log.alamagordo.org/"

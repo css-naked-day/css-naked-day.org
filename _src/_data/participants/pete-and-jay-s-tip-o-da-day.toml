@@ -1,7 +1,6 @@
 display = "Pete & Jay’s Tip O Da Day"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://tips.petervcook.com/"

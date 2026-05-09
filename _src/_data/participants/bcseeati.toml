@@ -1,7 +1,6 @@
 display = "BCSEEATI"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.bcse.info/"

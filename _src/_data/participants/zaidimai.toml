@@ -1,7 +1,6 @@
 display = "Zaidimai"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.izaidimai.lt/"

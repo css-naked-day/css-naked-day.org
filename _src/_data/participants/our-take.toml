@@ -1,7 +1,6 @@
 display = "Our Take"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://take.gosammy.com/"

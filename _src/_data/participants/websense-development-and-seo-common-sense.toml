@@ -1,7 +1,6 @@
 display = "Websense: Development & SEO Common Sense"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://websense.thekarchergroup.com/"

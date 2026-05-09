@@ -1,7 +1,6 @@
 display = "bankfish’s blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.bankfish.net/"

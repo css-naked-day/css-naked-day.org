@@ -1,7 +1,6 @@
 display = "alian.info | blog o IT, hudbe a o živote"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://alian.info/"

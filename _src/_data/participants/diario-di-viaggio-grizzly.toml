@@ -1,7 +1,6 @@
 display = "Diario di viaggio – Grizzly"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.g-sr.eu/"

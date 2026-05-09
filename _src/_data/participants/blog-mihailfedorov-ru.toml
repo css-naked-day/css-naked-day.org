@@ -1,7 +1,6 @@
 display = "Blog.MihailFedorov.ru"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.mihailfedorov.ru/"

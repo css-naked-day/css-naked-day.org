@@ -1,7 +1,6 @@
 display = "Nucleus"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.nucleus.gen.tr/"

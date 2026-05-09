@@ -1,7 +1,6 @@
 display = "QueBuenaWeb"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.quebuenaweb.com.ar/"

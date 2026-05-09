@@ -1,7 +1,6 @@
 display = "tiefgedacht"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.tiefgedacht.de/"

@@ -1,7 +1,6 @@
 display = "Phil’s own Dot Org"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://philsown.org/"

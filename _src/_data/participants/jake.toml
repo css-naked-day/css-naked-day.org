@@ -1,7 +1,6 @@
 display = "Jake"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://jacobpellegren.com/"

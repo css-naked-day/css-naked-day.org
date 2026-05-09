@@ -1,7 +1,6 @@
 display = "Bloggkonsult"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.bloggkonsult.se/"

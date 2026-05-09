@@ -1,7 +1,6 @@
 display = "The Catmafia"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://tish.dubious.nu/"

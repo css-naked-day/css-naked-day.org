@@ -1,7 +1,6 @@
 display = "jmonday.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.jmonday.com/"

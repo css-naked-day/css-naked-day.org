@@ -1,7 +1,6 @@
 display = "Boggle the mind (Jeff L)"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.bogglethemind.com/"

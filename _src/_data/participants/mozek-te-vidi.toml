@@ -1,7 +1,6 @@
 display = "Mozek Tě Vidí"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://mozektevidi.net/"

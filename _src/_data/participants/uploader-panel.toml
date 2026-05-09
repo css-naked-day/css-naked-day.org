@@ -1,7 +1,6 @@
 display = "Uploader panel"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://uploader-panel.com/"

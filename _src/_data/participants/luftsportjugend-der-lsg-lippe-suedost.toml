@@ -1,7 +1,6 @@
 display = "Luftsportjugend der LSG Lippe-Südost"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.lsj.lsg-lippe.de/"

@@ -1,7 +1,6 @@
 display = "Stugoo portfolio!"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.stugoo.co.uk/"

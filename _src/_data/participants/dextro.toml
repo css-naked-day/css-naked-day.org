@@ -1,7 +1,6 @@
 display = "Dextro"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.blog.nonsensebb.com/"

@@ -1,7 +1,6 @@
 display = "大医药"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.dayiyao.com/"

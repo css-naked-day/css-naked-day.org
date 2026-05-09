@@ -1,7 +1,6 @@
 display = "Dunkelstern’s Mobile Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://dunkelstern.blogger.com/"

@@ -1,7 +1,6 @@
 display = "Gemma"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.ramblinations.com/blog/"

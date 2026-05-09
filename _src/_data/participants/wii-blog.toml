@@ -1,7 +1,6 @@
 display = "Wii Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://wii-blog.de/"

@@ -1,7 +1,6 @@
 display = "UCDChina"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://ucdchina.com/"

@@ -1,7 +1,6 @@
 display = "ofertas vuelos"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.ofertasvuelosya.com/"

@@ -1,7 +1,6 @@
 display = "aetherworld"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.aetherworld.org/"

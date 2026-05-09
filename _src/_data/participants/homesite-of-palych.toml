@@ -1,7 +1,6 @@
 display = "Homesite of PaLyCH"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://palpalych.ru/"

@@ -1,7 +1,6 @@
 display = "Punderings"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://shane.curcuru.name/blog/"

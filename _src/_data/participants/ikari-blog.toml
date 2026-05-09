@@ -1,7 +1,6 @@
 display = "ikari » blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://blog.ikari.pl/"

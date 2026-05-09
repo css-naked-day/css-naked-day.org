@@ -1,7 +1,6 @@
 display = "information visualisation"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://iad.projects.hgkz.ch/infovis07/"

@@ -1,7 +1,6 @@
 display = "Hugo"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://solo.infames.org/"

@@ -1,7 +1,6 @@
 display = "Hey, It’s Free!"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.heyitsfree.net/"

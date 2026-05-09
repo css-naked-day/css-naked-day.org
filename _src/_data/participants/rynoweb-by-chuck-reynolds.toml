@@ -1,7 +1,6 @@
 display = "rYnoweb by Chuck Reynolds"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://rynoweb.com/"

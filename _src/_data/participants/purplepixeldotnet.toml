@@ -1,7 +1,6 @@
 display = "PurplepixelDotNet"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.purplepixel.net/"

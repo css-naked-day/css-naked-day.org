@@ -1,7 +1,6 @@
 display = "liDEL"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://lidel.jogger.pl/"

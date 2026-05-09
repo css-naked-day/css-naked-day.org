@@ -1,7 +1,6 @@
 display = "dev/gg"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://dev.gadu-gadu.pl/"

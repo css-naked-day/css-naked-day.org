@@ -1,7 +1,6 @@
 display = "Ben Johnson"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.benjohnson.ca/"

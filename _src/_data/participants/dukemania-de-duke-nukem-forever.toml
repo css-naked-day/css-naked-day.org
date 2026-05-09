@@ -1,7 +1,6 @@
 display = "Dukemania.de Duke Nukem Forever"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.dukemania.de/"

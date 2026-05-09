@@ -1,12 +1,11 @@
 display = "Atourworst.org"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://atourworst.org/"
 title = "Atourworst.org"
 years = [
 	2008,
-	2009 
+	2009
 ]

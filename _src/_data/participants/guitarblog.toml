@@ -1,7 +1,6 @@
 display = "guitarblog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://gy.ere.be/"

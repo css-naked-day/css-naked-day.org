@@ -1,7 +1,6 @@
 display = "Rhyming Panda"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://rhymingpanda.com/"

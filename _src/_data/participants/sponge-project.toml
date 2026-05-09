@@ -1,7 +1,6 @@
 display = "Sponge Project"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.spongeproject.co.uk/"

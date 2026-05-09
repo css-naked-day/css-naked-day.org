@@ -1,7 +1,6 @@
 display = "nextnexus"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.nextnexus.de/"

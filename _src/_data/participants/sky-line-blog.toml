@@ -1,7 +1,6 @@
 display = "sky line blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://sky-line.jp/blog/"

@@ -1,7 +1,6 @@
 display = "Quixmart Discount Codes"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.quixmart.co.uk/"

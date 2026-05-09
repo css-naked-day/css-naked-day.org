@@ -1,7 +1,6 @@
 display = "Radeon – homepage"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.radeko.ovh.org/"

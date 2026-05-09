@@ -1,7 +1,6 @@
 display = "Thanks for stopping by"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://svetlix.wordpress.com/"

@@ -1,7 +1,6 @@
 display = "Dragonfly Estonia"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://000.pri.ee/"

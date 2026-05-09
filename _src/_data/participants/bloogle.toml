@@ -1,7 +1,6 @@
 display = "Bloogle"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.bloogle.com.ua/"

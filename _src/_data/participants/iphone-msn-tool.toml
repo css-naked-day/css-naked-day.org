@@ -1,7 +1,6 @@
 display = "iphone msn tool"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://iphone-msn.com/"

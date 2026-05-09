@@ -1,7 +1,6 @@
 display = "Okeimakei"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://okeimakei.bitacoras.com/"

@@ -1,7 +1,6 @@
 display = "Quorum Collective"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://qsense.org/"

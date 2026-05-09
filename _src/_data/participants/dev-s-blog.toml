@@ -1,7 +1,6 @@
 display = "Dev’s Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.devatrox.de/"

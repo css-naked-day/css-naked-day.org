@@ -1,7 +1,6 @@
 display = "九寨沟旅游"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.17jiuzhaigou.com/"

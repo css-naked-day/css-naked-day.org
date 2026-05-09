@@ -1,7 +1,6 @@
 display = "Blog Vadima"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://vadim.com.ua/"

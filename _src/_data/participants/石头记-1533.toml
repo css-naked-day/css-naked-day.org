@@ -1,7 +1,6 @@
 display = "石头记"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://shixinyu.cn/"

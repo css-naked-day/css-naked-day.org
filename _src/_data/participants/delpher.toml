@@ -1,7 +1,6 @@
 display = "delpher"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://delpher.od.ua/"

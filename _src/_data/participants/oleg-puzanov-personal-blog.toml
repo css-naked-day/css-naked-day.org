@@ -1,7 +1,6 @@
 display = "Oleg Puzanov Personal Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.oleg-puzanov.com.ua/"

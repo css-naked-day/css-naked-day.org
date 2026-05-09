@@ -1,7 +1,6 @@
 display = "Artem.Chertov’s diary"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://artem.chertov.name/"

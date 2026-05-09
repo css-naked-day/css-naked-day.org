@@ -1,7 +1,6 @@
 display = "Artxtra"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://artxtra.info/"

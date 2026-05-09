@@ -1,7 +1,6 @@
 display = "Brandon’s blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.brandon-west.com/"

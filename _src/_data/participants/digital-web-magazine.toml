@@ -1,7 +1,6 @@
 display = "Digital Web Magazine"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.digital-web.com/"

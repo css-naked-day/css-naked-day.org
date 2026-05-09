@@ -1,7 +1,6 @@
 display = "Modernes Leben mit Schleiblick"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://weblog.micha-schmidt.net/"

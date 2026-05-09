@@ -1,7 +1,6 @@
 display = "spacesheep"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://spacesheep.net/"

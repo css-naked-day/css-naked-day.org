@@ -1,7 +1,6 @@
 display = "prisca"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.graphiceyedea.info/wordpress"

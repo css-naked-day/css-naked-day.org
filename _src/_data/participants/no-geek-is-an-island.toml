@@ -1,7 +1,6 @@
 display = "No geek is an island"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.willhowells.org.uk/blog/"

@@ -1,7 +1,6 @@
 display = "The home of windy cat"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://komzpa.net/"

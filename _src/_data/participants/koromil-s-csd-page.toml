@@ -1,7 +1,6 @@
 display = "koromil’s csd page"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.csd.uoc.gr/~koromil"

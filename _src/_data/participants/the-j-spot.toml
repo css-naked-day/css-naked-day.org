@@ -1,12 +1,11 @@
 display = "The J Spot"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://racoma.com.ph/"
 title = "The J Spot"
 years = [
 	2007,
-	2008 
+	2008
 ]

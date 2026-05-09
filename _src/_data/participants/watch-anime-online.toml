@@ -1,7 +1,6 @@
 display = "Watch anime online"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://animekun.ru/"

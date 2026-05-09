@@ -1,7 +1,6 @@
 display = "Blue Cord Biblioblog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.bluecord.org/biblioblog"

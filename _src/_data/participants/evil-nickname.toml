@@ -1,7 +1,6 @@
 display = "Evil Nickname"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://home.planet.nl/~williamg/www/dist/"

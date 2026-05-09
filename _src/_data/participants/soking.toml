@@ -1,7 +1,6 @@
 display = "soking的桌子"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://and8.net/"

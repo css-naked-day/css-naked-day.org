@@ -1,7 +1,6 @@
 display = "htmlbox"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://htmlbox.net/"

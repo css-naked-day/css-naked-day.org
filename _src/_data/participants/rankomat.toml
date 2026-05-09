@@ -1,12 +1,11 @@
 display = "rankomat"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.rankomat.de/"
 title = "rankomat"
 years = [
 	2008,
-	2009 
+	2009
 ]

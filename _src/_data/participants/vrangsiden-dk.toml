@@ -1,7 +1,6 @@
 display = "vrangsiden.dk"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.vrangsiden.dk/blog/"

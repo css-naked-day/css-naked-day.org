@@ -1,7 +1,6 @@
 display = "Ryan McCue’s Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://cubegames.net/"

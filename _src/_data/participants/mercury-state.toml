@@ -1,7 +1,6 @@
 display = "Mercury State"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.mercurystate.com/"

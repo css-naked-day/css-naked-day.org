@@ -1,7 +1,6 @@
 display = "Superbil.info"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.superbil.info/"

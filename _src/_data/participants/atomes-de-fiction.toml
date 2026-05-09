@@ -1,7 +1,6 @@
 display = "Atomes de fiction"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://atomes.theothersite.be/"

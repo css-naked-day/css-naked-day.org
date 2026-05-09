@@ -1,7 +1,6 @@
 display = "The simFluence"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.simb.net/"

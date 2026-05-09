@@ -1,7 +1,6 @@
 display = "Webrocker"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.webrocker.de/"

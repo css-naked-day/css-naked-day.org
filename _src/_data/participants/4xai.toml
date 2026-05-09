@@ -1,7 +1,6 @@
 display = "4XAI"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.4xai.com/"

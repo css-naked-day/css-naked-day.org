@@ -1,7 +1,6 @@
 display = "Renan Gonçalves’s Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.renangoncalves.com/"

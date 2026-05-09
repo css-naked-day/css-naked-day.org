@@ -1,7 +1,6 @@
 display = "The Simian Downtime Analyst"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.thesimiandowntimeanalyst.com/"

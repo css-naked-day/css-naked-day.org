@@ -1,7 +1,6 @@
 display = "WP Experiments"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.nietoperzka.com/wptraining/"

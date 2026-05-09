@@ -1,7 +1,6 @@
 display = "Riddle"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://riddle.jogger.pl/"

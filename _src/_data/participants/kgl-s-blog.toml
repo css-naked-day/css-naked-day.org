@@ -1,12 +1,11 @@
 display = "kgl’s blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.kgl.idv.tw/"
 title = "kgl’s blog"
 years = [
 	2007,
-	2008 
+	2008
 ]

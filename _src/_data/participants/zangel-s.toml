@@ -1,7 +1,6 @@
 display = "Zangel’s"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://zangel.us/"
@@ -9,5 +8,5 @@ title = "Zangel’s"
 years = [
 	2007,
 	2008,
-	2009 
+	2009
 ]

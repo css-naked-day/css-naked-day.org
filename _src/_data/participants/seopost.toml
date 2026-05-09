@@ -1,7 +1,6 @@
 display = "seopost"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.seopost.ru/"

@@ -1,7 +1,6 @@
 display = "Ötös csatorna"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.5csatorna.hu/"

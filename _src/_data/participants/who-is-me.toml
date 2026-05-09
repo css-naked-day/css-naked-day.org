@@ -1,7 +1,6 @@
 display = "who is me"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://xerr.net/"

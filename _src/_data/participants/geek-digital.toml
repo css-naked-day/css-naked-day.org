@@ -1,7 +1,6 @@
 display = "Geek Digital"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://geekdigital.zobyhost.com/"

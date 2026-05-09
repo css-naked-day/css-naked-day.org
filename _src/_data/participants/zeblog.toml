@@ -1,7 +1,6 @@
 display = "Zeblog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.zepont.hu/"

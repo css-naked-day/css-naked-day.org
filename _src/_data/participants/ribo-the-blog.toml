@@ -1,7 +1,6 @@
 display = "Ribo -- the blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.r1b0.net/"

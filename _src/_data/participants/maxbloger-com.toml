@@ -1,7 +1,6 @@
 display = "MaxBloger.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://maxbloger.com/"

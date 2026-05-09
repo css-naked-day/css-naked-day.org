@@ -1,7 +1,6 @@
 display = "Iampm.org"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.iampm.org/"

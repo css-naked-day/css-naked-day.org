@@ -1,7 +1,6 @@
 display = "Online Marketing Hamburg"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.effektor.de/"

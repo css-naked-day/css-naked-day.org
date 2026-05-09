@@ -1,7 +1,6 @@
 display = "prepaid, tom jones"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.prepaid.unternehmen-hoexter.de/prepaid-dsl.htm"

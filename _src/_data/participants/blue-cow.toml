@@ -1,7 +1,6 @@
 display = "Blue Cow"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blue-cow.info/"

@@ -1,7 +1,6 @@
 display = "ENESGE"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blogg.enesge.eu/"

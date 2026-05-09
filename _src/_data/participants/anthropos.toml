@@ -1,7 +1,6 @@
 display = "anthropos"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://hi.baidu.com/skew"

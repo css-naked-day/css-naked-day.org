@@ -1,7 +1,6 @@
 display = "html 2.0 wordpress theme"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.artnorm.de/html_2-0"

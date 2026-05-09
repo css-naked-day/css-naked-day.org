@@ -1,7 +1,6 @@
 display = "adfmedia"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.adfmedia.net/"

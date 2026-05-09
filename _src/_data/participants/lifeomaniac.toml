@@ -1,7 +1,6 @@
 display = "lifeOmaniac"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.archit.in/"

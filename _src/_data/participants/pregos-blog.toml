@@ -1,7 +1,6 @@
 display = "pregos blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.pregos.info/"

@@ -1,7 +1,6 @@
 display = "The Internet Review"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://theinternet.review/"

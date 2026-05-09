@@ -1,7 +1,6 @@
 display = "Stas Sushkov Journal"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://stas.nerd.ro/"

@@ -1,7 +1,6 @@
 display = "munkalap"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.marvanygranit.hu/"

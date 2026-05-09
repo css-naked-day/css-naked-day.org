@@ -1,7 +1,6 @@
 display = "SiRGts blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://sirgt.chapinware.com/"

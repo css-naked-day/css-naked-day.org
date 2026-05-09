@@ -1,7 +1,6 @@
 display = "도요새의 둥지"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.csolix.com/"

@@ -1,7 +1,6 @@
 display = "Zakladi interneta"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://zakladi.com/"

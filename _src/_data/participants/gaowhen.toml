@@ -1,7 +1,6 @@
 display = "GaoWhen"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://gaowhen.com/"

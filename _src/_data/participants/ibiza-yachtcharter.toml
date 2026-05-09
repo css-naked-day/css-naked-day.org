@@ -1,7 +1,6 @@
 display = "Ibiza Yachtcharter"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.amoyachts.com/"

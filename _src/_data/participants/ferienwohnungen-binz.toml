@@ -1,7 +1,6 @@
 display = "Ferienwohnungen Binz"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.binz-ferienwohnungen-ruegen.de/"

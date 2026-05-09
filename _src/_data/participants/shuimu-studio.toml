@@ -1,7 +1,6 @@
 display = "Shuimu Studio"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.shuimustudio.cn/"

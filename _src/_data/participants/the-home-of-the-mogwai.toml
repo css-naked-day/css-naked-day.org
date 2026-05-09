@@ -1,7 +1,6 @@
 display = "The Home of the Mogwai"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.gizzmoasus.co.uk/"

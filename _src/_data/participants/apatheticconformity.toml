@@ -1,7 +1,6 @@
 display = "ApatheticConformity"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://web.archive.org/web/20081121030154/http://www.apatheticconformity.com/"
@@ -9,5 +8,5 @@ title = "ApatheticConformity"
 years = [
 	2007,
 	2008,
-	2009 
+	2009
 ]

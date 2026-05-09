@@ -1,7 +1,6 @@
 display = "Game Myspace"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.gamemyspace.com/"

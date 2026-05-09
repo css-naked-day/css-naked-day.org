@@ -1,7 +1,6 @@
 display = "Atech"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://attila.antals.org/"

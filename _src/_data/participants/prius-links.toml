@@ -1,7 +1,6 @@
 display = "Prius Links"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://priuslinks.com/"

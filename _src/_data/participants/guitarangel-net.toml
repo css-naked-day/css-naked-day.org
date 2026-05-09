@@ -1,14 +1,13 @@
 display = "GuitarAngel.net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.guitarangel.net/"
 title = "GuitarAngel.net"
 years = [
 	2007,
-	2009 
+	2009
 ]
 
 [[websites]]

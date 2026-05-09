@@ -1,7 +1,6 @@
 display = "zoopark"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.zoopark.su/"

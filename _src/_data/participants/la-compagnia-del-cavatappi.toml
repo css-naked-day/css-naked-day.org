@@ -1,7 +1,6 @@
 display = "La Compagnia del Cavatappi"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.lacompagniadelcavatappi.com/blog"

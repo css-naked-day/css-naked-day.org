@@ -1,7 +1,6 @@
 display = "Ruido Blanco"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://ruido-blanco.net/blog"

@@ -1,7 +1,6 @@
 display = "Murphy’s laws site"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.murphys-laws.com/"

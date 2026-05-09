@@ -1,7 +1,6 @@
 display = "SMT"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://1800smt.com/"

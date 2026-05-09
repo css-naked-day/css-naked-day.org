@@ -1,7 +1,6 @@
 display = "Digital Phoenix Web Design"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://digitalphoenix.ca/"

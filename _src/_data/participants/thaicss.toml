@@ -1,7 +1,6 @@
 display = "thaiCSS"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.thaicss.com/"

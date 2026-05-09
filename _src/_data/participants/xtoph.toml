@@ -1,7 +1,6 @@
 display = "Xtoph"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://zeus.fh-brandenburg.de/~franzc/blog/"

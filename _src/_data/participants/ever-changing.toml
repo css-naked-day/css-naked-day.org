@@ -1,7 +1,6 @@
 display = "Ever Changing"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.everchanging.ca/"

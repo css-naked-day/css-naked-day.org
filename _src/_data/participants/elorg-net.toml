@@ -1,7 +1,6 @@
 display = "elorg.net"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.elorg.net/"

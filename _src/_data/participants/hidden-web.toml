@@ -1,7 +1,6 @@
 display = "hidden web"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.pageoff.net/"

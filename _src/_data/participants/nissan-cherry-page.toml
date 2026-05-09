@@ -1,7 +1,6 @@
 display = "NIssan Cherry page"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.cherry.nsb.pl/"

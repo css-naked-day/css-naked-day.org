@@ -1,7 +1,6 @@
 display = "tsuki story"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://tsuki.zc.bz/blog"

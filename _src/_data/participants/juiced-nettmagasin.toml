@@ -1,7 +1,6 @@
 display = "Juiced nettmagasin"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://juiced.no/"

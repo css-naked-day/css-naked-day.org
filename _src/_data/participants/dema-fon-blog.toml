@@ -1,7 +1,6 @@
 display = "dema fon blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://fonblog.wordpress.com/"

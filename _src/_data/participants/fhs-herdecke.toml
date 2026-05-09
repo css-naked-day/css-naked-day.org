@@ -1,7 +1,6 @@
 display = "FHS Herdecke"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://fhs-herdecke.de/"

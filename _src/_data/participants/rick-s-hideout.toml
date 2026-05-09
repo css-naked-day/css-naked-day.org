@@ -1,7 +1,6 @@
 display = "Rick’s HideOut"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://rick.jinlabs.com/"

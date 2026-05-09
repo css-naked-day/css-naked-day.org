@@ -1,7 +1,6 @@
 display = "Mortgage calculators source"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.mortgage-site-tools.com/"

@@ -1,7 +1,6 @@
 display = "L2Hackteam"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2008/http://l2hackteam.org.ru/"

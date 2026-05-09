@@ -1,7 +1,6 @@
 display = "NAKED!"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.sanbaldo.com/"

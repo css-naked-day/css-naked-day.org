@@ -1,7 +1,6 @@
 display = "s55"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.s55.nl/blog"

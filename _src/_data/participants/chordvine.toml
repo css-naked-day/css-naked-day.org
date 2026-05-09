@@ -1,7 +1,6 @@
 display = "Chordvine"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://chordvine.com/"

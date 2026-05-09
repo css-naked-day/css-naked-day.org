@@ -1,7 +1,6 @@
 display = "Rsboarder[BIZ]"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://rsboarder.biz/"

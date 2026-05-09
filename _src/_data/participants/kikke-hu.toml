@@ -1,7 +1,6 @@
 display = "kikke.hu"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://kikke.hu/"

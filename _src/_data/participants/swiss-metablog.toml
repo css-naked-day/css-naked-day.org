@@ -1,7 +1,6 @@
 display = "Swiss Metablog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.ch/blog/"

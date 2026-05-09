@@ -1,7 +1,6 @@
 display = "Adam Wilcox’s WilcosWorld"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://wilcosworld.co.uk/"

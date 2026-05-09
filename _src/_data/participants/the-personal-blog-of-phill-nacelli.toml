@@ -1,7 +1,6 @@
 display = "The personal blog of Phill Nacelli."
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.phillnacelli.net/"

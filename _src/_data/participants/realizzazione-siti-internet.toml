@@ -1,7 +1,6 @@
 display = "Realizzazione Siti Internet"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://siti.studioeasyweb.it/"

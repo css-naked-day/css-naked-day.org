@@ -1,7 +1,6 @@
 display = "Pig Work"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.pigwork.info/"

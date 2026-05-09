@@ -1,7 +1,6 @@
 display = "Pavel"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://web.archive.org/web/20060419032212/http://houbba.czweb.org:80/"

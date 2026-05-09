@@ -1,7 +1,6 @@
 display = "Kusaker.log"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://d.hatena.ne.jp/kusaker/"

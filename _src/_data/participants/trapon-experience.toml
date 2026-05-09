@@ -1,7 +1,6 @@
 display = "trapon experience"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.trapon.com/log/"

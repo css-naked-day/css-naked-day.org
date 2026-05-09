@@ -1,7 +1,6 @@
 display = "Ruby on Rails"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.rubyonrailsexamples.com/"

@@ -1,7 +1,6 @@
 display = "lokland.cn"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.lokland.cn/"

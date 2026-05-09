@@ -1,7 +1,6 @@
 display = "Toivoa.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2007/http://blog.toivoa.com/"

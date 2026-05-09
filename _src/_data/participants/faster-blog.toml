@@ -1,7 +1,6 @@
 display = "faster blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://faster.sk/"

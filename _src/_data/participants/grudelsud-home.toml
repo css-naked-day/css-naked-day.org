@@ -1,7 +1,6 @@
 display = "grudelsud home"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://morpheus.micc.unifi.it/alisi/"

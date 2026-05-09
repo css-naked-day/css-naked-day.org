@@ -1,7 +1,6 @@
 display = "Big Sky"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.ac.cyberhome.ne.jp/~mattn/"

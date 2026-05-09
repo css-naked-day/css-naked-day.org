@@ -1,7 +1,6 @@
 display = "the fontvir.us blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://the.fontvir.us/b10g/"

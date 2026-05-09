@@ -1,7 +1,6 @@
 display = "The Big Blog of Nothingness"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://kimblim.dk/"

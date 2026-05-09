@@ -1,7 +1,6 @@
 display = "strimble.com"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://strimble.com/"

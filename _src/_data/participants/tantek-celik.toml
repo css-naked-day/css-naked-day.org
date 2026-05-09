@@ -1,7 +1,6 @@
 display = "Tantek Çelik"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://tantek.com/"

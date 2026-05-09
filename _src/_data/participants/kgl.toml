@@ -1,7 +1,6 @@
 display = "Kgl"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.kgl.idv.tw/"

@@ -1,7 +1,6 @@
 display = "IVershuo’s Blog (Beta)"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://beta.ivershuo.cn/"

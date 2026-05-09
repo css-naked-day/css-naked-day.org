@@ -1,7 +1,6 @@
 display = "JamRadio.org"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.jamradio.org/"

@@ -1,7 +1,6 @@
 display = "Fritz"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://webdesign.weisshart.de/"

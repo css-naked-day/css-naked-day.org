@@ -1,7 +1,6 @@
 display = "Web Consulting"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.reivilo.net/"

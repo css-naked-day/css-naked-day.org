@@ -1,7 +1,6 @@
 display = "Jens"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.stripmusic.se/"

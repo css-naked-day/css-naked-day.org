@@ -1,7 +1,6 @@
 display = "Finweblog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://weblog.finwe.info/"

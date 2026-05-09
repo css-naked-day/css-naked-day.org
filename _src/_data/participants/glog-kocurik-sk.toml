@@ -1,7 +1,6 @@
 display = "glog.kocurik.sk"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://blog.kocurik.sk/"

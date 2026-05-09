@@ -1,7 +1,6 @@
 display = "Mama’s Bloggin’"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/2006/http://mamasbloggin.com/"

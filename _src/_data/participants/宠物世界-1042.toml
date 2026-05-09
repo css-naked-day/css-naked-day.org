@@ -1,7 +1,6 @@
 display = "宠物世界"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.petsworld.cn/"

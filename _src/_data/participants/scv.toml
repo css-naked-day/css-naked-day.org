@@ -1,7 +1,6 @@
 display = "SCV君"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://scvlife.egloos.com/"

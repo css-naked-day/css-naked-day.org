@@ -1,7 +1,6 @@
 display = "d.onestudio"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://d.onestudio.com.br/"

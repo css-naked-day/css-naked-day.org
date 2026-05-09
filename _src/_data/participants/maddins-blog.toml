@@ -1,7 +1,6 @@
 display = "Maddins Blog"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://blog.mafsw.de/"

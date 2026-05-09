@@ -1,7 +1,6 @@
 display = "flex.fleximus.de"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://flex.fleximus.de/"

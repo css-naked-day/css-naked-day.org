@@ -1,7 +1,6 @@
 display = "PistenListe"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.pistenliste.de/"

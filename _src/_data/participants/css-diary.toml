@@ -1,7 +1,6 @@
 display = "CSS Diary"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://www.cssdiary.com/"

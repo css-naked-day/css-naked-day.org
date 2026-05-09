@@ -1,7 +1,6 @@
 display = "Geoland"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://geoland.org/"

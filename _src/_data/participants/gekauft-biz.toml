@@ -1,7 +1,6 @@
 display = "Gekauft.biz"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://web.archive.org/web/http://www.gekauft.biz/"

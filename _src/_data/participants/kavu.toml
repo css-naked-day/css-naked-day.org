@@ -1,7 +1,6 @@
 display = "kavu"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://goout.seesaa.net/"

@@ -1,7 +1,6 @@
 display = "Balázs Gábor honlapja"
 
 # Websites
-# ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://balazsgabi.hu/"
