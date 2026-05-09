@@ -158,3 +158,8 @@ npm run build
 ```bash
 npm run dev
 ```
+
+[css-naked-day.org]: https://css-naked-day.org/
+[Naked Days Corp]: https://css-naked-day.org/
+[CSS Naked Day]: https://css-naked-day.org/
+[JS Naked Day]: https://js-naked-day.org/
