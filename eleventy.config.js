@@ -8,28 +8,26 @@ function getWebsiteDomain(url) {
 	);
 }
 
-// TODO: Add a tool to target duplicated domains.
-// TODO: Add finer sorting.
+// TODO: Add a tool to target duplicated domains
+// TODO: Add finer sorting
 
 export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
 	eleventyConfig.setInputDirectory('_src');
 
-	// Host static assets. Anything from `./public/` goes to site’s root `/`.
+	// Host static assets—anything from `./public/` goes to site’s root `/`
 	eleventyConfig.addPassthroughCopy({ '_assets/public': '/' });
 
-	// Allow to parse Toml files for Global data.
+	// Allow to parse Toml files for Global data
 	eleventyConfig.addDataExtension('toml', (contents) => toml.parse(contents));
 
 	// Filters
-	// ===============================================================================================
 
 	eleventyConfig.addFilter('getSiteTitle', function(website) {
 		return website.title ?? getWebsiteDomain(website.url);
 	});
 
-	// Global data filters.
-	// ---------------------------------------------------------------------------
+	// Global data filters
 
 	eleventyConfig.addFilter('getParticipantDisplayName', function(filename) {
 		const participant = this.ctx.participants[filename];
@@ -47,7 +45,7 @@ export default function (eleventyConfig) {
 			return false;
 		}
 
-		// Is there at least one `homeURL` in the user file.
+		// Is there at least one `homeURL` in the user file
 		const hasHomeURL = participant.websites.some(website => website.homeURL !== undefined);
 
 		if (!hasHomeURL) {
@@ -57,8 +55,7 @@ export default function (eleventyConfig) {
 		return websitesForYear[0].homeURL;
 	});
 
-	// eleventyComputed data filters.
-	// ---------------------------------------------------------------------------
+	// eleventyComputed data filters
 
 	/**
 	 * Get all participants from the eleventyComputed data.
@@ -96,7 +93,6 @@ export default function (eleventyConfig) {
 	});
 
 	// Shortcodes
-	// ===============================================================================================
 
 	/**
 	 * Display the URL of the website without a link if it is marked as spam.
@@ -139,7 +135,6 @@ export default function (eleventyConfig) {
 	});
 
 	// HTML minification
-	// ===============================================================================================
 
 	eleventyConfig.addTransform('htmlmin', function(content) {
 		if (this.page.outputPath && this.page.outputPath.endsWith('.html')) {
@@ -153,7 +148,6 @@ export default function (eleventyConfig) {
 		return content;
 	});
 
-	// ===============================================================================================
 
 	return {
 		htmlTemplateEngine: 'njk',
