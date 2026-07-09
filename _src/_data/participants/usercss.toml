@@ -3,11 +3,11 @@ display = "User CSS"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://usercss.ru/"
+url = "https://web.archive.org/web/http://usercss.ru/"
 title = "in russian"
 years = [ 2008 ]
 
 [[websites]]
-url   = "http://usercss.com/"
+url = "http://usercss.com/"
 title = "in english"
 years = [ 2008 ]

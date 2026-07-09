@@ -3,6 +3,6 @@ display = "Ning Design"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.webning.cn/"
+url = "https://web.archive.org/web/http://www.webning.cn/"
 title = "Ning Design"
 years = [ 2007 ]

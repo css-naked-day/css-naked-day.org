@@ -3,6 +3,6 @@ display = "Internet Brain"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://imaginaryworld.net/"
+url = "https://web.archive.org/web/http://imaginaryworld.net/"
 title = "Internet Brain"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "Веб-разработчик"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://dyatko.ru/"
+url = "https://web.archive.org/web/2007/http://dyatko.ru/"
 title = "Веб-разработчик"
 years = [ 2008 ]

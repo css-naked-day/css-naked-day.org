@@ -3,6 +3,6 @@ display = "XJiang blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.webforu.cn"
+url = "https://web.archive.org/web/http://www.webforu.cn"
 title = "XJiang blog"
 years = [ 2009 ]

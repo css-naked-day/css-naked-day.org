@@ -3,6 +3,6 @@ display = "DJ Zaikin (Russia)"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://djzaikin.com/"
+url = "https://web.archive.org/web/http://djzaikin.com/"
 title = "DJ Zaikin (Russia)"
 years = [ 2008 ]

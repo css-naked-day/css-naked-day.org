@@ -3,7 +3,7 @@ display = "Use-Bombs"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.use-bombs.com/"
+url = "https://web.archive.org/web/2007/http://www.use-bombs.com/"
 title = "Use-Bombs"
 years = [
 	2007,

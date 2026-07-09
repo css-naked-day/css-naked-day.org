@@ -3,6 +3,6 @@ display = "Emil Enevoldsen"
 # Websites
 
 [[websites]]
-url   = "http://byfixar.no/"
+url = "http://byfixar.no/"
 title = "Emil Enevoldsen"
 years = [ 2007 ]

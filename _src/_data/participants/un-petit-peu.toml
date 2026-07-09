@@ -3,6 +3,6 @@ display = "Un Petit Peu"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://un-petit-p.eu/"
+url = "https://web.archive.org/web/http://un-petit-p.eu/"
 title = "Un Petit Peu"
 years = [ 2008 ]

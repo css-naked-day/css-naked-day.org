@@ -3,6 +3,6 @@ display = "zzunny’s stylincss"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://css.isfreeweb.com/2009/"
+url = "https://web.archive.org/web/http://css.isfreeweb.com/2009/"
 title = "zzunny’s stylincss"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Leonid Volnitsky"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://volnitsky.com/"
+url = "https://web.archive.org/web/2008/http://volnitsky.com/"
 title = "Leonid Volnitsky"
 years = [ 2009 ]

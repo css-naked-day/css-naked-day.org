@@ -3,6 +3,6 @@ display = "GustavoRibeiro.net"
 # Websites
 
 [[websites]]
-url   = "http://web.archive.org/web/20090508153244/http://blog.gustavoribeiro.net:80/"
+url = "http://web.archive.org/web/20090508153244/http://blog.gustavoribeiro.net:80/"
 title = "GustavoRibeiro.net"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "CSS Dev (Andy Peatling)"
 # Websites
 
 [[websites]]
-url   = "http://www.cssdev.com/"
+url = "http://www.cssdev.com/"
 title = "CSS Dev (Andy Peatling)"
 years = [ 2006 ]

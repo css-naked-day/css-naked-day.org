@@ -3,6 +3,6 @@ display = "inf4u"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://inf4u.org.ua/"
+url = "https://web.archive.org/web/http://inf4u.org.ua/"
 title = "inf4u"
 years = [ 2009 ]

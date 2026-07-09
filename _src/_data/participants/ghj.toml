@@ -3,6 +3,6 @@ display = "Ghj"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2005/http://ghj.pe.kr/"
+url = "https://web.archive.org/web/2005/http://ghj.pe.kr/"
 title = "Ghj"
 years = [ 2006 ]

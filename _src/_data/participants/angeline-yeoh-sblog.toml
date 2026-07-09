@@ -3,6 +3,6 @@ display = "Angeline Yeoh'sblog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.ifublog.com/qqangel/"
+url = "https://web.archive.org/web/http://www.ifublog.com/qqangel/"
 title = "Angeline Yeoh&#39;sblog"
 years = [ 2008 ]

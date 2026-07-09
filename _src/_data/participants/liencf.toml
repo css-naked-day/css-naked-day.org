@@ -3,6 +3,6 @@ display = "liencf"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://liencf.com/"
+url = "https://web.archive.org/web/http://liencf.com/"
 title = "liencf"
 years = [ 2008 ]

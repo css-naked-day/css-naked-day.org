@@ -3,6 +3,6 @@ display = "Daniel Déchelotte"
 # Websites
 
 [[websites]]
-url   = "http://yo.dan.free.fr/"
+url = "http://yo.dan.free.fr/"
 title = "Daniel Déchelotte"
 years = [ 2006 ]

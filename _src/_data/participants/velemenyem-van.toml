@@ -3,6 +3,6 @@ display = "Véleményem van"
 # Websites
 
 [[websites]]
-url   = "http://velemenyemvan.freeblog.hu/"
+url = "http://velemenyemvan.freeblog.hu/"
 title = "Véleményem van"
 years = [ 2007 ]

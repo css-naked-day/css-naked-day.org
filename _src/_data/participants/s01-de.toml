@@ -3,6 +3,6 @@ display = "s01.de"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://s01.de/"
+url = "https://web.archive.org/web/http://s01.de/"
 title = "s01.de"
 years = [ 2009 ]

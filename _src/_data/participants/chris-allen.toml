@@ -3,6 +3,6 @@ display = "Chris Allen"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://whispering-screams.net/"
+url = "https://web.archive.org/web/2006/http://whispering-screams.net/"
 title = "Chris Allen"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "Gim"
 # Websites
 
 [[websites]]
-url   = "http://gim.org.pl/"
+url = "http://gim.org.pl/"
 title = "Gim"
 years = [ 2006 ]

@@ -3,6 +3,6 @@ display = "TimeSync LIVE"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://timesynclive.com/"
+url = "https://web.archive.org/web/2008/http://timesynclive.com/"
 title = "TimeSync LIVE"
 years = [ 2009 ]

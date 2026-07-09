@@ -3,7 +3,7 @@ display = "Bloggy Hell"
 # Websites
 
 [[websites]]
-url   = "http://myles.eftos.id.au/blog"
+url = "http://myles.eftos.id.au/blog"
 title = "Bloggy Hell"
 years = [
 	2007,

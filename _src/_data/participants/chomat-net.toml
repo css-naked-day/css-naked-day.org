@@ -3,6 +3,6 @@ display = "Chomat.net"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.chomat.net/"
+url = "https://web.archive.org/web/http://www.chomat.net/"
 title = "Chomat.net"
 years = [ 2007 ]

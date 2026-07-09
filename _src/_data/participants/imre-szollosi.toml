@@ -3,6 +3,6 @@ display = "Imre Szollosi"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.szollosi.net/"
+url = "https://web.archive.org/web/http://blog.szollosi.net/"
 title = "Imre Szollosi"
 years = [ 2008 ]

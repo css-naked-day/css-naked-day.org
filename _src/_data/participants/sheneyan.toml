@@ -3,6 +3,6 @@ display = "Sheneyan"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://sheneyan.com/"
+url = "https://web.archive.org/web/2006/http://sheneyan.com/"
 title = "Sheneyan"
 years = [ 2007 ]

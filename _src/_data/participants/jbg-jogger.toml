@@ -3,7 +3,7 @@ display = "JBG Jogger"
 # Websites
 
 [[websites]]
-url   = "http://jbg.jogger.pl/"
+url = "http://jbg.jogger.pl/"
 title = "JBG Jogger"
 years = [
 	2007,

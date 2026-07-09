@@ -3,11 +3,11 @@ display = "bhg GRAPHIC DESIGN"
 # Websites
 
 [[websites]]
-url   = "http://bhggraphicdesign.com/"
+url = "http://bhggraphicdesign.com/"
 title = "bhg GRAPHIC DESIGN"
 years = [ 2007 ]
 
 [[websites]]
-url   = "http://www.bhggraphicdesign.com/"
+url = "http://www.bhggraphicdesign.com/"
 title = "bhg GRAPHIC DESIGN"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "CRAZY PEOPLE"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://crazy-people.pl"
+url = "https://web.archive.org/web/2008/http://crazy-people.pl"
 title = "CRAZY PEOPLE"
 years = [ 2009 ]

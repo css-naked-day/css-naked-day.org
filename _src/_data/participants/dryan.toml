@@ -3,11 +3,11 @@ display = "Dryan"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://wdanielryan.com/"
+url = "https://web.archive.org/web/http://wdanielryan.com/"
 title = "Dryan"
 years = [ 2006 ]
 
 [[websites]]
-url   = "http://dryan.net/"
+url = "http://dryan.net/"
 title = "dryan"
 years = [ 2007 ]

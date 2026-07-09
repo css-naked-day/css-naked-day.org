@@ -3,6 +3,6 @@ display = "The Simian Downtime Analyst"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.thesimiandowntimeanalyst.com/"
+url = "https://web.archive.org/web/http://www.thesimiandowntimeanalyst.com/"
 title = "The Simian Downtime Analyst"
 years = [ 2008 ]

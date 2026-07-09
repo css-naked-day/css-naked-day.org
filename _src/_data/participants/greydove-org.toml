@@ -3,6 +3,6 @@ display = "Greydove.org"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://www.greydove.org/"
+url = "https://web.archive.org/web/2008/http://www.greydove.org/"
 title = "Greydove.org"
 years = [ 2009 ]

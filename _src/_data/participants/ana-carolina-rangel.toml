@@ -3,6 +3,6 @@ display = "Ana Carolina Rangel"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.anacarolinarangel.com/"
+url = "https://web.archive.org/web/http://www.anacarolinarangel.com/"
 title = "Ana Carolina Rangel"
 years = [ 2008 ]

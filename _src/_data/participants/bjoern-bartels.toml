@@ -3,6 +3,6 @@ display = "Bjoern Bartels"
 # Websites
 
 [[websites]]
-url   = "http://dragon-projects.de/cms/front_content.php"
+url = "http://dragon-projects.de/cms/front_content.php"
 title = "Bjoern Bartels"
 years = [ 2008 ]

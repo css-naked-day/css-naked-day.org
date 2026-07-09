@@ -3,6 +3,6 @@ display = "Ted Drake"
 # Websites
 
 [[websites]]
-url   = "http://www.last-child.com/"
+url = "http://www.last-child.com/"
 title = "Ted Drake"
 years = [ 2006 ]

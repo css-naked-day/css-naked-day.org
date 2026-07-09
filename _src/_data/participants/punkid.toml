@@ -3,6 +3,6 @@ display = "punkid"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.punkid.cn/"
+url = "https://web.archive.org/web/http://blog.punkid.cn/"
 title = "punkid"
 years = [ 2007 ]

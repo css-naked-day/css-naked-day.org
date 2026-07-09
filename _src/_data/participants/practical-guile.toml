@@ -3,6 +3,6 @@ display = "Practical Guile"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://practicalguile.com/"
+url = "https://web.archive.org/web/http://practicalguile.com/"
 title = "Practical Guile"
 years = [ 2007 ]

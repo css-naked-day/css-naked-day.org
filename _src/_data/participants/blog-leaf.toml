@@ -3,6 +3,6 @@ display = "blog.leaf"
 # Websites
 
 [[websites]]
-url   = "http://blog.dotleaf.wo.tc/"
+url = "http://blog.dotleaf.wo.tc/"
 title = "blog.leaf"
 years = [ 2009 ]

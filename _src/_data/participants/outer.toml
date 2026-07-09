@@ -3,6 +3,6 @@ display = "Outer"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.magmusic.net/bloggerzone/"
+url = "https://web.archive.org/web/http://www.magmusic.net/bloggerzone/"
 title = "Outer"
 years = [ 2006 ]

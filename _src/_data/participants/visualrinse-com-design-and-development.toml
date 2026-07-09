@@ -3,6 +3,6 @@ display = "Visualrinse.com: Design and Development"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://visualrinse.com/"
+url = "https://web.archive.org/web/http://visualrinse.com/"
 title = "Visualrinse.com: Design and Development"
 years = [ 2008 ]

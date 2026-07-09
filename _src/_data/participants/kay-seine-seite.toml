@@ -3,6 +3,6 @@ display = "Kay seine Seite"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.dertranszendente.de/"
+url = "https://web.archive.org/web/2007/http://www.dertranszendente.de/"
 title = "Kay seine Seite"
 years = [ 2008 ]

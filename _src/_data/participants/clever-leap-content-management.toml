@@ -3,6 +3,6 @@ display = "Clever Leap content management"
 # Websites
 
 [[websites]]
-url   = "http://www.cleverleap.com/"
+url = "http://www.cleverleap.com/"
 title = "Clever Leap content management"
 years = [ 2007 ]

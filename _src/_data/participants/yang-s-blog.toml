@@ -3,6 +3,6 @@ display = "yang’s blog"
 # Websites
 
 [[websites]]
-url   = "http://opennet.net.cn/"
+url = "http://opennet.net.cn/"
 title = "yang’s blog"
 years = [ 2007 ]

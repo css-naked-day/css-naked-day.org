@@ -3,6 +3,6 @@ display = "David Lindquist"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2005/http://www.stringify.com/"
+url = "https://web.archive.org/web/2005/http://www.stringify.com/"
 title = "David Lindquist"
 years = [ 2006 ]

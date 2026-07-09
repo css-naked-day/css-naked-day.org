@@ -3,6 +3,6 @@ display = "天使很受伤"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.ifublog.com/qqange"
+url = "https://web.archive.org/web/2007/http://www.ifublog.com/qqange"
 title = "天使很受伤"
 years = [ 2008 ]

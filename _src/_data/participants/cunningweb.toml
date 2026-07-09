@@ -3,6 +3,6 @@ display = "cunningweb"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://dnzin.com/cunningweb"
+url = "https://web.archive.org/web/http://dnzin.com/cunningweb"
 title = "cunningweb"
 years = [ 2007 ]

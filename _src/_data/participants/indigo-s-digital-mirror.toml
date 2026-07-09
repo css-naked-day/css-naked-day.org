@@ -3,6 +3,6 @@ display = "indigo’s digital mirror"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://indigos.cn/"
+url = "https://web.archive.org/web/http://indigos.cn/"
 title = "indigo’s digital mirror"
 years = [ 2007 ]

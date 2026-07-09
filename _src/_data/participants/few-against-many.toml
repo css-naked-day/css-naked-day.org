@@ -3,6 +3,6 @@ display = "Few Against Many"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://fewagainstmany.com/"
+url = "https://web.archive.org/web/2006/http://fewagainstmany.com/"
 title = "Few Against Many"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "NMLK"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.nmlk.net/"
+url = "https://web.archive.org/web/http://www.nmlk.net/"
 title = "NMLK"
 years = [ 2008 ]

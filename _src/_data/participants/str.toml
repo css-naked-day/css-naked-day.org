@@ -3,5 +3,5 @@ display = "Str"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://str.rival.cz/"
+url = "https://web.archive.org/web/http://str.rival.cz/"
 years = [ 2007 ]

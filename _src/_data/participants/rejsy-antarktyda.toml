@@ -3,6 +3,6 @@ display = "Rejsy antarktyda"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://alcotours.com.pl/"
+url = "https://web.archive.org/web/http://alcotours.com.pl/"
 title = "Rejsy antarktyda"
 years = [ 2008 ]

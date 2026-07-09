@@ -3,6 +3,6 @@ display = "Dreyer Media"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://dreyermedia.no/"
+url = "https://web.archive.org/web/2006/http://dreyermedia.no/"
 title = "Dreyer Media"
 years = [ 2007 ]

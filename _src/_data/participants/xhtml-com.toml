@@ -3,7 +3,7 @@ display = "XHTML.COM"
 # Websites
 
 [[websites]]
-url   = "http://xhtml.com/"
+url = "http://xhtml.com/"
 title = "XHTML.COM"
 years = [
 	2007,

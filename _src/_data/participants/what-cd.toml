@@ -3,6 +3,6 @@ display = "What.CD?"
 # Websites
 
 [[websites]]
-url   = "http://what.cd/"
+url = "http://what.cd/"
 title = "What.CD?"
 years = [ 2008 ]

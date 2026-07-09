@@ -3,6 +3,6 @@ display = "Lector fordítóiroda"
 # Websites
 
 [[websites]]
-url   = "http://lector.hu/"
+url = "http://lector.hu/"
 title = "Lector fordítóiroda"
 years = [ 2008 ]

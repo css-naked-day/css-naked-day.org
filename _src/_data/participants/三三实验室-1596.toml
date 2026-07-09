@@ -3,6 +3,6 @@ display = "三三实验室"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.33lab.cn/"
+url = "https://web.archive.org/web/2007/http://www.33lab.cn/"
 title = "三三实验室"
 years = [ 2008 ]

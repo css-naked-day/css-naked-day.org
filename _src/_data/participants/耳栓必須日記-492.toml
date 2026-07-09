@@ -3,6 +3,6 @@ display = "耳栓必須日記"
 # Websites
 
 [[websites]]
-url   = "http://log.obelisque.xrea.jp/"
+url = "http://log.obelisque.xrea.jp/"
 title = "耳栓必須日記"
 years = [ 2007 ]

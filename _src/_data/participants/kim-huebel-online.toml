@@ -3,6 +3,6 @@ display = "Kim Huebel – Online"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.huebel-online.de/"
+url = "https://web.archive.org/web/http://blog.huebel-online.de/"
 title = "Kim Huebel – Online"
 years = [ 2009 ]

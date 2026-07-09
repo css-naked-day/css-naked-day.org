@@ -3,6 +3,6 @@ display = "Benjy Stanton"
 # Websites
 
 [[websites]]
-url   = "https://www.benjystanton.co.uk/"
+url = "https://www.benjystanton.co.uk/"
 title = "Benjy Stanton"
 years = [ 2021 ]

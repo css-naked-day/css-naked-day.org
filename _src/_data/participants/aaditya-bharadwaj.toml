@@ -3,6 +3,6 @@ display = "aaditya bharadwaj"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.aadityabharadwaj.com/"
+url = "https://web.archive.org/web/http://www.aadityabharadwaj.com/"
 title = "aaditya bharadwaj"
 years = [ 2009 ]

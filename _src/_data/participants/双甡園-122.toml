@@ -3,6 +3,6 @@ display = "双甡園"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.jerology.com/"
+url = "https://web.archive.org/web/http://www.jerology.com/"
 title = "双甡園"
 years = [ 2008 ]

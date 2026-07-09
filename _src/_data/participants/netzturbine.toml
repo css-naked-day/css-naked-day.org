@@ -3,6 +3,6 @@ display = "netzturbine"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.netzturbine.de/"
+url = "https://web.archive.org/web/http://www.netzturbine.de/"
 title = "netzturbine"
 years = [ 2008 ]

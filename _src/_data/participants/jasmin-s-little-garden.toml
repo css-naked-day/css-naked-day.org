@@ -3,7 +3,7 @@ display = "jasmin’s little garden"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/https://jasminchen.dev/"
+url = "https://web.archive.org/web/https://jasminchen.dev/"
 title = "jasmin’s little garden"
 years = [ 2025 ]
 

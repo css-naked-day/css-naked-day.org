@@ -3,6 +3,6 @@ display = "Pixelagents Blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.pixelagents/blog"
+url = "https://web.archive.org/web/http://www.pixelagents/blog"
 title = "Pixelagents Blog"
 years = [ 2007 ]

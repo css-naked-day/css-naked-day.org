@@ -3,6 +3,6 @@ display = "Webstandards-Magazin"
 # Websites
 
 [[websites]]
-url   = "http://www.webstandards-magazin.de/"
+url = "http://www.webstandards-magazin.de/"
 title = "Webstandards-Magazin"
 years = [ 2009 ]

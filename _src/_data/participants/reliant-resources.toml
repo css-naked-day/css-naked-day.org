@@ -3,6 +3,6 @@ display = "Reliant Resources"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.rlnt.org/"
+url = "https://web.archive.org/web/http://www.rlnt.org/"
 title = "Reliant Resources"
 years = [ 2009 ]

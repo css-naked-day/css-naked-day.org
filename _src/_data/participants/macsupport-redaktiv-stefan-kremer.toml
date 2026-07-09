@@ -3,6 +3,6 @@ display = "MacSupport @ redaktiv – Stefan Kremer"
 # Websites
 
 [[websites]]
-url   = "http://macsupport.redaktiv.de/"
+url = "http://macsupport.redaktiv.de/"
 title = "MacSupport @ redaktiv – Stefan Kremer"
 years = [ 2008 ]

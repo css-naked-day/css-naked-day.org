@@ -3,6 +3,6 @@ display = "lagnut"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://lagnut.net/"
+url = "https://web.archive.org/web/2006/http://lagnut.net/"
 title = "lagnut"
 years = [ 2007 ]

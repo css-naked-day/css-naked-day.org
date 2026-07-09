@@ -3,6 +3,6 @@ display = "Music Raven"
 # Websites
 
 [[websites]]
-url   = "http://music.raven.ch/"
+url = "http://music.raven.ch/"
 title = "Music Raven"
 years = [ 2006 ]

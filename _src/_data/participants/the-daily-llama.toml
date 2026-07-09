@@ -3,6 +3,6 @@ display = "The Daily Llama"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://llamaslayers.net/daily-llama"
+url = "https://web.archive.org/web/2007/http://llamaslayers.net/daily-llama"
 title = "The Daily Llama"
 years = [ 2008 ]

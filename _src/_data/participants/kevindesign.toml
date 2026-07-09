@@ -3,6 +3,6 @@ display = "Kevindesign"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://kevindesign.se/"
+url = "https://web.archive.org/web/http://kevindesign.se/"
 title = "Kevindesign"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "朝顔日記"
 # Websites
 
 [[websites]]
-url   = "http://diary.noasobi.net/"
+url = "http://diary.noasobi.net/"
 title = "朝顔日記"
 years = [ 2007 ]

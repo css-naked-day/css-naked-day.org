@@ -3,6 +3,6 @@ display = "Hannover Community"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.frobbeld.de/"
+url = "https://web.archive.org/web/http://www.frobbeld.de/"
 title = "Hannover Community"
 years = [ 2009 ]

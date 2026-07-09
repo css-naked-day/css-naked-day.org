@@ -3,6 +3,6 @@ display = "Marisa’s Dandelion Patch"
 # Websites
 
 [[websites]]
-url   = "http://www.mydandelionpatch.com/"
+url = "http://www.mydandelionpatch.com/"
 title = "Marisa’s Dandelion Patch"
 years = [ 2007 ]

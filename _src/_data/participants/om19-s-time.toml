@@ -3,6 +3,6 @@ display = "OM19’s Time"
 # Websites
 
 [[websites]]
-url   = "http://www.om19.cn/"
+url = "http://www.om19.cn/"
 title = "OM19’s Time"
 years = [ 2009 ]

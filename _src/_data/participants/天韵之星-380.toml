@@ -3,6 +3,6 @@ display = "天韵之星"
 # Websites
 
 [[websites]]
-url   = "http://onemouse.cn/"
+url = "http://onemouse.cn/"
 title = "天韵之星"
 years = [ 2009 ]

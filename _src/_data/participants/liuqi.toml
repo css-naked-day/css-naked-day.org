@@ -3,6 +3,6 @@ display = "liuqi"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.liuqi.us/"
+url = "https://web.archive.org/web/http://www.liuqi.us/"
 title = "liuqi"
 years = [ 2009 ]

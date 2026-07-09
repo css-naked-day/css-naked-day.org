@@ -3,6 +3,6 @@ display = "Die Diplomandin"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://blog.diediplomandin.de/"
+url = "https://web.archive.org/web/2008/http://blog.diediplomandin.de/"
 title = "Die Diplomandin"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "plaintext."
 # Websites
 
 [[websites]]
-url   = "http://plaintext.ru/"
+url = "http://plaintext.ru/"
 title = "plaintext."
 years = [ 2008 ]

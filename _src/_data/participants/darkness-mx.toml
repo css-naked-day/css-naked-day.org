@@ -3,6 +3,6 @@ display = "Darkness-Mx"
 # Websites
 
 [[websites]]
-url   = "http://www.darkness-mx.uni.cc/"
+url = "http://www.darkness-mx.uni.cc/"
 title = "Darkness-Mx"
 years = [ 2007 ]

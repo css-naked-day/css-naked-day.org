@@ -3,6 +3,6 @@ display = "INITE – otwarte technologie"
 # Websites
 
 [[websites]]
-url   = "http://inite.pl/"
+url = "http://inite.pl/"
 title = "INITE – otwarte technologie"
 years = [ 2009 ]

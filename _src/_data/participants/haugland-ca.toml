@@ -3,6 +3,6 @@ display = "Haugland.ca"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://haugland.ca/"
+url = "https://web.archive.org/web/http://haugland.ca/"
 title = "Haugland.ca"
 years = [ 2007 ]

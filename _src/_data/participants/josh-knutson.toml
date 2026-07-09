@@ -3,6 +3,6 @@ display = "Josh KNutson"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://joshknutson.net/"
+url = "https://web.archive.org/web/http://joshknutson.net/"
 title = "Josh KNutson"
 years = [ 2008 ]

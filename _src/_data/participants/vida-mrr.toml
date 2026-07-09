@@ -3,6 +3,6 @@ display = "Vida MRR"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://vidamrr.blogspot.com/"
+url = "https://web.archive.org/web/http://vidamrr.blogspot.com/"
 title = "Vida MRR"
 years = [ 2009 ]

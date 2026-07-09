@@ -3,6 +3,6 @@ display = "A fair judgement.com"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.afairjudgement.com"
+url = "https://web.archive.org/web/http://www.afairjudgement.com"
 title = "A fair judgement.com"
 years = [ 2007 ]

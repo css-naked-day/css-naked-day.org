@@ -3,6 +3,6 @@ display = "Midorigin"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://midorigin.home.comcast.net/"
+url = "https://web.archive.org/web/http://midorigin.home.comcast.net/"
 title = "Midorigin"
 years = [ 2006 ]

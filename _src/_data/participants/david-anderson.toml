@@ -3,7 +3,7 @@ display = "David Anderson"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.ap4a.co.uk/"
+url = "https://web.archive.org/web/http://www.ap4a.co.uk/"
 title = "David Anderson"
 years = [
 	2007,

@@ -3,6 +3,6 @@ display = "STCFX"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.stcfx.com/"
+url = "https://web.archive.org/web/http://www.stcfx.com/"
 title = "STCFX"
 years = [ 2008 ]

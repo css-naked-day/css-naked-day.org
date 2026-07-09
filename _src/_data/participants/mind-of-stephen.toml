@@ -3,6 +3,6 @@ display = "Mind of Stephen"
 # Websites
 
 [[websites]]
-url   = "http://scrambled.wordpress.com/"
+url = "http://scrambled.wordpress.com/"
 title = "Mind of Stephen"
 years = [ 2007 ]

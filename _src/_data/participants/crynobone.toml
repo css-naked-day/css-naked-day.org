@@ -3,6 +3,6 @@ display = "Crynobone"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.chronosight.net/"
+url = "https://web.archive.org/web/http://www.chronosight.net/"
 title = "Crynobone"
 years = [ 2006 ]

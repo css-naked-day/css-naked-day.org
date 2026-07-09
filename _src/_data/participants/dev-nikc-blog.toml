@@ -3,6 +3,6 @@ display = "/dev/nikc/blog"
 # Websites
 
 [[websites]]
-url   = "http://blog.nikc.org/"
+url = "http://blog.nikc.org/"
 title = "/dev/nikc/blog"
 years = [ 2008 ]

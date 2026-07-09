@@ -3,6 +3,6 @@ display = "Lorrella"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://lorrella.obsidian-rhapsody.com/"
+url = "https://web.archive.org/web/http://lorrella.obsidian-rhapsody.com/"
 title = "Lorrella"
 years = [ 2007 ]

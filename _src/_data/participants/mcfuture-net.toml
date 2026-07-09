@@ -3,7 +3,7 @@ display = "McFuture.net"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://mcfuture.net/"
+url = "https://web.archive.org/web/http://mcfuture.net/"
 title = "McFuture.net"
 years = [
 	2008,

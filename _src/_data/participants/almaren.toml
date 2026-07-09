@@ -3,11 +3,11 @@ display = "Almaren"
 # Websites
 
 [[websites]]
-url   = "http://almaren.ch/"
+url = "http://almaren.ch/"
 title = "Almaren"
 years = [ 2007 ]
 
 [[websites]]
-url   = "http://www.almaren.ch/"
+url = "http://www.almaren.ch/"
 title = "Almaren"
 years = [ 2008 ]

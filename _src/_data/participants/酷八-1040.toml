@@ -3,6 +3,6 @@ display = "酷八"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.cool8.tv/"
+url = "https://web.archive.org/web/http://www.cool8.tv/"
 title = "酷八"
 years = [ 2007 ]

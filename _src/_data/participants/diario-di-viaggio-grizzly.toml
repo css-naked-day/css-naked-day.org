@@ -3,6 +3,6 @@ display = "Diario di viaggio – Grizzly"
 # Websites
 
 [[websites]]
-url   = "http://www.g-sr.eu/"
+url = "http://www.g-sr.eu/"
 title = "Diario di viaggio – Grizzly"
 years = [ 2007 ]

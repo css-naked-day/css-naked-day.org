@@ -3,7 +3,7 @@ display = "LSDR.net"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://lsdr.net/blog/"
+url = "https://web.archive.org/web/http://lsdr.net/blog/"
 title = "LSDR.net"
 years = [
 	2007,

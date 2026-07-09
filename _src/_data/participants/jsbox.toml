@@ -3,6 +3,6 @@ display = "JsBox"
 # Websites
 
 [[websites]]
-url   = "http://jsbox.net/"
+url = "http://jsbox.net/"
 title = "JsBox"
 years = [ 2009 ]

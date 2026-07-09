@@ -3,6 +3,6 @@ display = "Poakpong – Life is random"
 # Websites
 
 [[websites]]
-url   = "http://www.poakpong.com/"
+url = "http://www.poakpong.com/"
 title = "Poakpong – Life is random"
 years = [ 2008 ]

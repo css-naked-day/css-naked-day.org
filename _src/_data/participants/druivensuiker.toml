@@ -3,6 +3,6 @@ display = "Druivensuiker"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.druivensuiker.be/"
+url = "https://web.archive.org/web/http://www.druivensuiker.be/"
 title = "Druivensuiker"
 years = [ 2007 ]

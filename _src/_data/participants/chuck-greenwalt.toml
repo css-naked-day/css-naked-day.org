@@ -3,6 +3,6 @@ display = "Chuck Greenwalt"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.30gritslurry.com/"
+url = "https://web.archive.org/web/http://www.30gritslurry.com/"
 title = "Chuck Greenwalt"
 years = [ 2006 ]

@@ -3,6 +3,6 @@ display = "Science and Technology News"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.sci-technews.com/"
+url = "https://web.archive.org/web/http://www.sci-technews.com/"
 title = "Science and Technology News"
 years = [ 2009 ]

@@ -3,7 +3,7 @@ display = "Ceglie Messapica"
 # Websites
 
 [[websites]]
-url   = "http://www.ceglieplurale.it/"
+url = "http://www.ceglieplurale.it/"
 title = "Ceglie Plurale"
 years = [
 	2007,
@@ -11,6 +11,6 @@ years = [
 ]
 
 [[websites]]
-url   = "http://web.archive.org/web/20081231020253/http://blog.cegliemessapica.com:80/"
+url = "http://web.archive.org/web/20081231020253/http://blog.cegliemessapica.com:80/"
 title = "Blog"
 years = [ 2008 ]

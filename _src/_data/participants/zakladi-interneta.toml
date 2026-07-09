@@ -3,6 +3,6 @@ display = "Zakladi interneta"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://zakladi.com/"
+url = "https://web.archive.org/web/2008/http://zakladi.com/"
 title = "Zakladi interneta"
 years = [ 2009 ]

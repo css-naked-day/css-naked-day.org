@@ -3,6 +3,6 @@ display = "tension.name"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://tension.name/"
+url = "https://web.archive.org/web/http://tension.name/"
 title = "tension.name"
 years = [ 2009 ]

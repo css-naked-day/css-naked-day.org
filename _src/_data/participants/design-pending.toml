@@ -3,11 +3,11 @@ display = "Design pending"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.designpending.com/"
+url = "https://web.archive.org/web/http://blog.designpending.com/"
 title = "Design pending"
 years = [ 2007 ]
 
 [[websites]]
-url   = "http://designpending.com/"
+url = "http://designpending.com/"
 title = "Design pending"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "锵锵兮铁甲"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.tooidle.org"
+url = "https://web.archive.org/web/http://www.tooidle.org"
 title = "锵锵兮铁甲"
 years = [ 2007 ]

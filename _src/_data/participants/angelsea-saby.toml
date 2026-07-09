@@ -3,6 +3,6 @@ display = "Angelsea Saby"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.desabya.com/"
+url = "https://web.archive.org/web/http://www.desabya.com/"
 title = "Angelsea Saby"
 years = [ 2006 ]

@@ -3,6 +3,6 @@ display = "Martin Baek"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://tobetterdays.com/"
+url = "https://web.archive.org/web/http://tobetterdays.com/"
 title = "Martin Baek"
 years = [ 2006 ]

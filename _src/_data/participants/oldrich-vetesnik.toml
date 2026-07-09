@@ -3,6 +3,6 @@ display = "Oldřich Vetešník"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.mrmil.cz/"
+url = "https://web.archive.org/web/http://www.mrmil.cz/"
 title = "Oldřich Vetešník"
 years = [ 2009 ]

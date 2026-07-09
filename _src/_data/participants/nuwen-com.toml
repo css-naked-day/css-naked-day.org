@@ -3,5 +3,5 @@ display = "Nuwen.com"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.nuwen.com/"
+url = "https://web.archive.org/web/http://www.nuwen.com/"
 years = [ 2007 ]

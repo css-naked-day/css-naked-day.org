@@ -3,7 +3,7 @@ display = "Rodrigo Ghedin"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/https://manualdousuario.net/en/"
+url = "https://web.archive.org/web/https://manualdousuario.net/en/"
 title = "Rodrigo Ghedin"
 years = [ 2025 ]
 

@@ -3,6 +3,6 @@ display = "Orang Type Banyak"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://iwani.com/blog"
+url = "https://web.archive.org/web/http://iwani.com/blog"
 title = "Orang Type Banyak"
 years = [ 2008 ]

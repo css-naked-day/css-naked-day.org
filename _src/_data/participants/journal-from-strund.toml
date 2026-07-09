@@ -3,6 +3,6 @@ display = "journal from STRUND"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://journal.strund.jp/"
+url = "https://web.archive.org/web/http://journal.strund.jp/"
 title = "journal from STRUND"
 years = [ 2008 ]

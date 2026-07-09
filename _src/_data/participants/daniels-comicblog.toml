@@ -3,6 +3,6 @@ display = "Daniels Comicblog."
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://blog.daydrawing.de/"
+url = "https://web.archive.org/web/2008/http://blog.daydrawing.de/"
 title = "Daniels Comicblog."
 years = [ 2009 ]

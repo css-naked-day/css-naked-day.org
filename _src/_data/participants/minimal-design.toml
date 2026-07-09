@@ -3,6 +3,6 @@ display = "minimal design"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://minimaldesign.net/"
+url = "https://web.archive.org/web/http://minimaldesign.net/"
 title = "minimal design"
 years = [ 2007 ]

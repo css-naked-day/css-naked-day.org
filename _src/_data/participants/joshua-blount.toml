@@ -3,6 +3,6 @@ display = "Joshua Blount"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://inseasonout.com/"
+url = "https://web.archive.org/web/http://inseasonout.com/"
 title = "Joshua Blount"
 years = [ 2007 ]

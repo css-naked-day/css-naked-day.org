@@ -3,6 +3,6 @@ display = "Morioka.as"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://morioka-as.org/"
+url = "https://web.archive.org/web/http://morioka-as.org/"
 title = "Morioka.as"
 years = [ 2009 ]

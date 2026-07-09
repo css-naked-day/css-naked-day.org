@@ -3,6 +3,6 @@ display = "Element Creative"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://www.elementcreative.com/"
+url = "https://web.archive.org/web/2008/http://www.elementcreative.com/"
 title = "Element Creative"
 years = [ 2009 ]

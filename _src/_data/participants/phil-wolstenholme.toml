@@ -3,6 +3,6 @@ display = "Phil Wolstenholme"
 # Websites
 
 [[websites]]
-url   = "https://wolstenhol.me/"
+url = "https://wolstenhol.me/"
 title = "Phil Wolstenholme"
 years = [ 2022 ]

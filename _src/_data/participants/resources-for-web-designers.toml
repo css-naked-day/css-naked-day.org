@@ -3,6 +3,6 @@ display = "Resources for web designers"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://webdesignresources.hit.bg/"
+url = "https://web.archive.org/web/http://webdesignresources.hit.bg/"
 title = "Resources for web designers"
 years = [ 2009 ]

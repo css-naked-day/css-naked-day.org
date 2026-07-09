@@ -3,7 +3,7 @@ display = "Transabled"
 # Websites
 
 [[websites]]
-url   = "http://transabled.org/"
+url = "http://transabled.org/"
 title = "Transabled"
 years = [
 	2007,

@@ -3,6 +3,6 @@ display = "百度竞价排名工具"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.baidu-jingjia.com/"
+url = "https://web.archive.org/web/http://www.baidu-jingjia.com/"
 title = "百度竞价排名工具"
 years = [ 2008 ]

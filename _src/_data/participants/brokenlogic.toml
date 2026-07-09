@@ -3,6 +3,6 @@ display = "BrokenLogic"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://atdpweb.berkeley.edu/brokenlogic/"
+url = "https://web.archive.org/web/http://atdpweb.berkeley.edu/brokenlogic/"
 title = "BrokenLogic"
 years = [ 2007 ]

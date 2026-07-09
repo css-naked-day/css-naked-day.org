@@ -3,6 +3,6 @@ display = "Kodamotiv – oblikovanje spletnih strani"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.kodamotiv.com/"
+url = "https://web.archive.org/web/http://www.kodamotiv.com/"
 title = "Kodamotiv – oblikovanje spletnih strani"
 years = [ 2009 ]

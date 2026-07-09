@@ -3,6 +3,6 @@ display = "Szymon Nitka"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.nitka.pl/"
+url = "https://web.archive.org/web/http://www.nitka.pl/"
 title = "Szymon Nitka"
 years = [ 2008 ]

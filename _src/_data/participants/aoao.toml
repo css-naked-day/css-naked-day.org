@@ -3,16 +3,16 @@ display = "Aoao"
 # Websites
 
 [[websites]]
-url   = "http://www.rotui.net/"
+url = "http://www.rotui.net/"
 title = "Aoao"
 years = [ 2006 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.loaoao.com/"
+url = "https://web.archive.org/web/http://www.loaoao.com/"
 title = "aoao"
 years = [ 2007 ]
 
 [[websites]]
-url   = "http://www.aoao.org.cn/"
+url = "http://www.aoao.org.cn/"
 title = "aoao"
 years = [ 2009 ]

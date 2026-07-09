@@ -3,6 +3,6 @@ display = "SomewhereOnlyWeKnow"
 # Websites
 
 [[websites]]
-url   = "http://my.opera.com/SOSoul/blog/"
+url = "http://my.opera.com/SOSoul/blog/"
 title = "SomewhereOnlyWeKnow"
 years = [ 2007 ]

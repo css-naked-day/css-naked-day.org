@@ -3,6 +3,6 @@ display = "Cuefusion Design & Interactive"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.cuefusion.sg/"
+url = "https://web.archive.org/web/http://www.cuefusion.sg/"
 title = "Cuefusion Design &amp; Interactive"
 years = [ 2008 ]

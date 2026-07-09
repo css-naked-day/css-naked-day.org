@@ -3,6 +3,6 @@ display = "Aronil-Just Me"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://aronil.com/"
+url = "https://web.archive.org/web/http://aronil.com/"
 title = "Aronil-Just Me"
 years = [ 2008 ]

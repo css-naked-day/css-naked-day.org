@@ -3,6 +3,6 @@ display = "Carter blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.liderc.hu/"
+url = "https://web.archive.org/web/http://blog.liderc.hu/"
 title = "Carter blog"
 years = [ 2008 ]

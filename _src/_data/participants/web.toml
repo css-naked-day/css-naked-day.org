@@ -3,21 +3,21 @@ display = "WEB前端"
 # Websites
 
 [[websites]]
-url   = "http://www.caihong.cc/"
+url = "http://www.caihong.cc/"
 title = "WEB前端"
 years = [ 2008 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.pageoff.net/"
+url = "https://web.archive.org/web/http://www.pageoff.net/"
 title = "웹 뒤에 숨은 &#39;Web&#39;"
 years = [ 2008 ]
 
 [[websites]]
-url   = "http://oshare.jugem.cc/"
+url = "http://oshare.jugem.cc/"
 title = "Webデザインのタネ"
 years = [ 2008 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.css88.com/"
+url = "https://web.archive.org/web/http://www.css88.com/"
 title = "WEB前端开发"
 years = [ 2009 ]

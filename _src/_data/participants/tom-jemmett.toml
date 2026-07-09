@@ -3,6 +3,6 @@ display = "Tom Jemmett"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://tomj.sytes.net/"
+url = "https://web.archive.org/web/http://tomj.sytes.net/"
 title = "Tom Jemmett"
 years = [ 2006 ]

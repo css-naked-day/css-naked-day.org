@@ -3,6 +3,6 @@ display = "Ignite Blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://ignite.digitalignition.net/"
+url = "https://web.archive.org/web/http://ignite.digitalignition.net/"
 title = "Ignite Blog"
 years = [ 2008 ]

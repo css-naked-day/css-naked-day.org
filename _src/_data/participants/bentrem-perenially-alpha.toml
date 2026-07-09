@@ -3,6 +3,6 @@ display = "BenTrem – perenially alpha"
 # Websites
 
 [[websites]]
-url   = "http://bentrem.sycks.net/"
+url = "http://bentrem.sycks.net/"
 title = "BenTrem – perenially alpha"
 years = [ 2007 ]

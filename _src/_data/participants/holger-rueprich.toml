@@ -3,7 +3,7 @@ display = "Holger Rüprich"
 # Websites
 
 [[websites]]
-url   = "http://www.rueprich.de/"
+url = "http://www.rueprich.de/"
 years = [
 	2007,
 	2009

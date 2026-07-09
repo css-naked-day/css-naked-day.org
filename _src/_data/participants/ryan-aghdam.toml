@@ -3,6 +3,6 @@ display = "Ryan Aghdam"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://ryanaghdam.com/"
+url = "https://web.archive.org/web/http://ryanaghdam.com/"
 title = "Ryan Aghdam"
 years = [ 2009 ]

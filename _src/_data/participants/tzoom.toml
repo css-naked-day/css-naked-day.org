@@ -3,6 +3,6 @@ display = "Tzoom"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.tzoom.se/"
+url = "https://web.archive.org/web/http://www.tzoom.se/"
 title = "Tzoom"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "The Catmafia"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://tish.dubious.nu/"
+url = "https://web.archive.org/web/http://tish.dubious.nu/"
 title = "The Catmafia"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "Iván Andrade Fajardo Webmaster Freelance"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.ivanandrade.com/"
+url = "https://web.archive.org/web/http://www.ivanandrade.com/"
 title = "Iván Andrade Fajardo Webmaster Freelance"
 years = [ 2009 ]

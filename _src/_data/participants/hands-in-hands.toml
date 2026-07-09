@@ -3,6 +3,6 @@ display = "hands in hands"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.tommmmy.com/"
+url = "https://web.archive.org/web/http://blog.tommmmy.com/"
 title = "hands in hands"
 years = [ 2007 ]

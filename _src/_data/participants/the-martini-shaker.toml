@@ -3,6 +3,6 @@ display = "the martini shaker*"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.3rdmartini.com/"
+url = "https://web.archive.org/web/http://blog.3rdmartini.com/"
 title = "the martini shaker*"
 years = [ 2007 ]

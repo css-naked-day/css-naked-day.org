@@ -3,6 +3,6 @@ display = "20cent (Vincent VALENTIN)"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://20cent.net/"
+url = "https://web.archive.org/web/http://20cent.net/"
 title = "20cent (Vincent VALENTIN)"
 years = [ 2006 ]

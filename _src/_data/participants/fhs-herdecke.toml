@@ -3,6 +3,6 @@ display = "FHS Herdecke"
 # Websites
 
 [[websites]]
-url   = "http://fhs-herdecke.de/"
+url = "http://fhs-herdecke.de/"
 title = "FHS Herdecke"
 years = [ 2009 ]

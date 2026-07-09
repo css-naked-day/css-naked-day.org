@@ -3,6 +3,6 @@ display = "Stugoo portfolio!"
 # Websites
 
 [[websites]]
-url   = "http://www.stugoo.co.uk/"
+url = "http://www.stugoo.co.uk/"
 title = "Stugoo portfolio!"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Serial I/O"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://serail.io/"
+url = "https://web.archive.org/web/http://serail.io/"
 title = "Serial I/O"
 years = [ 2008 ]

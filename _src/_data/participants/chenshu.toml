@@ -3,6 +3,6 @@ display = "chenshu"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.vista123.tk/"
+url = "https://web.archive.org/web/http://www.vista123.tk/"
 title = "chenshu"
 years = [ 2008 ]

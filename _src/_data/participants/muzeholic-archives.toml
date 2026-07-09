@@ -3,6 +3,6 @@ display = "Muzeholic Archives."
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://muzeholic.tistory.com/"
+url = "https://web.archive.org/web/http://muzeholic.tistory.com/"
 title = "Muzeholic Archives."
 years = [ 2008 ]

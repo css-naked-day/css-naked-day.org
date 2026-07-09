@@ -3,6 +3,6 @@ display = "Erin Caton"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://erincaton.ca/"
+url = "https://web.archive.org/web/http://erincaton.ca/"
 title = "Erin Caton"
 years = [ 2008 ]

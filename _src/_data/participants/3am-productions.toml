@@ -3,7 +3,7 @@ display = "3AM Productions"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://3amproductions.net/"
+url = "https://web.archive.org/web/http://3amproductions.net/"
 title = "3AM Productions"
 years = [
 	2007,

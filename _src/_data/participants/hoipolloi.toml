@@ -3,6 +3,6 @@ display = "HoiPolloi"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.boredvisitors.com/"
+url = "https://web.archive.org/web/http://www.boredvisitors.com/"
 title = "HoiPolloi"
 years = [ 2006 ]

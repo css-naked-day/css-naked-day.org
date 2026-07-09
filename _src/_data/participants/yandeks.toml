@@ -3,6 +3,6 @@ display = "Яндекс"
 # Websites
 
 [[websites]]
-url   = "http://www.yandex.ru/"
+url = "http://www.yandex.ru/"
 title = "Яндекс"
 years = [ 2008 ]

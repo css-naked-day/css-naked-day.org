@@ -3,6 +3,6 @@ display = "handyshop"
 # Websites
 
 [[websites]]
-url   = "http://www.my-freebies.de/"
+url = "http://www.my-freebies.de/"
 title = "handyshop"
 years = [ 2008 ]

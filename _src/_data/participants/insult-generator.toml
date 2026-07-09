@@ -3,6 +3,6 @@ display = "insult generator"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.insultme.net/"
+url = "https://web.archive.org/web/http://www.insultme.net/"
 title = "insult generator"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Ruhestoerung.net"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://ruhestoerung.net/"
+url = "https://web.archive.org/web/http://ruhestoerung.net/"
 title = "Ruhestoerung.net"
 years = [ 2009 ]

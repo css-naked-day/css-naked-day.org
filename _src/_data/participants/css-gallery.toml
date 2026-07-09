@@ -3,6 +3,6 @@ display = "CSS Gallery"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.dailycss.com/"
+url = "https://web.archive.org/web/http://www.dailycss.com/"
 title = "CSS Gallery"
 years = [ 2009 ]

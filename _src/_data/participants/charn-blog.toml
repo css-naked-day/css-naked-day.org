@@ -3,6 +3,6 @@ display = "Charn BloG"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://charni.org/"
+url = "https://web.archive.org/web/http://charni.org/"
 title = "Charn BloG"
 years = [ 2008 ]

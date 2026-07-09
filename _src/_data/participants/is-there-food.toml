@@ -3,6 +3,6 @@ display = "Is There Food?"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.istherefood.com/"
+url = "https://web.archive.org/web/http://www.istherefood.com/"
 title = "Is There Food?"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "生日祝福网"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.oabar.com/"
+url = "https://web.archive.org/web/http://www.oabar.com/"
 title = "生日祝福网"
 years = [ 2009 ]

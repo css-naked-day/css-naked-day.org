@@ -3,6 +3,6 @@ display = "Zumo de rata"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://geloye.dsland.org/"
+url = "https://web.archive.org/web/http://geloye.dsland.org/"
 title = "Zumo de rata"
 years = [ 2009 ]

@@ -3,7 +3,7 @@ display = "Islaperdida"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.islaperdida.net/"
+url = "https://web.archive.org/web/http://www.islaperdida.net/"
 title = "Islaperdida"
 years = [
 	2008,

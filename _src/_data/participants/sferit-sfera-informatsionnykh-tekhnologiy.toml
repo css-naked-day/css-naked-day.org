@@ -3,6 +3,6 @@ display = "«СферИТ».Сфера информационных технол
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.spherit.ru/"
+url = "https://web.archive.org/web/2007/http://www.spherit.ru/"
 title = "«СферИТ».Сфера информационных технологий"
 years = [ 2008 ]

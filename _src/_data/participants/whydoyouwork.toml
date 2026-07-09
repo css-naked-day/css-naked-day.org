@@ -3,6 +3,6 @@ display = "Whydoyouwork"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.whydoyouwork.com/"
+url = "https://web.archive.org/web/http://www.whydoyouwork.com/"
 title = "Whydoyouwork"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "Ibiza Yachtcharter"
 # Websites
 
 [[websites]]
-url   = "http://www.amoyachts.com/"
+url = "http://www.amoyachts.com/"
 title = "Ibiza Yachtcharter"
 years = [ 2009 ]

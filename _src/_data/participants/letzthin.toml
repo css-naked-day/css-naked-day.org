@@ -3,6 +3,6 @@ display = "letzthin"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.letzthin.de/"
+url = "https://web.archive.org/web/2007/http://www.letzthin.de/"
 title = "letzthin"
 years = [ 2008 ]

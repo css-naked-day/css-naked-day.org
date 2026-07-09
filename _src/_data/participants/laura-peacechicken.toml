@@ -3,5 +3,5 @@ display = "Laura"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.peacechicken.com/"
+url = "https://web.archive.org/web/http://www.peacechicken.com/"
 years = [ 2006 ]

@@ -3,6 +3,6 @@ display = "Adam Liptrot"
 # Websites
 
 [[websites]]
-url   = "http://www.liptrot.org/"
+url = "http://www.liptrot.org/"
 title = "Adam Liptrot"
 years = [ 2007 ]

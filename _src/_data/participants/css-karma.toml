@@ -3,6 +3,6 @@ display = "CSS Karma"
 # Websites
 
 [[websites]]
-url   = "http://www.csskarma.com/"
+url = "http://www.csskarma.com/"
 title = "CSS Karma"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Atech"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://attila.antals.org/"
+url = "https://web.archive.org/web/http://attila.antals.org/"
 title = "Atech"
 years = [ 2006 ]

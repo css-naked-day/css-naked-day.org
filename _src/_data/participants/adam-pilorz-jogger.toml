@@ -3,6 +3,6 @@ display = "Adam Pilorz – Jogger"
 # Websites
 
 [[websites]]
-url   = "http://dot.jogger.pl/"
+url = "http://dot.jogger.pl/"
 title = "Adam Pilorz – Jogger"
 years = [ 2007 ]

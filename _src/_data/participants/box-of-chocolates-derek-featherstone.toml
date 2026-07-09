@@ -3,6 +3,6 @@ display = "Box of Chocolates (Derek Featherstone)"
 # Websites
 
 [[websites]]
-url   = "http://www.boxofchocolates.ca/"
+url = "http://www.boxofchocolates.ca/"
 title = "Box of Chocolates (Derek Featherstone)"
 years = [ 2006 ]

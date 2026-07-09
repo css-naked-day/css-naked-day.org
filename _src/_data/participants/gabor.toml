@@ -3,6 +3,6 @@ display = "Gábor"
 # Websites
 
 [[websites]]
-url   = "http://20y.hu/"
+url = "http://20y.hu/"
 title = "Gábor"
 years = [ 2006 ]

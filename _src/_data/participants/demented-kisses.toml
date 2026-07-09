@@ -3,6 +3,6 @@ display = "Demented Kisses"
 # Websites
 
 [[websites]]
-url   = "http://web.archive.org/web/20070503003832/http://www.dementedkisses.net:80/wp/"
+url = "http://web.archive.org/web/20070503003832/http://www.dementedkisses.net:80/wp/"
 title = "Demented Kisses"
 years = [ 2007 ]

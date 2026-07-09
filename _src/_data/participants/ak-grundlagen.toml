@@ -3,6 +3,6 @@ display = "AK-Grundlagen"
 # Websites
 
 [[websites]]
-url   = "http://www.ak-grundlagen.de/"
+url = "http://www.ak-grundlagen.de/"
 title = "AK-Grundlagen"
 years = [ 2009 ]

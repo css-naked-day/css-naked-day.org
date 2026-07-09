@@ -3,6 +3,6 @@ display = "Quinn Higurashi"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://quinn.higurashi.dyndns.org/"
+url = "https://web.archive.org/web/http://quinn.higurashi.dyndns.org/"
 title = "Quinn Higurashi"
 years = [ 2007 ]

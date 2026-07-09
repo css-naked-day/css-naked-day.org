@@ -3,6 +3,6 @@ display = "Система Тестирования Знаний «СИнТеЗ»
 # Websites
 
 [[websites]]
-url   = "http://www.sintest.ru/"
+url = "http://www.sintest.ru/"
 title = "Система Тестирования Знаний «СИнТеЗ»"
 years = [ 2009 ]

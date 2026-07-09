@@ -3,6 +3,6 @@ display = "Grégory Karékinian : Le Weblog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://gkare.com/"
+url = "https://web.archive.org/web/http://gkare.com/"
 title = "Grégory Karékinian : Le Weblog"
 years = [ 2008 ]

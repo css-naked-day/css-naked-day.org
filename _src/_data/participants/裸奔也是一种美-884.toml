@@ -3,6 +3,6 @@ display = "裸奔也是一种美"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.lobest.cn/"
+url = "https://web.archive.org/web/http://www.lobest.cn/"
 title = "裸奔也是一种美"
 years = [ 2008 ]

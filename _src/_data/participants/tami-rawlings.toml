@@ -3,6 +3,6 @@ display = "Tami Rawlings"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.webinizer.com/"
+url = "https://web.archive.org/web/http://www.webinizer.com/"
 title = "Tami Rawlings"
 years = [ 2006 ]

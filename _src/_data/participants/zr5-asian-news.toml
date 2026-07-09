@@ -3,6 +3,6 @@ display = "ZR5 Asian News"
 # Websites
 
 [[websites]]
-url   = "http://zr5.net/"
+url = "http://zr5.net/"
 title = "ZR5 Asian News"
 years = [ 2008 ]

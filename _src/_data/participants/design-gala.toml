@@ -3,6 +3,6 @@ display = "Design Gala"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.designgala.com/"
+url = "https://web.archive.org/web/http://www.designgala.com/"
 title = "Design Gala"
 years = [ 2007 ]

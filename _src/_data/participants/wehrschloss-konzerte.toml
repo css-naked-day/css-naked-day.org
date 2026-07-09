@@ -3,6 +3,6 @@ display = "Wehrschloss Konzerte"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.wehrschlosskonzerte.de/"
+url = "https://web.archive.org/web/http://www.wehrschlosskonzerte.de/"
 title = "Wehrschloss Konzerte"
 years = [ 2009 ]

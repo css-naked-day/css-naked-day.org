@@ -3,5 +3,5 @@ display = "陳凱劭的BLOG"
 # Websites
 
 [[websites]]
-url   = "http://blog.kaishao.idv.tw/"
+url = "http://blog.kaishao.idv.tw/"
 years = [ 2008 ]

@@ -3,7 +3,7 @@ display = "darky"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://darky14.com/"
+url = "https://web.archive.org/web/2008/http://darky14.com/"
 title = "darky"
 years = [
 	2008,

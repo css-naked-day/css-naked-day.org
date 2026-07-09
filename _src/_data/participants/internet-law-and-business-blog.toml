@@ -3,6 +3,6 @@ display = "Internet Law and Business Blog"
 # Websites
 
 [[websites]]
-url   = "http://www.mikeyounglaw.com/wp/"
+url = "http://www.mikeyounglaw.com/wp/"
 title = "Internet Law and Business Blog"
 years = [ 2008 ]

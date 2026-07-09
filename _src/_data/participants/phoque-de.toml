@@ -3,7 +3,7 @@ display = "phoque.de"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.phoque.de/blog/"
+url = "https://web.archive.org/web/http://www.phoque.de/blog/"
 title = "phoque.de"
 years = [
 	2008,

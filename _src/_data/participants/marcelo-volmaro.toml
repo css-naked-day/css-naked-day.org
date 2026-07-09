@@ -3,6 +3,6 @@ display = "Marcelo Volmaro"
 # Websites
 
 [[websites]]
-url   = "http://www.extremefx.com.ar/"
+url = "http://www.extremefx.com.ar/"
 title = "Marcelo Volmaro"
 years = [ 2006 ]

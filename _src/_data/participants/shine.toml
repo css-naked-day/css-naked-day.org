@@ -3,6 +3,6 @@ display = "shine"
 # Websites
 
 [[websites]]
-url   = "http://www.beyondseason.com/"
+url = "http://www.beyondseason.com/"
 title = "shine"
 years = [ 2009 ]

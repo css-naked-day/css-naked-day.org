@@ -3,6 +3,6 @@ display = "Poptarts Diary"
 # Websites
 
 [[websites]]
-url   = "http://www.meao.ws/"
+url = "http://www.meao.ws/"
 title = "Poptarts Diary"
 years = [ 2007 ]

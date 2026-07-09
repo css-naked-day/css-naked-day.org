@@ -3,6 +3,6 @@ display = "Luca"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2005/http://demoniacnet.altervista.org/"
+url = "https://web.archive.org/web/2005/http://demoniacnet.altervista.org/"
 title = "Luca"
 years = [ 2006 ]

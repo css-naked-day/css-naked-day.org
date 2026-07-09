@@ -3,6 +3,6 @@ display = "Wii Blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://wii-blog.de/"
+url = "https://web.archive.org/web/http://wii-blog.de/"
 title = "Wii Blog"
 years = [ 2008 ]

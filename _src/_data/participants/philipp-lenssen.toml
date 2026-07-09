@@ -3,6 +3,6 @@ display = "Philipp Lenssen"
 # Websites
 
 [[websites]]
-url   = "http://blog.outer-court.com/"
+url = "http://blog.outer-court.com/"
 title = "Philipp Lenssen"
 years = [ 2006 ]

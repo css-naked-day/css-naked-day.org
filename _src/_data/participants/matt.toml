@@ -3,6 +3,6 @@ display = "Matt"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.matt-holland.co.uk/"
+url = "https://web.archive.org/web/http://www.matt-holland.co.uk/"
 title = "Matt"
 years = [ 2006 ]

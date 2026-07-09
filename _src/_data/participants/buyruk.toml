@@ -3,6 +3,6 @@ display = "Buyruk"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://buyruk.org/"
+url = "https://web.archive.org/web/http://buyruk.org/"
 title = "Buyruk"
 years = [ 2007 ]

@@ -3,11 +3,11 @@ display = "Mr.Children online"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://mrchildren-fan.net/"
+url = "https://web.archive.org/web/http://mrchildren-fan.net/"
 title = "mrchildren-fan.net"
 years = [ 2008 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://labs.alfasado.net/naked.cgi/cssnakedday/http://mrchildren-fan.net/"
+url = "https://web.archive.org/web/http://labs.alfasado.net/naked.cgi/cssnakedday/http://mrchildren-fan.net/"
 title = "alfasado.net"
 years = [ 2008 ]

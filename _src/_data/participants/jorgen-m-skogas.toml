@@ -3,6 +3,6 @@ display = "Jørgen M. Skogås"
 # Websites
 
 [[websites]]
-url   = "http://web.archive.org/web/20071026153800/http://blog.duzzy.net:80/"
+url = "http://web.archive.org/web/20071026153800/http://blog.duzzy.net:80/"
 title = "Jørgen M. Skogås"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "SEO Beratung"
 # Websites
 
 [[websites]]
-url   = "http://www.seo-imagine.de/"
+url = "http://www.seo-imagine.de/"
 title = "SEO Beratung"
 years = [ 2008 ]

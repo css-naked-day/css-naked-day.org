@@ -3,6 +3,6 @@ display = "wangmengyangblog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.ww666.com/"
+url = "https://web.archive.org/web/http://www.ww666.com/"
 title = "wangmengyangblog"
 years = [ 2008 ]

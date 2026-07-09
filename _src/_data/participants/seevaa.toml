@@ -3,7 +3,7 @@ display = "seevaa의 잡다구리한 이야기"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://seevaa.net/"
+url = "https://web.archive.org/web/http://seevaa.net/"
 title = "seevaa의 잡다구리한 이야기"
 years = [
 	2008,

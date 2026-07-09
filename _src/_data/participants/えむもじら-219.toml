@@ -3,6 +3,6 @@ display = "えむもじら"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://level.s69.xrea.com/mozilla/"
+url = "https://web.archive.org/web/http://level.s69.xrea.com/mozilla/"
 title = "えむもじら"
 years = [ 2009 ]

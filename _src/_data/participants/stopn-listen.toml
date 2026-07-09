@@ -3,6 +3,6 @@ display = "STOPN' LISTEN"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://kennsu.jp/"
+url = "https://web.archive.org/web/http://kennsu.jp/"
 title = "STOPN&#39; LISTEN"
 years = [ 2008 ]

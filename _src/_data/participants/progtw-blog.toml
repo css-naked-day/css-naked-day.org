@@ -3,6 +3,6 @@ display = "progtw-blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.progtw.de/"
+url = "https://web.archive.org/web/http://blog.progtw.de/"
 title = "progtw-blog"
 years = [ 2009 ]

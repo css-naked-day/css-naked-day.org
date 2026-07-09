@@ -3,6 +3,6 @@ display = "soking的桌子"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://and8.net/"
+url = "https://web.archive.org/web/http://and8.net/"
 title = "soking的桌子"
 years = [ 2007 ]

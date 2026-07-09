@@ -3,6 +3,6 @@ display = "Jim Barraud"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://jimbarraud.com/"
+url = "https://web.archive.org/web/http://jimbarraud.com/"
 title = "Jim Barraud"
 years = [ 2009 ]

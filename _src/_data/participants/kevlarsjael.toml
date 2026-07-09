@@ -3,6 +3,6 @@ display = "Kevlarsjäl"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://www.xn--kevlarsjl-22a.se/"
+url = "https://web.archive.org/web/2006/http://www.xn--kevlarsjl-22a.se/"
 title = "Kevlarsjäl"
 years = [ 2007 ]

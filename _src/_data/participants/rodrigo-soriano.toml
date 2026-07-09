@@ -3,6 +3,6 @@ display = "Rodrigo Soriano"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://aerodrigos.lynxdesign.com.br/"
+url = "https://web.archive.org/web/http://aerodrigos.lynxdesign.com.br/"
 title = "Rodrigo Soriano"
 years = [ 2007 ]

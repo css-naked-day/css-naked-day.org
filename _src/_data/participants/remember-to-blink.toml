@@ -3,6 +3,6 @@ display = "Remember to blink"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.remembertoblink.co.uk/"
+url = "https://web.archive.org/web/http://www.remembertoblink.co.uk/"
 title = "Remember to blink"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Gronbeck.se"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.gronbeck.se/"
+url = "https://web.archive.org/web/2007/http://www.gronbeck.se/"
 title = "Gronbeck.se"
 years = [ 2008 ]

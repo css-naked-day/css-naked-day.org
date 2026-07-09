@@ -3,6 +3,6 @@ display = "XMing Site"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.xming.info/"
+url = "https://web.archive.org/web/http://www.xming.info/"
 title = "XMing Site"
 years = [ 2009 ]

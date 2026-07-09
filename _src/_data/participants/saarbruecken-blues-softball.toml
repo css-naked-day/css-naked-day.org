@@ -3,6 +3,6 @@ display = "Saarbrücken Blues Softball"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.saarbrueckenblues.de/"
+url = "https://web.archive.org/web/http://www.saarbrueckenblues.de/"
 title = "Saarbrücken Blues Softball"
 years = [ 2008 ]

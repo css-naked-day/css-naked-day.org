@@ -3,6 +3,6 @@ display = "中国丫头.涂丫志"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.zgyatou.com/blog"
+url = "https://web.archive.org/web/http://www.zgyatou.com/blog"
 title = "中国丫头.涂丫志"
 years = [ 2008 ]

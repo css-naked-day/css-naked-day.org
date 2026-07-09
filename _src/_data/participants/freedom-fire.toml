@@ -3,6 +3,6 @@ display = "Freedom-Fire"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://freedom-fire.ru/"
+url = "https://web.archive.org/web/http://freedom-fire.ru/"
 title = "Freedom-Fire"
 years = [ 2009 ]

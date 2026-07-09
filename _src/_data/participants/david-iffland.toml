@@ -3,6 +3,6 @@ display = "David Iffland"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.davidiffland.com/"
+url = "https://web.archive.org/web/http://www.davidiffland.com/"
 title = "David Iffland"
 years = [ 2006 ]

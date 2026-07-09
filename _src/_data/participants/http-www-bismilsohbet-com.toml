@@ -3,5 +3,5 @@ display = "bismilsohbet.com"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.bismilsohbet.com/"
+url = "https://web.archive.org/web/http://www.bismilsohbet.com/"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Judofyr"
 # Websites
 
 [[websites]]
-url   = "http://www.bullgaard.no/blogg"
+url = "http://www.bullgaard.no/blogg"
 title = "Judofyr"
 years = [ 2006 ]

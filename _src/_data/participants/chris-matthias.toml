@@ -3,6 +3,6 @@ display = "Chris Matthias"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.chrismatthias.com/"
+url = "https://web.archive.org/web/http://www.chrismatthias.com/"
 title = "Chris Matthias"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "rynX"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://l.ufegmbh.de:8080/rynx/"
+url = "https://web.archive.org/web/http://l.ufegmbh.de:8080/rynx/"
 title = "rynX"
 years = [ 2008 ]

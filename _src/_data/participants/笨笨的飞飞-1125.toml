@@ -3,6 +3,6 @@ display = "笨笨的飞飞"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://chenefei.com"
+url = "https://web.archive.org/web/http://chenefei.com"
 title = "笨笨的飞飞"
 years = [ 2008 ]

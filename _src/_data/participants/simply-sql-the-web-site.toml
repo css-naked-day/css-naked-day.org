@@ -3,5 +3,5 @@ display = "Simply SQL – The Web Site"
 # Websites
 
 [[websites]]
-url   = "http://simply-sql.com/"
+url = "http://simply-sql.com/"
 years = [ 2009 ]

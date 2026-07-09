@@ -3,6 +3,6 @@ display = "the wizard of code"
 # Websites
 
 [[websites]]
-url   = "http://www.codewizard.org/"
+url = "http://www.codewizard.org/"
 title = "the wizard of code"
 years = [ 2008 ]

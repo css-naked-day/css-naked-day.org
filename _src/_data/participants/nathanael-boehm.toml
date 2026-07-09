@@ -3,7 +3,7 @@ display = "Nathanael Boehm"
 # Websites
 
 [[websites]]
-url   = "http://www.purecaffeine.com/"
+url = "http://www.purecaffeine.com/"
 title = "Nathanael Boehm"
 years = [
 	2008,

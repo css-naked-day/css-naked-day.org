@@ -3,6 +3,6 @@ display = "About a Boy"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://matt.constellation.nu/"
+url = "https://web.archive.org/web/http://matt.constellation.nu/"
 title = "About a Boy"
 years = [ 2007 ]

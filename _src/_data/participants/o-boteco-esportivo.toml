@@ -3,6 +3,6 @@ display = "O Boteco Esportivo"
 # Websites
 
 [[websites]]
-url   = "http://radioramabrasil.com/blogs/obotecoesportivo/"
+url = "http://radioramabrasil.com/blogs/obotecoesportivo/"
 title = "O Boteco Esportivo"
 years = [ 2008 ]

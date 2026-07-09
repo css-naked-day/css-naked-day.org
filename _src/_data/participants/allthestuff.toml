@@ -3,6 +3,6 @@ display = "Allthestuff"
 # Websites
 
 [[websites]]
-url   = "http://wp.vocz.ru/"
+url = "http://wp.vocz.ru/"
 title = "Allthestuff"
 years = [ 2008 ]

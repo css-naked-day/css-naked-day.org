@@ -3,6 +3,6 @@ display = "Psychopsia"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://vision.psychopsia.com/"
+url = "https://web.archive.org/web/http://vision.psychopsia.com/"
 title = "Psychopsia"
 years = [ 2007 ]

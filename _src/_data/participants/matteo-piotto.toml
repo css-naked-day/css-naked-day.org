@@ -3,6 +3,6 @@ display = "Matteo Piotto"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.namu.it/"
+url = "https://web.archive.org/web/http://www.namu.it/"
 title = "Matteo Piotto"
 years = [ 2009 ]

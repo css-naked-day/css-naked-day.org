@@ -3,7 +3,7 @@ display = "Kay Maatkamp"
 # Websites
 
 [[websites]]
-url   = "http://kaydies.com/"
+url = "http://kaydies.com/"
 title = "Kay Maatkamp"
 years = [
 	2006,

@@ -3,7 +3,7 @@ display = "Webmaster Libre"
 # Websites
 
 [[websites]]
-url   = "http://www.webmasterlibre.com/"
+url = "http://www.webmasterlibre.com/"
 title = "Webmaster Libre"
 years = [
 	2007,

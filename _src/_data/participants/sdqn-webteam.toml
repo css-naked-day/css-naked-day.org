@@ -3,6 +3,6 @@ display = "sdqn webteam"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://webteam.oursdqn.net/"
+url = "https://web.archive.org/web/http://webteam.oursdqn.net/"
 title = "sdqn webteam"
 years = [ 2009 ]

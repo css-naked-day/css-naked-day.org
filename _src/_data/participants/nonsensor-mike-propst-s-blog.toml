@@ -3,6 +3,6 @@ display = "Nonsensor: Mike Propst’s Blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.nonsensor.com/"
+url = "https://web.archive.org/web/http://www.nonsensor.com/"
 title = "Nonsensor: Mike Propst’s Blog"
 years = [ 2007 ]

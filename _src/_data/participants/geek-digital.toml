@@ -3,6 +3,6 @@ display = "Geek Digital"
 # Websites
 
 [[websites]]
-url   = "http://geekdigital.zobyhost.com/"
+url = "http://geekdigital.zobyhost.com/"
 title = "Geek Digital"
 years = [ 2009 ]

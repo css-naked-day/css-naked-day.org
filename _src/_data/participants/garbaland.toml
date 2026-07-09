@@ -3,7 +3,7 @@ display = "Garbaland"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://garbaland.belfagor.net/"
+url = "https://web.archive.org/web/http://garbaland.belfagor.net/"
 title = "Garbaland"
 years = [
 	2007,
@@ -11,6 +11,6 @@ years = [
 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://garbaland.net/"
+url = "https://web.archive.org/web/http://garbaland.net/"
 title = "Garbaland"
 years = [ 2009 ]

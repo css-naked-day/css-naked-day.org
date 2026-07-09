@@ -3,6 +3,6 @@ display = "NeuTyp"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://neutyp.com/"
+url = "https://web.archive.org/web/http://neutyp.com/"
 title = "NeuTyp"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "The Knelsen Family"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.theknelsenfamily.com/"
+url = "https://web.archive.org/web/http://www.theknelsenfamily.com/"
 title = "The Knelsen Family"
 years = [ 2007 ]

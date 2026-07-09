@@ -3,6 +3,6 @@ display = "Arnd Heitmeier"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.netzturbine.de/"
+url = "https://web.archive.org/web/http://www.netzturbine.de/"
 title = "Arnd Heitmeier"
 years = [ 2009 ]

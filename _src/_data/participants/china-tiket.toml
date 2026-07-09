@@ -3,6 +3,6 @@ display = "China tiket "
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.yoolcool.com/"
+url = "https://web.archive.org/web/http://www.yoolcool.com/"
 title = "China tiket "
 years = [ 2009 ]

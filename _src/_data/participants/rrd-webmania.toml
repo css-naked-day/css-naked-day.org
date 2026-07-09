@@ -3,6 +3,6 @@ display = "rrd ::: Webmania"
 # Websites
 
 [[websites]]
-url   = "http://rrd.1108.cc"
+url = "http://rrd.1108.cc"
 title = "rrd ::: Webmania"
 years = [ 2007 ]

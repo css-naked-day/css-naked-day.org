@@ -3,20 +3,20 @@ display = "Suchmaschinenoptimierung"
 # Websites
 
 [[websites]]
-url   = "http://www.webtechnik.net/"
+url = "http://www.webtechnik.net/"
 years = [ 2008 ]
 
 [[websites]]
-url   = "http://www.nneb.de/"
+url = "http://www.nneb.de/"
 years = [
 	2008,
 	2009
 ]
 
 [[websites]]
-url   = "http://abblen.de/"
+url = "http://abblen.de/"
 years = [ 2008 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.senkrecht-it.com/"
+url = "https://web.archive.org/web/http://www.senkrecht-it.com/"
 years = [ 2009 ]

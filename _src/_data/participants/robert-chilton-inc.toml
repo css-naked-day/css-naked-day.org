@@ -3,6 +3,6 @@ display = "Robert Chilton, Inc."
 # Websites
 
 [[websites]]
-url   = "http://robertchilton.com/"
+url = "http://robertchilton.com/"
 title = "Robert Chilton, Inc."
 years = [ 2008 ]

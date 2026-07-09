@@ -3,7 +3,7 @@ display = "Yining.write()"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://www.yining.org/"
+url = "https://web.archive.org/web/2008/http://www.yining.org/"
 title = "Yining.write()"
 years = [
 	2008,

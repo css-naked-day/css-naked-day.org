@@ -3,6 +3,6 @@ display = "1"
 # Websites
 
 [[websites]]
-url   = "http://websee.ru/"
+url = "http://websee.ru/"
 title = "1"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Nijikon Strife"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://nijikon.strife.com.mx/"
+url = "https://web.archive.org/web/2006/http://nijikon.strife.com.mx/"
 title = "Nijikon Strife"
 years = [ 2007 ]

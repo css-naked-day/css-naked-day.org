@@ -3,6 +3,6 @@ display = "BlueClock"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.blueclock.eu/"
+url = "https://web.archive.org/web/http://www.blueclock.eu/"
 title = "BlueClock"
 years = [ 2007 ]

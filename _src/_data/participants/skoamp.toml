@@ -3,6 +3,6 @@ display = "SKOAMP"
 # Websites
 
 [[websites]]
-url   = "http://nedt.at/"
+url = "http://nedt.at/"
 title = "SKOAMP"
 years = [ 2008 ]

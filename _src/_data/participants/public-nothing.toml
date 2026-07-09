@@ -3,6 +3,6 @@ display = "Public Nothing"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://kokan.extra.hu/blog/"
+url = "https://web.archive.org/web/http://kokan.extra.hu/blog/"
 title = "Public Nothing"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "MegaTokio"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.megatokio.com/"
+url = "https://web.archive.org/web/http://www.megatokio.com/"
 title = "MegaTokio"
 years = [ 2007 ]

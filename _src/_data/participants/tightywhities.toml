@@ -3,6 +3,6 @@ display = "TightyWhities"
 # Websites
 
 [[websites]]
-url   = "http://web.archive.org/web/20071109174904/http://tightywhities.lost-whisper.info:80/"
+url = "http://web.archive.org/web/20071109174904/http://tightywhities.lost-whisper.info:80/"
 title = "TightyWhities"
 years = [ 2007 ]

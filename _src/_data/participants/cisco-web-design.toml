@@ -3,6 +3,6 @@ display = "Cisco Web Design"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://ciscowebdesign.blogspot.com/"
+url = "https://web.archive.org/web/2006/http://ciscowebdesign.blogspot.com/"
 title = "Cisco Web Design"
 years = [ 2007 ]

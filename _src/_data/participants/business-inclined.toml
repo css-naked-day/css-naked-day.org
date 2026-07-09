@@ -3,6 +3,6 @@ display = "Business Inclined"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.businessinclined.com/"
+url = "https://web.archive.org/web/http://www.businessinclined.com/"
 title = "Business Inclined"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Phil Barbato"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://philbarbato.com/"
+url = "https://web.archive.org/web/http://philbarbato.com/"
 title = "Phil Barbato"
 years = [ 2009 ]

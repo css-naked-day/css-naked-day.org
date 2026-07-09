@@ -3,6 +3,6 @@ display = "Global Spin"
 # Websites
 
 [[websites]]
-url   = "http://globalspin.com/"
+url = "http://globalspin.com/"
 title = "Global Spin"
 years = [ 2009 ]

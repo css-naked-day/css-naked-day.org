@@ -3,6 +3,6 @@ display = "Mydealz"
 # Websites
 
 [[websites]]
-url   = "http://www.mydealz.de"
+url = "http://www.mydealz.de"
 title = "Mydealz"
 years = [ 2009 ]

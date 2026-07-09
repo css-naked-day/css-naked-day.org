@@ -3,16 +3,16 @@ display = "gEEK tHE pLANET"
 # Websites
 
 [[websites]]
-url   = "http://www.geektheplanet.net/"
+url = "http://www.geektheplanet.net/"
 years = [ 2007 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.geektheplanet.net/"
+url = "https://web.archive.org/web/http://blog.geektheplanet.net/"
 years = [
 	2007,
 	2008
 ]
 
 [[websites]]
-url   = "http://geektheplanet.net/"
+url = "http://geektheplanet.net/"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Ilya’s Blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.zhitenev.ru/"
+url = "https://web.archive.org/web/http://www.zhitenev.ru/"
 title = "Ilya’s Blog"
 years = [ 2009 ]

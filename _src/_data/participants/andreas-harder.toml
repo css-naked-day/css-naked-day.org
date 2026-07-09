@@ -3,6 +3,6 @@ display = "Andreas Harder"
 # Websites
 
 [[websites]]
-url   = "http://www.bezirksjugend.de/"
+url = "http://www.bezirksjugend.de/"
 title = "Andreas Harder"
 years = [ 2006 ]

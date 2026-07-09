@@ -3,7 +3,7 @@ display = "tehCpeng.net"
 # Websites
 
 [[websites]]
-url   = "http://tehcpeng.net/"
+url = "http://tehcpeng.net/"
 title = "tehCpeng.net"
 years = [
 	2008,

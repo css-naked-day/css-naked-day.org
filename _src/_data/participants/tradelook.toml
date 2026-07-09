@@ -3,6 +3,6 @@ display = "TradeLook"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.tradelook.com"
+url = "https://web.archive.org/web/http://www.tradelook.com"
 title = "TradeLook"
 years = [ 2007 ]

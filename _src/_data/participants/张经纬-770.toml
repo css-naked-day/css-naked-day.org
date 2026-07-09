@@ -3,6 +3,6 @@ display = "张经纬"
 # Websites
 
 [[websites]]
-url   = "http://www.zhangjingwei.com/"
+url = "http://www.zhangjingwei.com/"
 title = "张经纬"
 years = [ 2009 ]

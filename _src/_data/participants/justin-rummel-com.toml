@@ -3,7 +3,7 @@ display = "Justin Rummel . com"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.justinrummel.com/"
+url = "https://web.archive.org/web/http://www.justinrummel.com/"
 title = "Justin Rummel . com"
 years = [
 	2008,

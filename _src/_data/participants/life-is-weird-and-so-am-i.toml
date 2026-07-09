@@ -3,6 +3,6 @@ display = "life is weird (and so am i)"
 # Websites
 
 [[websites]]
-url   = "http://fiveforefun.blogspot.com/"
+url = "http://fiveforefun.blogspot.com/"
 title = "life is weird (and so am i)"
 years = [ 2007 ]

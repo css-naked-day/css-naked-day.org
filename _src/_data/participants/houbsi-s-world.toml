@@ -3,6 +3,6 @@ display = "Houbsi’s World"
 # Websites
 
 [[websites]]
-url   = "http://www.houbsi.org/"
+url = "http://www.houbsi.org/"
 title = "Houbsi’s World"
 years = [ 2009 ]

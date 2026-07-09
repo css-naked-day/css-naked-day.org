@@ -3,6 +3,6 @@ display = "Empty*Empty"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www4.atpages.jp/~sweettime/"
+url = "https://web.archive.org/web/http://www4.atpages.jp/~sweettime/"
 title = "Empty*Empty"
 years = [ 2008 ]

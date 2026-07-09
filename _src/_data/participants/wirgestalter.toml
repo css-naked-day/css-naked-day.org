@@ -3,6 +3,6 @@ display = "wirgestalter"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://wirgestalter.ch/"
+url = "https://web.archive.org/web/http://wirgestalter.ch/"
 title = "wirgestalter"
 years = [ 2009 ]

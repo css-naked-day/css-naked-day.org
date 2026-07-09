@@ -3,6 +3,6 @@ display = "O início do fim"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://oiniciodofim.brogui.com/"
+url = "https://web.archive.org/web/http://oiniciodofim.brogui.com/"
 title = "O início do fim"
 years = [ 2009 ]

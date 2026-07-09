@@ -3,6 +3,6 @@ display = "reality.hk"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.reality.hk/"
+url = "https://web.archive.org/web/http://www.reality.hk/"
 title = "reality.hk"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Jarkko Laine"
 # Websites
 
 [[websites]]
-url   = "http://jlaine.net/"
+url = "http://jlaine.net/"
 title = "Jarkko Laine"
 years = [ 2006 ]

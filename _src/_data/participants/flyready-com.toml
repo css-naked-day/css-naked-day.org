@@ -3,6 +3,6 @@ display = "FlyReady.com"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.flyready.com/"
+url = "https://web.archive.org/web/http://www.flyready.com/"
 title = "FlyReady.com"
 years = [ 2007 ]

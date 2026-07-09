@@ -3,6 +3,6 @@ display = "Deviart Lab"
 # Websites
 
 [[websites]]
-url   = "http://www.deviart.ru/"
+url = "http://www.deviart.ru/"
 title = "Deviart Lab"
 years = [ 2008 ]

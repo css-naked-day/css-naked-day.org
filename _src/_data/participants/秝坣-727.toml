@@ -3,6 +3,6 @@ display = "秝坣"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.wangjiafeng.com/"
+url = "https://web.archive.org/web/http://www.wangjiafeng.com/"
 title = "秝坣"
 years = [ 2008 ]

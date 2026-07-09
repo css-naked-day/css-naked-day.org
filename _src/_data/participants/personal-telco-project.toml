@@ -3,6 +3,6 @@ display = "Personal Telco Project"
 # Websites
 
 [[websites]]
-url   = "http://wiki.personaltelco.net/"
+url = "http://wiki.personaltelco.net/"
 title = "Personal Telco Project"
 years = [ 2008 ]

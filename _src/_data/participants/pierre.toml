@@ -3,7 +3,7 @@ display = "Pierre"
 # Websites
 
 [[websites]]
-url   = "https://pierre.gg/"
+url = "https://pierre.gg/"
 title = "Pierre"
 years = [ 2025 ]
 

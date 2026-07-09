@@ -3,6 +3,6 @@ display = "Tuesday Begins"
 # Websites
 
 [[websites]]
-url   = "http://tuesdaybegins.com/"
+url = "http://tuesdaybegins.com/"
 title = "Tuesday Begins"
 years = [ 2007 ]

@@ -3,11 +3,11 @@ display = "Chosen Destinies"
 # Websites
 
 [[websites]]
-url   = "http://chosen-destinies.freehostia.com/"
+url = "http://chosen-destinies.freehostia.com/"
 title = "Chosen Destinies"
 years = [ 2008 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://cd.nuvarta.com/"
+url = "https://web.archive.org/web/http://cd.nuvarta.com/"
 title = "chosen destinies"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Dig Digger"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://digdigger.xail.net/"
+url = "https://web.archive.org/web/http://digdigger.xail.net/"
 title = "Dig Digger"
 years = [ 2006 ]

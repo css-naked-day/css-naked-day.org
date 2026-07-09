@@ -3,6 +3,6 @@ display = "die Hanfplantage"
 # Websites
 
 [[websites]]
-url   = "http://www.hanfplantage.de/"
+url = "http://www.hanfplantage.de/"
 title = "die Hanfplantage"
 years = [ 2009 ]

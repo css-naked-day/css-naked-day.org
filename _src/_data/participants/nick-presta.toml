@@ -3,11 +3,11 @@ display = "Nick Presta"
 # Websites
 
 [[websites]]
-url   = "http://infinity-stuff.com/"
+url = "http://infinity-stuff.com/"
 title = "Nick Presta"
 years = [ 2006 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://nickpresta.ath.cx/"
+url = "https://web.archive.org/web/http://nickpresta.ath.cx/"
 title = "Nick Presta"
 years = [ 2007 ]

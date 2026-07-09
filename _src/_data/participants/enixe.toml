@@ -3,6 +3,6 @@ display = "Enixe"
 # Websites
 
 [[websites]]
-url   = "http://www.enixe.es/"
+url = "http://www.enixe.es/"
 title = "Enixe"
 years = [ 2009 ]

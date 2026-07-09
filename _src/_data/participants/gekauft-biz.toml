@@ -3,6 +3,6 @@ display = "Gekauft.biz"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.gekauft.biz/"
+url = "https://web.archive.org/web/http://www.gekauft.biz/"
 title = "Gekauft.biz"
 years = [ 2009 ]

@@ -3,11 +3,11 @@ display = "Greg"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.scamcity.co.uk/journal/"
+url = "https://web.archive.org/web/http://www.scamcity.co.uk/journal/"
 title = "Greg"
 years = [ 2006 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://htmlcss.ru/"
+url = "https://web.archive.org/web/2008/http://htmlcss.ru/"
 title = "Greg"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Dreadnaut"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://dreadnaut.altervista.org/"
+url = "https://web.archive.org/web/http://dreadnaut.altervista.org/"
 title = "Dreadnaut"
 years = [ 2006 ]

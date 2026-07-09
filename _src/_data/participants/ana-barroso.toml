@@ -3,6 +3,6 @@ display = "Ana Barroso"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.anabarroso.net/"
+url = "https://web.archive.org/web/http://www.anabarroso.net/"
 title = "Ana Barroso"
 years = [ 2007 ]

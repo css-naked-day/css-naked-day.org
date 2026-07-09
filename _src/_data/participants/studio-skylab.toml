@@ -3,6 +3,6 @@ display = "Studio Skylab"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.studioskylab.com/"
+url = "https://web.archive.org/web/http://www.studioskylab.com/"
 title = "Studio Skylab"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Haggard Design"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.haggard.com.au/"
+url = "https://web.archive.org/web/http://www.haggard.com.au/"
 title = "Haggard Design"
 years = [ 2009 ]

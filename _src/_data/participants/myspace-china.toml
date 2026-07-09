@@ -3,6 +3,6 @@ display = "myspace china"
 # Websites
 
 [[websites]]
-url   = "http://www.myspace.cn"
+url = "http://www.myspace.cn"
 title = "myspace china"
 years = [ 2008 ]

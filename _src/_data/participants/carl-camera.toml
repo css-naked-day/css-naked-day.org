@@ -3,7 +3,7 @@ display = "Carl Camera"
 # Websites
 
 [[websites]]
-url   = "http://iamacamera.org/"
+url = "http://iamacamera.org/"
 title = "Carl Camera"
 years = [
 	2006,

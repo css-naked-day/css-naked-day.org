@@ -3,6 +3,6 @@ display = "romey:radio"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.romeyradio.net/"
+url = "https://web.archive.org/web/http://blog.romeyradio.net/"
 title = "romey:radio"
 years = [ 2007 ]

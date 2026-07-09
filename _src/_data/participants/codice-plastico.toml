@@ -3,6 +3,6 @@ display = "Codice/Plastico"
 # Websites
 
 [[websites]]
-url   = "http://www.codiceplastico.com/"
+url = "http://www.codiceplastico.com/"
 title = "Codice/Plastico"
 years = [ 2008 ]

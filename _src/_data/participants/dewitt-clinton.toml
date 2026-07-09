@@ -3,6 +3,6 @@ display = "DeWitt Clinton"
 # Websites
 
 [[websites]]
-url   = "http://www.unto.net/"
+url = "http://www.unto.net/"
 title = "DeWitt Clinton"
 years = [ 2006 ]

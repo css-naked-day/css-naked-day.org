@@ -3,6 +3,6 @@ display = "www.xtwo.ru"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.xtwo.ru/"
+url = "https://web.archive.org/web/http://www.xtwo.ru/"
 title = "www.xtwo.ru"
 years = [ 2008 ]

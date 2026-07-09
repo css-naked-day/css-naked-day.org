@@ -3,7 +3,7 @@ display = "Taimar Teetlok"
 # Websites
 
 [[websites]]
-url   = "http://taimar.pri.ee/"
+url = "http://taimar.pri.ee/"
 title = "Taimar Teetlok"
 years = [
 	2008,

@@ -3,6 +3,6 @@ display = "Whites Blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://white.addoma.de/s9y/"
+url = "https://web.archive.org/web/2007/http://white.addoma.de/s9y/"
 title = "Whites Blog"
 years = [ 2008 ]

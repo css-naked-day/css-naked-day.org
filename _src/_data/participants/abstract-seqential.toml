@@ -3,6 +3,6 @@ display = "Abstract Seqential"
 # Websites
 
 [[websites]]
-url   = "http://stephaniehobson.ca/"
+url = "http://stephaniehobson.ca/"
 title = "Abstract Seqential"
 years = [ 2008 ]

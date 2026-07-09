@@ -3,6 +3,6 @@ display = "Helical Library (Gemma)"
 # Websites
 
 [[websites]]
-url   = "http://www.helical-library.net/"
+url = "http://www.helical-library.net/"
 title = "Helical Library (Gemma)"
 years = [ 2006 ]

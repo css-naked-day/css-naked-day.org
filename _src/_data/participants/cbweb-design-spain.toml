@@ -3,6 +3,6 @@ display = "CBWEB Design Spain"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.cbweb.co.uk/"
+url = "https://web.archive.org/web/http://www.cbweb.co.uk/"
 title = "CBWEB Design Spain"
 years = [ 2008 ]

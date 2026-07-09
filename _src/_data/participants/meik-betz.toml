@@ -3,6 +3,6 @@ display = "-meik.betz-"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.myste.org/"
+url = "https://web.archive.org/web/http://blog.myste.org/"
 title = "-meik.betz-"
 years = [ 2007 ]

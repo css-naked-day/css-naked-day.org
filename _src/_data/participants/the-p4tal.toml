@@ -3,6 +3,6 @@ display = "The P4TAL"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://derek.filcode.com/"
+url = "https://web.archive.org/web/2007/http://derek.filcode.com/"
 title = "The P4TAL"
 years = [ 2008 ]

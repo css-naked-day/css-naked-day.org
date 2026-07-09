@@ -3,6 +3,6 @@ display = "The Personal Site of Nicholas Davis"
 # Websites
 
 [[websites]]
-url   = "http://www.nicholasdavis.info/"
+url = "http://www.nicholasdavis.info/"
 title = "The Personal Site of Nicholas Davis"
 years = [ 2008 ]

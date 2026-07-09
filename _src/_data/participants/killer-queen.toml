@@ -3,6 +3,6 @@ display = "Killer Queen"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.killerqueen.com.mx/"
+url = "https://web.archive.org/web/http://www.killerqueen.com.mx/"
 title = "Killer Queen"
 years = [ 2007 ]

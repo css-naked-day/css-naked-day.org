@@ -3,6 +3,6 @@ display = "E-motional Design"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.e-motionaldesign.com/"
+url = "https://web.archive.org/web/http://www.e-motionaldesign.com/"
 title = "E-motional Design"
 years = [ 2007 ]

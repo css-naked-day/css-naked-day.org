@@ -3,6 +3,6 @@ display = "free zone"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://www.3zone.it/"
+url = "https://web.archive.org/web/2008/http://www.3zone.it/"
 title = "free zone"
 years = [ 2009 ]

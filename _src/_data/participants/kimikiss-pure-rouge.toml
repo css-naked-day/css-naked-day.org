@@ -3,6 +3,6 @@ display = "Kimikiss Pure Rouge"
 # Websites
 
 [[websites]]
-url   = "http://kimikiss.ru/"
+url = "http://kimikiss.ru/"
 title = "Kimikiss Pure Rouge"
 years = [ 2009 ]

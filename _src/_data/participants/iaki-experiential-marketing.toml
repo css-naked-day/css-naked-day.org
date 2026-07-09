@@ -1,8 +1,8 @@
-display = "IAKI –  Experiential marketing"
+display = "IAKI – Experiential marketing"
 
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://eng.iaki.it/eng/"
-title = "IAKI –  Experiential marketing"
+url = "https://web.archive.org/web/http://eng.iaki.it/eng/"
+title = "IAKI – Experiential marketing"
 years = [ 2007 ]

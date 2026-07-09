@@ -3,6 +3,6 @@ display = "xkcd in Deutsch"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://thorstenpeh.de/xkcd-in-deutsch/"
+url = "https://web.archive.org/web/http://thorstenpeh.de/xkcd-in-deutsch/"
 title = "xkcd in Deutsch"
 years = [ 2008 ]

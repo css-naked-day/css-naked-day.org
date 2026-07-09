@@ -3,6 +3,6 @@ display = "劣质私房"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://zmaze.org/"
+url = "https://web.archive.org/web/http://zmaze.org/"
 title = "劣质私房"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "Web Design & Development Tech"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://webtech.tstc.edu/"
+url = "https://web.archive.org/web/http://webtech.tstc.edu/"
 title = "Web Design &amp; Development Tech"
 years = [ 2007 ]

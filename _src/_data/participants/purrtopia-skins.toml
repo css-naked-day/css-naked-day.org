@@ -3,6 +3,6 @@ display = "PurrTopia Skins"
 # Websites
 
 [[websites]]
-url   = "http://purrtopia.net/"
+url = "http://purrtopia.net/"
 title = "PurrTopia Skins"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "为爱种青菜"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://zhuoran.net/"
+url = "https://web.archive.org/web/http://zhuoran.net/"
 title = "为爱种青菜"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "quickes wohnzimmer"
 # Websites
 
 [[websites]]
-url   = "http://blog.quickes-wohnzimmer.de/"
+url = "http://blog.quickes-wohnzimmer.de/"
 title = "quickes wohnzimmer"
 years = [ 2008 ]

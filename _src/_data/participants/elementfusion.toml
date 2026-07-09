@@ -3,6 +3,6 @@ display = "ElementFusion"
 # Websites
 
 [[websites]]
-url   = "http://www.elementfusion.com/?css=naked"
+url = "http://www.elementfusion.com/?css=naked"
 title = "ElementFusion"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "OLNO"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://olaf.nordwich.de"
+url = "https://web.archive.org/web/http://olaf.nordwich.de"
 title = "OLNO"
 years = [ 2009 ]

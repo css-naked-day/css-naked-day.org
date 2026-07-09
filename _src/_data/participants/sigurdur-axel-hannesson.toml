@@ -3,6 +3,6 @@ display = "Sigurður Axel Hannesson"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://idle.blog.iceware.net/"
+url = "https://web.archive.org/web/2006/http://idle.blog.iceware.net/"
 title = "Sigurður Axel Hannesson"
 years = [ 2007 ]

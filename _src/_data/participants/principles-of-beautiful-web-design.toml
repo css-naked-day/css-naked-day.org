@@ -3,6 +3,6 @@ display = "Principles of Beautiful Web Design"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.principlesofbeautifulwebdesign.com/"
+url = "https://web.archive.org/web/http://www.principlesofbeautifulwebdesign.com/"
 title = "Principles of Beautiful Web Design"
 years = [ 2008 ]

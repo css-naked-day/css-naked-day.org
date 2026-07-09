@@ -3,6 +3,6 @@ display = "medienstadt.info"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.medienstadt.info/"
+url = "https://web.archive.org/web/http://www.medienstadt.info/"
 title = "medienstadt.info"
 years = [ 2009 ]

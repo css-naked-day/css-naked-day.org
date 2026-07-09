@@ -3,6 +3,6 @@ display = "putuoshan hotel"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.putuoshanhotel.com/en/"
+url = "https://web.archive.org/web/http://www.putuoshanhotel.com/en/"
 title = "putuoshan hotel"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "GavMack"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.gavmack.co.uk/"
+url = "https://web.archive.org/web/2007/http://www.gavmack.co.uk/"
 title = "GavMack"
 years = [ 2008 ]

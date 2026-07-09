@@ -3,6 +3,6 @@ display = "Natalie Jost { personatalie }"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://personatalie.us/"
+url = "https://web.archive.org/web/http://personatalie.us/"
 title = "Natalie Jost { personatalie }"
 years = [ 2008 ]

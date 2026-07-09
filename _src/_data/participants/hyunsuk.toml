@@ -3,6 +3,6 @@ display = "hyunsuk"
 # Websites
 
 [[websites]]
-url   = "http://hyunsuk.tistory.com/"
+url = "http://hyunsuk.tistory.com/"
 title = "hyunsuk"
 years = [ 2008 ]

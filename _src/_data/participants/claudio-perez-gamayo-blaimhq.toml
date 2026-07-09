@@ -3,6 +3,6 @@ display = "Claudio Perez Gamayo (blaimhq)"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blaimhq.com/"
+url = "https://web.archive.org/web/http://blaimhq.com/"
 title = "Claudio Perez Gamayo (blaimhq)"
 years = [ 2007 ]

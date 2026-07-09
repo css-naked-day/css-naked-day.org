@@ -3,6 +3,6 @@ display = "Spackblog Lifestream"
 # Websites
 
 [[websites]]
-url   = "http://spackmat.de/lifestream"
+url = "http://spackmat.de/lifestream"
 title = "Spackblog Lifestream"
 years = [ 2009 ]

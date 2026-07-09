@@ -3,6 +3,6 @@ display = "x5.log"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://liushen.org/blog/"
+url = "https://web.archive.org/web/http://liushen.org/blog/"
 title = "x5.log"
 years = [ 2007 ]

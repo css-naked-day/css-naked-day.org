@@ -3,6 +3,6 @@ display = "vlado varbanov portfolio"
 # Websites
 
 [[websites]]
-url   = "http://www.vlado1.com/"
+url = "http://www.vlado1.com/"
 title = "vlado varbanov portfolio"
 years = [ 2009 ]

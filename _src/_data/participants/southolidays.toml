@@ -3,6 +3,6 @@ display = "Southolidays"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.southolidays.com/"
+url = "https://web.archive.org/web/http://www.southolidays.com/"
 title = "Southolidays"
 years = [ 2007 ]

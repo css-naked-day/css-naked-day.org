@@ -1,9 +1,7 @@
-display   = "x-log"
-firstname = "Andreas"
-surname   = "Jaggi"
+display = "x-log"
 
 # Websites
 
 [[websites]]
-url   = "https://blog.x-way.org/"
+url = "https://blog.x-way.org/"
 years = [2026]

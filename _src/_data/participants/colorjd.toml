@@ -3,5 +3,5 @@ display = "colorjd"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://life.colorjd.com/"
+url = "https://web.archive.org/web/http://life.colorjd.com/"
 years = [ 2007 ]

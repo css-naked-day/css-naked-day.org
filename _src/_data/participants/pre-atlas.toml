@@ -3,6 +3,6 @@ display = "Pre Atlas"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.preatlas.com/"
+url = "https://web.archive.org/web/http://www.preatlas.com/"
 title = "Pre Atlas"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Pinkista[dot]net"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.pinkista.net/"
+url = "https://web.archive.org/web/http://www.pinkista.net/"
 title = "Pinkista[dot]net"
 years = [ 2007 ]

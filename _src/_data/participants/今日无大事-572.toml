@@ -3,6 +3,6 @@ display = "今日无大事"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.windia.net/"
+url = "https://web.archive.org/web/http://blog.windia.net/"
 title = "今日无大事"
 years = [ 2007 ]

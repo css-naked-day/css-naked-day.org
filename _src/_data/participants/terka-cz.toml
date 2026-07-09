@@ -3,6 +3,6 @@ display = "Terka.cz"
 # Websites
 
 [[websites]]
-url   = "http://www.terka.cz/"
+url = "http://www.terka.cz/"
 title = "Terka.cz"
 years = [ 2009 ]

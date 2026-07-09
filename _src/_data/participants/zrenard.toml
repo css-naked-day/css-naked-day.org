@@ -3,7 +3,7 @@ display = "zRenard"
 # Websites
 
 [[websites]]
-url   = "http://zrenard.com/"
+url = "http://zrenard.com/"
 title = "zRenard"
 years = [
 	2006,
@@ -11,6 +11,6 @@ years = [
 ]
 
 [[websites]]
-url   = "http://www.zrenard.com/"
+url = "http://www.zrenard.com/"
 title = "zRenard"
 years = [ 2008 ]

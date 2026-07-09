@@ -3,6 +3,6 @@ display = "Pizza SEO"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://pizzaseo.com/"
+url = "https://web.archive.org/web/http://pizzaseo.com/"
 title = "Pizza SEO"
 years = [ 2007 ]

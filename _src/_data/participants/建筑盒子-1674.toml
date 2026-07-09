@@ -3,6 +3,6 @@ display = "建筑盒子"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.arcbox.cn/"
+url = "https://web.archive.org/web/http://www.arcbox.cn/"
 title = "建筑盒子"
 years = [ 2007 ]

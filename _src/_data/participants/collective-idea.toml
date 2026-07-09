@@ -3,6 +3,6 @@ display = "Collective Idea"
 # Websites
 
 [[websites]]
-url   = "http://collectiveidea.com/"
+url = "http://collectiveidea.com/"
 title = "Collective Idea"
 years = [ 2007 ]

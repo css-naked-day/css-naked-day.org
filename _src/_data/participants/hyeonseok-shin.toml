@@ -3,7 +3,7 @@ display = "Hyeonseok Shin"
 # Websites
 
 [[websites]]
-url   = "http://hyeonseok.com/"
+url = "http://hyeonseok.com/"
 title = "Hyeonseok Shin"
 years = [
 	2006,

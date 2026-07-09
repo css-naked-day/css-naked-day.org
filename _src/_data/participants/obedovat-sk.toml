@@ -3,6 +3,6 @@ display = "Obedovat.sk"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.obedovat.sk/"
+url = "https://web.archive.org/web/http://www.obedovat.sk/"
 title = "Obedovat.sk"
 years = [ 2009 ]

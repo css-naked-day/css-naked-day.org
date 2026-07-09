@@ -3,6 +3,6 @@ display = "nawDsign, LLC"
 # Websites
 
 [[websites]]
-url   = "http://www.nawdsign.com/"
+url = "http://www.nawdsign.com/"
 title = "nawDsign, LLC"
 years = [ 2007 ]

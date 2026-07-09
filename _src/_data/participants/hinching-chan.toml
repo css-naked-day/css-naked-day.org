@@ -3,6 +3,6 @@ display = "Hinching Chan"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://hinching/"
+url = "https://web.archive.org/web/http://hinching/"
 title = "Hinching Chan"
 years = [ 2007 ]

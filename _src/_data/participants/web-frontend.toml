@@ -3,6 +3,6 @@ display = "web.Frontend"
 # Websites
 
 [[websites]]
-url   = "http://old9.blogsome.com/"
+url = "http://old9.blogsome.com/"
 title = "web.Frontend"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "Amarantine"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.tigerwhispers.com/"
+url = "https://web.archive.org/web/http://blog.tigerwhispers.com/"
 title = "Amarantine"
 years = [ 2009 ]

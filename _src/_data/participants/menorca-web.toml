@@ -3,6 +3,6 @@ display = "Menorca web"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.menorcaon.com/"
+url = "https://web.archive.org/web/http://www.menorcaon.com/"
 title = "Menorca web"
 years = [ 2008 ]

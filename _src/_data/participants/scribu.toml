@@ -3,7 +3,7 @@ display = "scribu"
 # Websites
 
 [[websites]]
-url   = "http://scribu.net/"
+url = "http://scribu.net/"
 title = "scribu"
 years = [
 	2008,

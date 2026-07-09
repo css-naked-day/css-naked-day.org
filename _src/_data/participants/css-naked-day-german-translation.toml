@@ -3,6 +3,6 @@ display = "CSS Naked Day – german translation"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.nakedcss.de/"
+url = "https://web.archive.org/web/http://www.nakedcss.de/"
 title = "CSS Naked Day – german translation"
 years = [ 2009 ]

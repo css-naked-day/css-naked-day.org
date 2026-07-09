@@ -3,6 +3,6 @@ display = "Murphy’s laws site"
 # Websites
 
 [[websites]]
-url   = "http://www.murphys-laws.com/"
+url = "http://www.murphys-laws.com/"
 title = "Murphy’s laws site"
 years = [ 2008 ]

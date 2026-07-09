@@ -3,6 +3,6 @@ display = "Intertwingly"
 # Websites
 
 [[websites]]
-url   = "http://intertwingly.net/blog/"
+url = "http://intertwingly.net/blog/"
 title = "Intertwingly"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "Reed Martz"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://reedsworld.org/"
+url = "https://web.archive.org/web/http://reedsworld.org/"
 title = "Reed Martz"
 years = [ 2006 ]

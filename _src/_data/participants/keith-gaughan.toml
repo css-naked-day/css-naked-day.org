@@ -3,7 +3,7 @@ display = "Keith Gaughan"
 # Websites
 
 [[websites]]
-url   = "http://talideon.com/"
+url = "http://talideon.com/"
 title = "Keith Gaughan"
 years = [
 	2006,

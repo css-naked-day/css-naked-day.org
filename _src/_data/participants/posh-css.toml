@@ -3,6 +3,6 @@ display = "Posh CSS"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://poshcss.com/"
+url = "https://web.archive.org/web/http://poshcss.com/"
 title = "Posh CSS"
 years = [ 2009 ]

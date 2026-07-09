@@ -3,12 +3,12 @@ display = "Guillermo Esteves"
 # Websites
 
 [[websites]]
-url   = "http://www.gesteves.com/"
+url = "http://www.gesteves.com/"
 title = "Guillermo Esteves"
 years = [ 2006 ]
 
 [[websites]]
-url   = "http://guillermoesteves.com/"
+url = "http://guillermoesteves.com/"
 title = "Guillermo Esteves"
 years = [
 	2007,
@@ -16,6 +16,6 @@ years = [
 ]
 
 [[websites]]
-url   = "http://blog.gesteves.com/"
+url = "http://blog.gesteves.com/"
 title = "Guillermo Esteves"
 years = [ 2009 ]

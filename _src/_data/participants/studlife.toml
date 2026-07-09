@@ -3,6 +3,6 @@ display = "StudLife"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://studlife.dp.ua/"
+url = "https://web.archive.org/web/http://studlife.dp.ua/"
 title = "StudLife"
 years = [ 2008 ]

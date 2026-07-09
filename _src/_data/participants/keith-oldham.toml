@@ -3,6 +3,6 @@ display = "Keith Oldham"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://kfactor.ath.cx/"
+url = "https://web.archive.org/web/http://kfactor.ath.cx/"
 title = "Keith Oldham"
 years = [ 2006 ]

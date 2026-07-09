@@ -3,6 +3,6 @@ display = "Aestival"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://aestival.viibrato.org/"
+url = "https://web.archive.org/web/http://aestival.viibrato.org/"
 title = "Aestival"
 years = [ 2008 ]

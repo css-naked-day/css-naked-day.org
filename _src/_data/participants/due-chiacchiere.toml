@@ -3,7 +3,7 @@ display = "Due Chiacchiere"
 # Websites
 
 [[websites]]
-url   = "https://duechiacchiere.it/"
+url = "https://duechiacchiere.it/"
 title = "Due Chiacchiere"
 years = [
 	2006,

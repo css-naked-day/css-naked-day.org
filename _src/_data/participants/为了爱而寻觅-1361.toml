@@ -3,6 +3,6 @@ display = "为了爱而寻觅"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.esjun.cn/"
+url = "https://web.archive.org/web/http://blog.esjun.cn/"
 title = "为了爱而寻觅"
 years = [ 2007 ]

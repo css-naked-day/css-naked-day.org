@@ -3,6 +3,6 @@ display = "Vmetni – Macedonian Pastebin"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.vmetni.com/"
+url = "https://web.archive.org/web/http://www.vmetni.com/"
 title = "Vmetni – Macedonian Pastebin"
 years = [ 2008 ]

@@ -3,7 +3,7 @@ display = "Brian Tremblay"
 # Websites
 
 [[websites]]
-url   = "https://btrem.com/"
+url = "https://btrem.com/"
 title = "Brian Tremblay"
 years = [ 2025 ]
 

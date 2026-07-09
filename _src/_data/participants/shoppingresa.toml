@@ -3,6 +3,6 @@ display = "Shoppingresa"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://www.shoppingresa.se/"
+url = "https://web.archive.org/web/2008/http://www.shoppingresa.se/"
 title = "Shoppingresa"
 years = [ 2009 ]

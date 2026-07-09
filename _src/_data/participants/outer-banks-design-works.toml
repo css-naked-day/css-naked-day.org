@@ -3,6 +3,6 @@ display = "Outer Banks Design Works"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.obxdesignworks.com/"
+url = "https://web.archive.org/web/http://www.obxdesignworks.com/"
 title = "Outer Banks Design Works"
 years = [ 2008 ]

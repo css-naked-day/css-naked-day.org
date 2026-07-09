@@ -3,6 +3,6 @@ display = "Alex Saueressig"
 # Websites
 
 [[websites]]
-url   = "http://www.arvoresdeirati.com/"
+url = "http://www.arvoresdeirati.com/"
 title = "Alex Saueressig"
 years = [ 2006 ]

@@ -3,6 +3,6 @@ display = "Minlo Technologies"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.minlotec.com/"
+url = "https://web.archive.org/web/http://www.minlotec.com/"
 title = "Minlo Technologies"
 years = [ 2007 ]

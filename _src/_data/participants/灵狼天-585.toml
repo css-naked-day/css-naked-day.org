@@ -3,6 +3,6 @@ display = "灵狼天"
 # Websites
 
 [[websites]]
-url   = "http://my.opera.com/icyleaf/"
+url = "http://my.opera.com/icyleaf/"
 title = "灵狼天"
 years = [ 2007 ]

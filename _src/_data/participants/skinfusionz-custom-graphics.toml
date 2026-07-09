@@ -3,6 +3,6 @@ display = "Skinfusionz Custom Graphics"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://www.skinfusionz.com/"
+url = "https://web.archive.org/web/2006/http://www.skinfusionz.com/"
 title = "Skinfusionz Custom Graphics"
 years = [ 2007 ]

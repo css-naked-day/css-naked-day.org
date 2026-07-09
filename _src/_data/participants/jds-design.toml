@@ -3,6 +3,6 @@ display = "JDS Design"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.johandesilva.co.uk/"
+url = "https://web.archive.org/web/http://www.johandesilva.co.uk/"
 title = "JDS Design"
 years = [ 2008 ]

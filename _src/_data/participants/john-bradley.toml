@@ -3,6 +3,6 @@ display = "John Bradley"
 # Websites
 
 [[websites]]
-url   = "http://cse.msstate.edu/~jmb278"
+url = "http://cse.msstate.edu/~jmb278"
 title = "John Bradley"
 years = [ 2006 ]

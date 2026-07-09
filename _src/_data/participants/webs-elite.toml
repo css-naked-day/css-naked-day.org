@@ -3,6 +3,6 @@ display = "webs-elite"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.webs-elite.com/"
+url = "https://web.archive.org/web/http://www.webs-elite.com/"
 title = "webs-elite"
 years = [ 2008 ]

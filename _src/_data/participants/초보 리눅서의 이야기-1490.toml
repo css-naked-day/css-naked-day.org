@@ -3,6 +3,6 @@ display = "초보 리눅서의 이야기"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://jeongsw.tistory.com"
+url = "https://web.archive.org/web/http://jeongsw.tistory.com"
 title = "초보 리눅서의 이야기"
 years = [ 2008 ]

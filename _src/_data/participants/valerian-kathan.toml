@@ -3,6 +3,6 @@ display = "Valerian Kathan"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.valeriankathan.at/"
+url = "https://web.archive.org/web/http://www.valeriankathan.at/"
 title = "Valerian Kathan"
 years = [ 2008 ]

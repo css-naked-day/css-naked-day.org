@@ -3,6 +3,6 @@ display = "Jenny Adams"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://bookish.nu/"
+url = "https://web.archive.org/web/http://bookish.nu/"
 title = "Jenny Adams"
 years = [ 2008 ]

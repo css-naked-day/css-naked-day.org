@@ -3,6 +3,6 @@ display = "Chris Griego (Bold Pixel)"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://boldpx.com/"
+url = "https://web.archive.org/web/2007/http://boldpx.com/"
 title = "Chris Griego (Bold Pixel)"
 years = [ 2008 ]

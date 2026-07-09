@@ -3,6 +3,6 @@ display = "PCBdB*"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://pcbdb.net/"
+url = "https://web.archive.org/web/http://pcbdb.net/"
 title = "PCBdB*"
 years = [ 2007 ]

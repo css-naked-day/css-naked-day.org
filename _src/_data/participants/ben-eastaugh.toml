@@ -3,6 +3,6 @@ display = "Ben Eastaugh"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2005/http://ionfish.co.uk/"
+url = "https://web.archive.org/web/2005/http://ionfish.co.uk/"
 title = "Ben Eastaugh"
 years = [ 2006 ]

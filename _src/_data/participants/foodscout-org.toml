@@ -3,7 +3,7 @@ display = "foodscout.org"
 # Websites
 
 [[websites]]
-url   = "http://www.foodscout.org/"
+url = "http://www.foodscout.org/"
 title = "foodscout.org"
 years = [
 	2008,

@@ -3,6 +3,6 @@ display = "BeamerStation Newsblog"
 # Websites
 
 [[websites]]
-url   = "http://blog.beamerstation.de/"
+url = "http://blog.beamerstation.de/"
 title = "BeamerStation Newsblog"
 years = [ 2009 ]

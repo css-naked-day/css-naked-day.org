@@ -3,6 +3,6 @@ display = "Кармаграф для Хабрахабра"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://karma.goodrone.org.ru/"
+url = "https://web.archive.org/web/http://karma.goodrone.org.ru/"
 title = "Кармаграф для Хабрахабра"
 years = [ 2008 ]

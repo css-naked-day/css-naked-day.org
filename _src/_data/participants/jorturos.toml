@@ -3,6 +3,6 @@ display = "Jorturos"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.fotomurcia.com.es/"
+url = "https://web.archive.org/web/http://www.fotomurcia.com.es/"
 title = "Jorturos"
 years = [ 2006 ]

@@ -3,6 +3,6 @@ display = "Proto"
 # Websites
 
 [[websites]]
-url   = "https://proto.garden/"
+url = "https://proto.garden/"
 title = "Proto"
 years = [ 2024 ]

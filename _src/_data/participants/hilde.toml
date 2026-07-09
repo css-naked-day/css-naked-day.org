@@ -3,6 +3,6 @@ display = "Hilde"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://hebedesign.com/blogg"
+url = "https://web.archive.org/web/http://hebedesign.com/blogg"
 title = "Hilde"
 years = [ 2006 ]

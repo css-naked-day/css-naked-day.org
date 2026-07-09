@@ -3,6 +3,6 @@ display = "Alleycat"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://alleycat.pl/"
+url = "https://web.archive.org/web/http://alleycat.pl/"
 title = "Alleycat"
 years = [ 2007 ]

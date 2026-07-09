@@ -3,7 +3,7 @@ display = "rankomat"
 # Websites
 
 [[websites]]
-url   = "http://www.rankomat.de/"
+url = "http://www.rankomat.de/"
 title = "rankomat"
 years = [
 	2008,

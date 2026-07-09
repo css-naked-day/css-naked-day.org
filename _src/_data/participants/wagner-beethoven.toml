@@ -3,7 +3,7 @@ display = "Wagner Beethoven"
 # Websites
 
 [[websites]]
-url   = "https://wagnerbeethoven.com.br/"
+url = "https://wagnerbeethoven.com.br/"
 title = "Wagner Beethoven"
 years = [ 2025 ]
 

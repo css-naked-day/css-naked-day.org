@@ -3,6 +3,6 @@ display = "weakish blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://weakish.int.eu.org/blog"
+url = "https://web.archive.org/web/http://weakish.int.eu.org/blog"
 title = "weakish blog"
 years = [ 2008 ]

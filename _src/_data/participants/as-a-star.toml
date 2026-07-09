@@ -3,6 +3,6 @@ display = "As A Star"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.asastar.com/"
+url = "https://web.archive.org/web/http://www.asastar.com/"
 title = "As A Star"
 years = [ 2007 ]

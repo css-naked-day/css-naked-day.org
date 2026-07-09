@@ -3,7 +3,7 @@ display = "Elliot Swan"
 # Websites
 
 [[websites]]
-url   = "http://www.elliotswan.com/"
+url = "http://www.elliotswan.com/"
 title = "Elliot Swan"
 years = [
 	2006,

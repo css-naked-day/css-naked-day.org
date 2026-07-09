@@ -3,7 +3,7 @@ display = "deutism"
 # Websites
 
 [[websites]]
-url   = "http://mydeute.com/txp/"
+url = "http://mydeute.com/txp/"
 title = "deutism"
 years = [
 	2007,
@@ -11,6 +11,6 @@ years = [
 ]
 
 [[websites]]
-url   = "http://mydeute.com/"
+url = "http://mydeute.com/"
 title = "deutism"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "gtnconcept.com"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.gtnconcept.com/"
+url = "https://web.archive.org/web/http://www.gtnconcept.com/"
 title = "gtnconcept.com"
 years = [ 2008 ]

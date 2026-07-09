@@ -3,6 +3,6 @@ display = "Mathpoint"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.mathpoint.ca/"
+url = "https://web.archive.org/web/http://www.mathpoint.ca/"
 title = "Mathpoint"
 years = [ 2009 ]

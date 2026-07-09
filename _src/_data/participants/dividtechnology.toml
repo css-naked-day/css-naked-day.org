@@ -3,6 +3,6 @@ display = "dividtechnology"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://dividtechnology.com/"
+url = "https://web.archive.org/web/http://dividtechnology.com/"
 title = "dividtechnology"
 years = [ 2009 ]

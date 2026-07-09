@@ -3,6 +3,6 @@ display = "Onehub"
 # Websites
 
 [[websites]]
-url   = "http://onehub.com/"
+url = "http://onehub.com/"
 title = "Onehub"
 years = [ 2008 ]

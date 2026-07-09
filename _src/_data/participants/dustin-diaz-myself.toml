@@ -3,6 +3,6 @@ display = "Dustin Diaz (Myself)"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.dustindiaz.com/"
+url = "https://web.archive.org/web/http://www.dustindiaz.com/"
 title = "Dustin Diaz (Myself)"
 years = [ 2006 ]

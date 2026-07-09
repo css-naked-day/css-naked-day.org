@@ -3,6 +3,6 @@ display = "Presidential Graves"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.presidentialgraves.com/"
+url = "https://web.archive.org/web/http://www.presidentialgraves.com/"
 title = "Presidential Graves"
 years = [ 2008 ]

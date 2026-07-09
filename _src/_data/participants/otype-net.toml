@@ -3,6 +3,6 @@ display = "otype.net"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://otype.net/"
+url = "https://web.archive.org/web/http://otype.net/"
 title = "otype.net"
 years = [ 2009 ]

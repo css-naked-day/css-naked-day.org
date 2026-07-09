@@ -3,6 +3,6 @@ display = "Kim Ängalid"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.kim.angalid.se/"
+url = "https://web.archive.org/web/http://www.kim.angalid.se/"
 title = "Kim Ängalid"
 years = [ 2009 ]

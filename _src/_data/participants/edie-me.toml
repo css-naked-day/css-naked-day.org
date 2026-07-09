@@ -3,6 +3,6 @@ display = "edie.me"
 # Websites
 
 [[websites]]
-url   = "http://www.edie.me/"
+url = "http://www.edie.me/"
 title = "edie.me"
 years = [ 2009 ]

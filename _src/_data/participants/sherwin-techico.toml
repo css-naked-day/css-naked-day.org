@@ -3,6 +3,6 @@ display = "Sherwin Techico"
 # Websites
 
 [[websites]]
-url   = "http://www.justamemo.com/"
+url = "http://www.justamemo.com/"
 title = "Sherwin Techico"
 years = [ 2006 ]

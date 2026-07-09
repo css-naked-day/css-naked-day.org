@@ -3,6 +3,6 @@ display = "information visualisation"
 # Websites
 
 [[websites]]
-url   = "http://iad.projects.hgkz.ch/infovis07/"
+url = "http://iad.projects.hgkz.ch/infovis07/"
 title = "information visualisation"
 years = [ 2007 ]

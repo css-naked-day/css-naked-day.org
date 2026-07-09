@@ -3,6 +3,6 @@ display = "Fiur"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.fiur.ro"
+url = "https://web.archive.org/web/2007/http://www.fiur.ro"
 title = "Fiur"
 years = [ 2008 ]

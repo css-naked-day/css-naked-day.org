@@ -3,6 +3,6 @@ display = "Camel"
 # Websites
 
 [[websites]]
-url   = "http://killbox.pl/"
+url = "http://killbox.pl/"
 title = "Camel"
 years = [ 2006 ]

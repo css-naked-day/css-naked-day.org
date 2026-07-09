@@ -3,7 +3,7 @@ display = "Terence Eden"
 # Websites
 
 [[websites]]
-url   = "https://shkspr.mobi/blog/"
+url = "https://shkspr.mobi/blog/"
 years = [
 	2020,
 	2022,

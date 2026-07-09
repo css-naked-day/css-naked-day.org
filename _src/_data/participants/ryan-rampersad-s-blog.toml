@@ -3,6 +3,6 @@ display = "Ryan Rampersad’s blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://ryan.ifupdown.com/"
+url = "https://web.archive.org/web/http://ryan.ifupdown.com/"
 title = "Ryan Rampersad’s blog"
 years = [ 2009 ]

@@ -3,7 +3,7 @@ display = "Блог интернет-разработчика"
 # Websites
 
 [[websites]]
-url   = "http://zhilinsky.ru/"
+url = "http://zhilinsky.ru/"
 title = "Блог интернет-разработчика"
 years = [
 	2008,

@@ -3,6 +3,6 @@ display = "Kjetil Knarlag"
 # Websites
 
 [[websites]]
-url   = "http://www.universell.no/"
+url = "http://www.universell.no/"
 title = "Kjetil Knarlag"
 years = [ 2006 ]

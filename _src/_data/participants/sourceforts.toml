@@ -3,6 +3,6 @@ display = "SourceForts"
 # Websites
 
 [[websites]]
-url   = "http://www.sourcefortsmod.com/"
+url = "http://www.sourcefortsmod.com/"
 title = "SourceForts"
 years = [ 2007 ]

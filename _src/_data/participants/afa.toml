@@ -3,6 +3,6 @@ display = "afa"
 # Websites
 
 [[websites]]
-url   = "http://www.example.com/"
+url = "http://www.example.com/"
 title = "afa"
 years = [ 2009 ]

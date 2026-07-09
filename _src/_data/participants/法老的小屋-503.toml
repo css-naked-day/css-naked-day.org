@@ -3,6 +3,6 @@ display = "法老的小屋"
 # Websites
 
 [[websites]]
-url   = "http://blog.sina.com.cn/africa"
+url = "http://blog.sina.com.cn/africa"
 title = "法老的小屋"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "Brewster’s Guide to Web 2.666"
 # Websites
 
 [[websites]]
-url   = "http://kentbrewster.com/"
+url = "http://kentbrewster.com/"
 title = "Brewster’s Guide to Web 2.666"
 years = [ 2008 ]

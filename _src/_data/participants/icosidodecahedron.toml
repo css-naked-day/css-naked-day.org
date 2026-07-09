@@ -3,6 +3,6 @@ display = "Icosidodecahedron"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://icosidodecahedron.com/"
+url = "https://web.archive.org/web/2008/http://icosidodecahedron.com/"
 title = "Icosidodecahedron"
 years = [ 2009 ]

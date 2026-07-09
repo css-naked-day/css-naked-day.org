@@ -3,11 +3,11 @@ display = "Ben Buchanan"
 # Websites
 
 [[websites]]
-url   = "http://weblog.200ok.com.au/"
+url = "http://weblog.200ok.com.au/"
 years = [ 2015 ]
 
 [[websites]]
-url   = "https://weblog.200ok.com.au/"
+url = "https://weblog.200ok.com.au/"
 years = [
 	2020,
 	2021,

@@ -3,6 +3,6 @@ display = "Radio Levhita"
 # Websites
 
 [[websites]]
-url   = "http://blog.levhita.net/"
+url = "http://blog.levhita.net/"
 title = "Radio Levhita"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "Robert Bue"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.komplekser.net/"
+url = "https://web.archive.org/web/http://www.komplekser.net/"
 title = "Robert Bue"
 years = [ 2007 ]

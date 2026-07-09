@@ -3,6 +3,6 @@ display = "esn studio"
 # Websites
 
 [[websites]]
-url   = "http://eisabainyo.net/weblog"
+url = "http://eisabainyo.net/weblog"
 title = "esn studio"
 years = [ 2007 ]

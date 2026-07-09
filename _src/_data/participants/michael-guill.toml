@@ -3,6 +3,6 @@ display = "Michael Guill"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.guill-webs.com/"
+url = "https://web.archive.org/web/http://www.guill-webs.com/"
 title = "Michael Guill"
 years = [ 2007 ]

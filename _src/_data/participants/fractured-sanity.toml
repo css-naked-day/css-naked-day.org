@@ -3,6 +3,6 @@ display = "Fractured Sanity"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.theluckycatstudio.com/"
+url = "https://web.archive.org/web/http://www.theluckycatstudio.com/"
 title = "Fractured Sanity"
 years = [ 2008 ]

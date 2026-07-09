@@ -3,6 +3,6 @@ display = "position: absolute"
 # Websites
 
 [[websites]]
-url   = "http://blog.parasight.de/"
+url = "http://blog.parasight.de/"
 title = "position: absolute"
 years = [ 2007 ]

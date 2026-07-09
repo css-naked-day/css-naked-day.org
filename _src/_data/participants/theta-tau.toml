@@ -3,6 +3,6 @@ display = "Theta Tau"
 # Websites
 
 [[websites]]
-url   = "http://www.ttufiji.com/"
+url = "http://www.ttufiji.com/"
 title = "Theta Tau"
 years = [ 2006 ]

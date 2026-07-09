@@ -3,6 +3,6 @@ display = "Greengnn"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.jluvip.com/blog"
+url = "https://web.archive.org/web/http://www.jluvip.com/blog"
 title = "Greengnn"
 years = [ 2006 ]

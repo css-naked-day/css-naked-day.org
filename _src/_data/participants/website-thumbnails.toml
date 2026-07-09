@@ -3,6 +3,6 @@ display = "Website thumbnails"
 # Websites
 
 [[websites]]
-url   = "http://www.websitethumbnails.net/"
+url = "http://www.websitethumbnails.net/"
 title = "Website thumbnails"
 years = [ 2007 ]

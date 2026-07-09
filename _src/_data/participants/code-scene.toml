@@ -3,6 +3,6 @@ display = "Code Scene"
 # Websites
 
 [[websites]]
-url   = "http://www.codescene.com/"
+url = "http://www.codescene.com/"
 title = "Code Scene"
 years = [ 2007 ]

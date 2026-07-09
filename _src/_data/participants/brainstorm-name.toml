@@ -3,6 +3,6 @@ display = "brainstorm.name"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://brainstorm.name/"
+url = "https://web.archive.org/web/http://brainstorm.name/"
 title = "brainstorm.name"
 years = [ 2009 ]

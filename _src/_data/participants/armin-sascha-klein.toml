@@ -3,6 +3,6 @@ display = "Armin-Sascha Klein"
 # Websites
 
 [[websites]]
-url   = "http://www.armin-sascha-klein.de/"
+url = "http://www.armin-sascha-klein.de/"
 title = "Armin-Sascha Klein"
 years = [ 2009 ]

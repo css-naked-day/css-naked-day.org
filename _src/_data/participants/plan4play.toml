@@ -3,11 +3,11 @@ display = "plan4play"
 # Websites
 
 [[websites]]
-url   = "http://web.archive.org/web/20070703030800/http://members.thai.net:80/radiz/"
+url = "http://web.archive.org/web/20070703030800/http://members.thai.net:80/radiz/"
 title = "plan4play"
 years = [ 2007 ]
 
 [[websites]]
-url   = "http://www.plan4play.com/"
+url = "http://www.plan4play.com/"
 title = "plan4play"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "The simFluence"
 # Websites
 
 [[websites]]
-url   = "http://www.simb.net/"
+url = "http://www.simb.net/"
 title = "The simFluence"
 years = [ 2007 ]

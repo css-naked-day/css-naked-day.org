@@ -3,7 +3,7 @@ display = "translucide.net"
 # Websites
 
 [[websites]]
-url   = "https://translucide.net/"
+url = "https://translucide.net/"
 title = "translucide.net"
 years = [ 2025, 2026 ]
 

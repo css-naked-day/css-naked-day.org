@@ -3,6 +3,6 @@ display = "Jason Friesen {dot} ca"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://jasonfriesen.ca/"
+url = "https://web.archive.org/web/http://jasonfriesen.ca/"
 title = "Jason Friesen {dot} ca"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "蓝色飞扬"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.gzlinyi.cn/"
+url = "https://web.archive.org/web/http://www.gzlinyi.cn/"
 title = "蓝色飞扬"
 years = [ 2008 ]

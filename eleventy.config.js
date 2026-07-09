@@ -32,7 +32,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addFilter('getParticipantDisplayName', function(filename) {
 		const participant = this.ctx.participants[filename];
 
-		return participant.display ?? participant.username ?? filename;
+		return participant.display ?? filename;
 	});
 
 	eleventyConfig.addFilter('getParticipantWebsitesForYear', function(participant, year) {

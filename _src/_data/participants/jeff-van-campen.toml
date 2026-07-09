@@ -3,6 +3,6 @@ display = "Jeff Van Campen"
 # Websites
 
 [[websites]]
-url   = "http://otrops.com/"
+url = "http://otrops.com/"
 title = "Jeff Van Campen"
 years = [ 2009 ]

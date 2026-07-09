@@ -3,6 +3,6 @@ display = "Ian Forrester"
 # Websites
 
 [[websites]]
-url   = "http://www.cubicgarden.com/blojsom/blog/cubicgarden/"
+url = "http://www.cubicgarden.com/blojsom/blog/cubicgarden/"
 title = "Ian Forrester"
 years = [ 2006 ]

@@ -3,6 +3,6 @@ display = "jETA to Alpha"
 # Websites
 
 [[websites]]
-url   = "http://jeta.tistory.com/"
+url = "http://jeta.tistory.com/"
 title = "jETA to Alpha"
 years = [ 2008 ]

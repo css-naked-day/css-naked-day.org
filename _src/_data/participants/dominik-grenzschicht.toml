@@ -3,6 +3,6 @@ display = "Dominik"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.grenzschicht.com/blog"
+url = "https://web.archive.org/web/http://www.grenzschicht.com/blog"
 title = "Dominik"
 years = [ 2006 ]
