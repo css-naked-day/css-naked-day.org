@@ -3,6 +3,6 @@ display = "Carl D. Patterson"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://carldpatterson.com/"
+url = "https://web.archive.org/web/http://carldpatterson.com/"
 title = "Carl D. Patterson"
 years = [ 2008 ]

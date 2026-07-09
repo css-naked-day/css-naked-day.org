@@ -3,5 +3,5 @@ display = "blk"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.blk.cl/"
+url = "https://web.archive.org/web/2007/http://www.blk.cl/"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Code Penguin"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://laurent.bachelier.name/"
+url = "https://web.archive.org/web/2008/http://laurent.bachelier.name/"
 title = "Code Penguin"
 years = [ 2009 ]

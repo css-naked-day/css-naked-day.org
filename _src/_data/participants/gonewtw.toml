@@ -3,11 +3,11 @@ display = "GoneWTW"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.gengbing.com/aboutme/index.php"
+url = "https://web.archive.org/web/http://www.gengbing.com/aboutme/index.php"
 title = "aboutme"
 years = [ 2007 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://www.gengbing.com/"
+url = "https://web.archive.org/web/2006/http://www.gengbing.com/"
 title = "GoneWTW"
 years = [ 2007 ]

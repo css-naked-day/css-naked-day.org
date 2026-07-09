@@ -3,6 +3,6 @@ display = "Encephalosponge"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://encephalosponge.com/"
+url = "https://web.archive.org/web/http://encephalosponge.com/"
 title = "Encephalosponge"
 years = [ 2008 ]

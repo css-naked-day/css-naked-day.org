@@ -3,6 +3,6 @@ display = "Nmeans"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://nmeans.org/"
+url = "https://web.archive.org/web/http://nmeans.org/"
 title = "Nmeans"
 years = [ 2006 ]

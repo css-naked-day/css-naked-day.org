@@ -3,6 +3,6 @@ display = "Jesse"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.resiny.org/"
+url = "https://web.archive.org/web/http://www.resiny.org/"
 title = "Jesse"
 years = [ 2006 ]

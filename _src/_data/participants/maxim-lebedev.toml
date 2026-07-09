@@ -3,6 +3,6 @@ display = "Maxim Lebedev"
 # Websites
 
 [[websites]]
-url   = "https://toby3d.me/"
+url = "https://toby3d.me/"
 title = "Maxim Lebedev"
 years = [ 2021 ]

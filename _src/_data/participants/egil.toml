@@ -3,6 +3,6 @@ display = "Egil"
 # Websites
 
 [[websites]]
-url   = "http://web.archive.org/web/20061220050023/http://www.lostesoterics.com:80/"
+url = "http://web.archive.org/web/20061220050023/http://www.lostesoterics.com:80/"
 title = "Egil"
 years = [ 2006 ]

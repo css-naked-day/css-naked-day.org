@@ -3,6 +3,6 @@ display = "Anthony Ettinger"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.chovy.com/"
+url = "https://web.archive.org/web/http://www.chovy.com/"
 title = "Anthony Ettinger"
 years = [ 2006 ]

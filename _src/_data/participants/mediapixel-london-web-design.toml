@@ -3,6 +3,6 @@ display = "Mediapixel – London Web Design"
 # Websites
 
 [[websites]]
-url   = "http://www.mediapixel.co.uk/"
+url = "http://www.mediapixel.co.uk/"
 title = "Mediapixel – London Web Design"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "Kelly Baker"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.kellybaker.ca/"
+url = "https://web.archive.org/web/http://www.kellybaker.ca/"
 title = "Kelly Baker"
 years = [ 2008 ]

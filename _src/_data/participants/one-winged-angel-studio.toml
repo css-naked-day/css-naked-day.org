@@ -3,6 +3,6 @@ display = "One Winged Angel Studio"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.owastudio.com/"
+url = "https://web.archive.org/web/http://www.owastudio.com/"
 title = "One Winged Angel Studio"
 years = [ 2008 ]

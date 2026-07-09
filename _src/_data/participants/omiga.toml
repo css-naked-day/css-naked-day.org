@@ -3,6 +3,6 @@ display = "omiga"
 # Websites
 
 [[websites]]
-url   = "http://omiga.org/"
+url = "http://omiga.org/"
 title = "omiga"
 years = [ 2009 ]

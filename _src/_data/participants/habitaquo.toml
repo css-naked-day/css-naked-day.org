@@ -3,9 +3,9 @@ display = "Habitaquo"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.habitaquo.net/"
+url = "https://web.archive.org/web/http://www.habitaquo.net/"
 years = [ 2007 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://habitaquo.creabits.com/"
+url = "https://web.archive.org/web/2006/http://habitaquo.creabits.com/"
 years = [ 2007 ]

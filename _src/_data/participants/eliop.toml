@@ -3,9 +3,9 @@ display = "Eliop博客"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.eliop.tk/"
+url = "https://web.archive.org/web/http://www.eliop.tk/"
 years = [ 2008 ]
 
 [[websites]]
-url   = "http://hi.baidu.com/eliop"
+url = "http://hi.baidu.com/eliop"
 years = [ 2008 ]

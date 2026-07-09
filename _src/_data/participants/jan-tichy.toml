@@ -3,7 +3,7 @@ display = "Jan Tichý"
 # Websites
 
 [[websites]]
-url   = "http://www.jantichy.cz/"
+url = "http://www.jantichy.cz/"
 title = "Jan Tichý"
 years = [
 	2008,

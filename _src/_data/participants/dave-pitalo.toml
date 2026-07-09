@@ -3,5 +3,5 @@ display = "Dave Pitalo"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2005/http://www.davepitalo.com/blog"
+url = "https://web.archive.org/web/2005/http://www.davepitalo.com/blog"
 years = [ 2006 ]

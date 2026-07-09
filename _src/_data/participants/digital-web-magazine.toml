@@ -3,6 +3,6 @@ display = "Digital Web Magazine"
 # Websites
 
 [[websites]]
-url   = "http://www.digital-web.com/"
+url = "http://www.digital-web.com/"
 title = "Digital Web Magazine"
 years = [ 2008 ]

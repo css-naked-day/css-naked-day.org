@@ -3,6 +3,6 @@ display = "Martijn ten Napel"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.noipo.org/"
+url = "https://web.archive.org/web/http://www.noipo.org/"
 title = "Martijn ten Napel"
 years = [ 2006 ]

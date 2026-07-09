@@ -3,12 +3,12 @@ display = "PiscDong Studio"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.piscdong.com/x/"
+url = "https://web.archive.org/web/http://www.piscdong.com/x/"
 title = "PiscDong Studio"
 years = [ 2006 ]
 
 [[websites]]
-url   = "http://www.piscdong.com/"
+url = "http://www.piscdong.com/"
 title = "PiscDong studio"
 years = [
 	2007,

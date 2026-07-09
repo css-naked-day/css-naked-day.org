@@ -3,6 +3,6 @@ display = "Face Designs"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.facedesigns.us/"
+url = "https://web.archive.org/web/http://www.facedesigns.us/"
 title = "Face Designs"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "tesion.home"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.tesion.cn/"
+url = "https://web.archive.org/web/http://www.tesion.cn/"
 title = "tesion.home"
 years = [ 2007 ]

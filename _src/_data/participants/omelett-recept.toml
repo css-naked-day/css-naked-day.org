@@ -3,6 +3,6 @@ display = "Omelett Recept"
 # Websites
 
 [[websites]]
-url   = "http://www.omelett.nu/"
+url = "http://www.omelett.nu/"
 title = "Omelett Recept"
 years = [ 2009 ]

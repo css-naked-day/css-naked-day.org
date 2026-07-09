@@ -3,6 +3,6 @@ display = "xenox"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blogg.langemyhr.org/"
+url = "https://web.archive.org/web/http://blogg.langemyhr.org/"
 title = "xenox"
 years = [ 2008 ]

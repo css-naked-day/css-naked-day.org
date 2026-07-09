@@ -3,6 +3,6 @@ display = "Paul Kelley"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.paulkelleydesign.com/"
+url = "https://web.archive.org/web/http://www.paulkelleydesign.com/"
 title = "Paul Kelley"
 years = [ 2009 ]

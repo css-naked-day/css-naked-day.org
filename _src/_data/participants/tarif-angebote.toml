@@ -3,6 +3,6 @@ display = "Tarif-Angebote"
 # Websites
 
 [[websites]]
-url   = "http://tarif-angebote.de/"
+url = "http://tarif-angebote.de/"
 title = "Tarif-Angebote"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Sutekidane"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.sutekidane.net/blog/"
+url = "https://web.archive.org/web/http://www.sutekidane.net/blog/"
 title = "Sutekidane"
 years = [ 2007 ]

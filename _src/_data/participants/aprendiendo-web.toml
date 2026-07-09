@@ -3,6 +3,6 @@ display = "Aprendiendo Web"
 # Websites
 
 [[websites]]
-url   = "http://aprendiendoweb.com/"
+url = "http://aprendiendoweb.com/"
 title = "Aprendiendo Web"
 years = [ 2009 ]

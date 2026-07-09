@@ -3,6 +3,6 @@ display = "Antiblog de Yahia"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://yahia.ma/antiblog/"
+url = "https://web.archive.org/web/http://yahia.ma/antiblog/"
 title = "Antiblog de Yahia"
 years = [ 2007 ]

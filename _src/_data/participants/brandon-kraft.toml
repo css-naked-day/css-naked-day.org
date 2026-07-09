@@ -3,6 +3,6 @@ display = "Brandon Kraft"
 # Websites
 
 [[websites]]
-url   = "https://kraft.blog/"
+url = "https://kraft.blog/"
 title = "Brandon Kraft"
 years = [ 2021 ]

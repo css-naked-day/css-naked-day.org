@@ -3,6 +3,6 @@ display = "Afftar.ru"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://afftar.ru/"
+url = "https://web.archive.org/web/http://afftar.ru/"
 title = "Afftar.ru"
 years = [ 2008 ]

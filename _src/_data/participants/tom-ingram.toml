@@ -3,5 +3,5 @@ display = "Tom Ingram"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://dtroi50.freewebsitehost.net/blog"
+url = "https://web.archive.org/web/http://dtroi50.freewebsitehost.net/blog"
 years = [ 2006 ]

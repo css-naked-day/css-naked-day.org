@@ -3,6 +3,6 @@ display = "Kurs SEO – SEM"
 # Websites
 
 [[websites]]
-url   = "http://www.kurs.ittechnology.us/"
+url = "http://www.kurs.ittechnology.us/"
 title = "Kurs SEO – SEM"
 years = [ 2007 ]

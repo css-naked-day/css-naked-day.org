@@ -3,7 +3,7 @@ display = "Gabi Moore"
 # Websites
 
 [[websites]]
-url   = "http://www.gabimoore.com/"
+url = "http://www.gabimoore.com/"
 title = "Gabi Moore"
 years = [
 	2008,

@@ -3,7 +3,7 @@ display = "ADIT Systems-Blog"
 # Websites
 
 [[websites]]
-url   = "http://blog.aditsystems.de/"
+url = "http://blog.aditsystems.de/"
 title = "ADIT Systems-Blog"
 years = [
 	2008,

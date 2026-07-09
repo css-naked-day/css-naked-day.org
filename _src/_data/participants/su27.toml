@@ -3,5 +3,5 @@ display = "Alone"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://su27.org/"
+url = "https://web.archive.org/web/http://su27.org/"
 years = [ 2008 ]

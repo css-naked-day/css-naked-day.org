@@ -3,6 +3,6 @@ display = "Junyu Wang"
 # Websites
 
 [[websites]]
-url   = "http://blog.wangjunyu.net/"
+url = "http://blog.wangjunyu.net/"
 title = "Junyu Wang"
 years = [ 2009 ]

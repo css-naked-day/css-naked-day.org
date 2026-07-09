@@ -3,6 +3,6 @@ display = "Gemini Diva"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://gemini-diva.com/"
+url = "https://web.archive.org/web/http://gemini-diva.com/"
 title = "Gemini Diva"
 years = [ 2008 ]

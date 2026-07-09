@@ -3,6 +3,6 @@ display = "emergency weblog"
 # Websites
 
 [[websites]]
-url   = "http://elainenelson.org/"
+url = "http://elainenelson.org/"
 title = "emergency weblog"
 years = [ 2007 ]

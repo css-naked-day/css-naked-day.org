@@ -3,6 +3,6 @@ display = "NiKo"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.prendreuncafe.com/blog"
+url = "https://web.archive.org/web/http://www.prendreuncafe.com/blog"
 title = "NiKo"
 years = [ 2006 ]

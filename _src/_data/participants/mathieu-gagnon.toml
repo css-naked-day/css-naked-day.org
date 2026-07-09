@@ -3,6 +3,6 @@ display = "Mathieu Gagnon"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://mathieu.gagnon.name/"
+url = "https://web.archive.org/web/http://mathieu.gagnon.name/"
 title = "Mathieu Gagnon"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "72ppi"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://72ppi.us/"
+url = "https://web.archive.org/web/http://72ppi.us/"
 title = "72ppi"
 years = [ 2007 ]

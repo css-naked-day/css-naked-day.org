@@ -3,7 +3,7 @@ display = "Дом моих мыслей"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://www.mikolka.info/"
+url = "https://web.archive.org/web/2008/http://www.mikolka.info/"
 title = "Дом моих мыслей"
 years = [
 	2008,

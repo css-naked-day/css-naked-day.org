@@ -3,6 +3,6 @@ display = "chrigu bloggt"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://christianhauser.ch/"
+url = "https://web.archive.org/web/2008/http://christianhauser.ch/"
 title = "chrigu bloggt"
 years = [ 2009 ]

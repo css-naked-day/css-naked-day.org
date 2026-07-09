@@ -3,6 +3,6 @@ display = "Krome blog"
 # Websites
 
 [[websites]]
-url   = "http://web.archive.org/web/20070518202809/http://blog.retfu.net:80/krome/index.php?"
+url = "http://web.archive.org/web/20070518202809/http://blog.retfu.net:80/krome/index.php?"
 title = "Krome blog"
 years = [ 2007 ]

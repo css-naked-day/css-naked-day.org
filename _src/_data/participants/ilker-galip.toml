@@ -3,6 +3,6 @@ display = "İlker Galip"
 # Websites
 
 [[websites]]
-url   = "http://www.iler-ga.com/"
+url = "http://www.iler-ga.com/"
 title = "İlker Galip"
 years = [ 2009 ]

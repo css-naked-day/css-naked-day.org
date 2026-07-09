@@ -3,6 +3,6 @@ display = "SolidSmack"
 # Websites
 
 [[websites]]
-url   = "http://www.solidsmack.com/"
+url = "http://www.solidsmack.com/"
 title = "SolidSmack"
 years = [ 2008 ]

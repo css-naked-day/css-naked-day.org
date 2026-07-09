@@ -3,6 +3,6 @@ display = "pestaola.gr"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.pestaola.gr/"
+url = "https://web.archive.org/web/http://www.pestaola.gr/"
 title = "pestaola.gr"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Wm Radio"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://wmradio.tk/"
+url = "https://web.archive.org/web/http://wmradio.tk/"
 title = "Wm Radio"
 years = [ 2009 ]

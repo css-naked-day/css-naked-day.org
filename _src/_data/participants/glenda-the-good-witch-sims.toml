@@ -3,6 +3,6 @@ display = "Glenda (the Good Witch) Sims"
 # Websites
 
 [[websites]]
-url   = "http://glendathegood.com/"
+url = "http://glendathegood.com/"
 title = "Glenda (the Good Witch) Sims"
 years = [ 2008 ]

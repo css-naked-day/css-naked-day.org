@@ -3,6 +3,6 @@ display = "Jacob Jeppsson"
 # Websites
 
 [[websites]]
-url   = "http://www.jacobjeppsson.se"
+url = "http://www.jacobjeppsson.se"
 title = "Jacob Jeppsson"
 years = [ 2009 ]

@@ -20,7 +20,7 @@ The following will show as “_[css-naked-day.org][]_”:
 
 ```toml
 [[websites]]
-url   = "https://css-naked-day.org/"
+url = "https://css-naked-day.org/"
 years = [2006, 2010]
 ```
 
@@ -32,7 +32,7 @@ The following will show as “_[Naked Days Corp][]_”:
 display = "Naked Days Corp"
 
 [[websites]]
-url   = "https://css-naked-day.org/"
+url = "https://css-naked-day.org/"
 years = [2006, 2010]
 ```
 
@@ -46,9 +46,9 @@ The following will show as “_Naked Days Corp: [css-naked-day.org][]_” instea
 display = "Naked Days Corp"
 
 [[websites]]
-url     = "https://css-naked-day.org/"
+url = "https://css-naked-day.org/"
 homeURL = false
-years   = [2006, 2010]
+years = [2006, 2010]
 ```
 
 ### With multiple websites
@@ -63,12 +63,12 @@ The following will show as:
 display = "Naked Days Corp"
 
 [[websites]]
-url   = "https://css-naked-day.org/"
+url = "https://css-naked-day.org/"
 title = "CSS Naked Day"
 years = [2006, 2008]
 
 [[websites]]
-url   = "https://js-naked-day.org/"
+url = "https://js-naked-day.org/"
 title = "JS Naked Day"
 years = [2008, 2010]
 ```
@@ -85,13 +85,13 @@ The following will show as:
 display = "Naked Days Corp"
 
 [[websites]]
-url     = "https://css-naked-day.org/"
+url = "https://css-naked-day.org/"
 homeURL = true
-title   = "CSS Naked Day"
-years   = [2006, 2008]
+title = "CSS Naked Day"
+years = [2006, 2008]
 
 [[websites]]
-url   = "https://js-naked-day.org/"
+url = "https://js-naked-day.org/"
 title = "JS Naked Day"
 years = [2008, 2010]
 ```
@@ -106,26 +106,21 @@ His websites will appear as “_Tom Hazledine: [tomhazledine.com](https://tomhaz
 
 ### More than complete
 
-We are not using all data yet, but feel free to add them, as we might improve the website with it!
-
-External accounts can also be a good way to join you.
+If you like, include information about your external accounts (profiles)—we may eventually use this to feature these links on the website:
 
 ```toml
-display   = "Joan Elisabeth Lowther Murray" # [optional]
-firstname = "Joan Elisabeth"                # [optional]
-surname   = "Lowther Murray"                # [optional]
-email     = "joan@example.com"              # [optional]
-username  = "jelm"                          # [optional]
+display = "Joan Elisabeth Lowther Murray" # [optional]
+email = "joan@example.com" # [optional]
 
 # Websites
 
 [[websites]]
-url   = "https://css-naked-day.org/"
+url = "https://css-naked-day.org/"
 title = "CSS Naked Day"
 years = [2006, 2010]
 
 [[websites]]
-url   = "https://js-naked-day.org/"
+url = "https://js-naked-day.org/"
 title = "JS Naked Day"
 years = [2010]
 
@@ -133,12 +128,11 @@ years = [2010]
 
 [[accounts]]
 type = "Mastodon"
-url  = "https://mas.to.don/@jelm"
+url = "https://mas.to.don/@jelm"
 
 [[accounts]]
-type     = "GitHub"
-url      = "https://github.com/jelm.github"
-username = "jelm.github"                    # [optional] The main one is used by default
+type = "GitHub"
+url = "https://github.com/jelm.github"
 ```
 
 ## Development

@@ -3,6 +3,6 @@ display = "Clanhost"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.clanhost.org/"
+url = "https://web.archive.org/web/http://www.clanhost.org/"
 title = "Clanhost"
 years = [ 2007 ]

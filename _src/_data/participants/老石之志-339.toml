@@ -3,6 +3,6 @@ display = "老石之志"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.taoxian.info/"
+url = "https://web.archive.org/web/http://blog.taoxian.info/"
 title = "老石之志"
 years = [ 2009 ]

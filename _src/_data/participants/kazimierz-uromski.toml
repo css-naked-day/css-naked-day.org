@@ -3,6 +3,6 @@ display = "Kazimierz Uromski"
 # Websites
 
 [[websites]]
-url   = "http://legalnycyklista.gazeta.pl/"
+url = "http://legalnycyklista.gazeta.pl/"
 title = "Kazimierz Uromski"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "InVision Equity"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.invisionequity.com/"
+url = "https://web.archive.org/web/http://www.invisionequity.com/"
 title = "InVision Equity"
 years = [ 2008 ]

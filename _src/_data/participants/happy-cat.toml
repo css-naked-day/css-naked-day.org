@@ -3,6 +3,6 @@ display = "Happy Cat"
 # Websites
 
 [[websites]]
-url   = "http://iyeti.kr/"
+url = "http://iyeti.kr/"
 title = "Happy Cat"
 years = [ 2009 ]

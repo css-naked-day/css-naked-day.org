@@ -3,6 +3,6 @@ display = "www à la Ştef"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://stef.hoopla.ro/"
+url = "https://web.archive.org/web/http://stef.hoopla.ro/"
 title = "www à la Ştef"
 years = [ 2008 ]

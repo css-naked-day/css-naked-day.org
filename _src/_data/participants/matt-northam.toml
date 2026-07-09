@@ -3,7 +3,7 @@ display = "Matt Northam"
 # Websites
 
 [[websites]]
-url   = "http://www.scpgt.co.uk/"
+url = "http://www.scpgt.co.uk/"
 title = "Matt Northam"
 years = [
 	2006,

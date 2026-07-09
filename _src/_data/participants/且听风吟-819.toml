@@ -3,6 +3,6 @@ display = "且听风吟"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://koma-yt.cn/"
+url = "https://web.archive.org/web/http://koma-yt.cn/"
 title = "且听风吟"
 years = [ 2008 ]

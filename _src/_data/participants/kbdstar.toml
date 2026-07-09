@@ -3,5 +3,5 @@ display = "kbd_star"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://kbdstar.net/"
+url = "https://web.archive.org/web/http://kbdstar.net/"
 years = [ 2008 ]

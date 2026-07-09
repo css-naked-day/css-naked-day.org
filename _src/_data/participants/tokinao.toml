@@ -3,6 +3,6 @@ display = "Tokinao"
 # Websites
 
 [[websites]]
-url   = "http://tokinao.blaogy.com/"
+url = "http://tokinao.blaogy.com/"
 title = "Tokinao"
 years = [ 2008 ]

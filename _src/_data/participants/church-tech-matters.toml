@@ -3,6 +3,6 @@ display = "Church Tech Matters"
 # Websites
 
 [[websites]]
-url   = "http://www.churchtechmatters.com/"
+url = "http://www.churchtechmatters.com/"
 title = "Church Tech Matters"
 years = [ 2007 ]

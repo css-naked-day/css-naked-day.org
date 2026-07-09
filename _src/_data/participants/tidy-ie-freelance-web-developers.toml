@@ -3,6 +3,6 @@ display = "Tidy.ie freelance web developers"
 # Websites
 
 [[websites]]
-url   = "http://www.tidy.ie/"
+url = "http://www.tidy.ie/"
 title = "Tidy.ie freelance web developers"
 years = [ 2008 ]

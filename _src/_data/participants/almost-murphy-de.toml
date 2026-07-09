@@ -3,6 +3,6 @@ display = "(almost) murphy.de"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://murfy.de/"
+url = "https://web.archive.org/web/http://murfy.de/"
 title = "(almost) murphy.de"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Legion Libertine"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.legionlibertine.com/"
+url = "https://web.archive.org/web/http://www.legionlibertine.com/"
 title = "Legion Libertine"
 years = [ 2009 ]

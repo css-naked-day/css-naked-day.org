@@ -3,6 +3,6 @@ display = "Mika Kähkönen"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://koti.mbnet.fi/kahoset/"
+url = "https://web.archive.org/web/http://koti.mbnet.fi/kahoset/"
 title = "Mika Kähkönen"
 years = [ 2007 ]

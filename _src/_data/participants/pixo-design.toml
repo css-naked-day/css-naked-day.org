@@ -3,6 +3,6 @@ display = "Pixo-Design"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.pixo-design.fr/"
+url = "https://web.archive.org/web/http://www.pixo-design.fr/"
 title = "Pixo-Design"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "uebermuedet"
 # Websites
 
 [[websites]]
-url   = "http://www.silberkind.de/"
+url = "http://www.silberkind.de/"
 title = "uebermuedet"
 years = [ 2008 ]

@@ -3,7 +3,7 @@ display = "Faster Pussycat Productions"
 # Websites
 
 [[websites]]
-url   = "http://www.fppdesign.com.au/"
+url = "http://www.fppdesign.com.au/"
 title = "Faster Pussycat Productions"
 years = [
 	2006,
@@ -11,6 +11,6 @@ years = [
 ]
 
 [[websites]]
-url   = "http://www.fppdesign.com.au"
+url = "http://www.fppdesign.com.au"
 title = "Faster Pussycat Productions"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Ms Contrary"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.hununu.org/"
+url = "https://web.archive.org/web/http://www.hununu.org/"
 title = "Ms Contrary"
 years = [ 2006 ]

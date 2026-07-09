@@ -3,6 +3,6 @@ display = "Блог Андрея Ткаченко"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://aver.kiev.ua/"
+url = "https://web.archive.org/web/http://aver.kiev.ua/"
 title = "Блог Андрея Ткаченко"
 years = [ 2008 ]

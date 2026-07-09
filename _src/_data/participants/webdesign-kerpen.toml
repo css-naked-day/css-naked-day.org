@@ -3,6 +3,6 @@ display = "Webdesign Kerpen"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://lucido-media.de/"
+url = "https://web.archive.org/web/http://lucido-media.de/"
 title = "Webdesign Kerpen"
 years = [ 2009 ]

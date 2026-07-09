@@ -3,6 +3,6 @@ display = "Matthias Zöchling"
 # Websites
 
 [[websites]]
-url   = "https://cssence.com/"
+url = "https://cssence.com/"
 title = "Matthias Zöchling"
 years = [ 2024 ]

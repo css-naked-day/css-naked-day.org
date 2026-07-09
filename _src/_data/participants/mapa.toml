@@ -3,6 +3,6 @@ display = "Mapa"
 # Websites
 
 [[websites]]
-url   = "http://mapa.pf.pl/"
+url = "http://mapa.pf.pl/"
 title = "Mapa"
 years = [ 2007 ]

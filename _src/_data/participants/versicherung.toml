@@ -3,6 +3,6 @@ display = "Versicherung"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.ca-versicherung.at/"
+url = "https://web.archive.org/web/http://www.ca-versicherung.at/"
 title = "Versicherung"
 years = [ 2009 ]

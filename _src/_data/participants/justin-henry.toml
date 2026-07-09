@@ -3,6 +3,6 @@ display = "Justin Henry"
 # Websites
 
 [[websites]]
-url   = "http://greengaloshes.cc/"
+url = "http://greengaloshes.cc/"
 title = "Justin Henry"
 years = [ 2007 ]

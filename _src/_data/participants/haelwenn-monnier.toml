@@ -3,7 +3,7 @@ display = "Haelwenn Monnier"
 # Websites
 
 [[websites]]
-url   = "https://hacktivis.me/"
+url = "https://hacktivis.me/"
 title = "Haelwenn Monnier"
 years = [ 2025, 2026 ]
 

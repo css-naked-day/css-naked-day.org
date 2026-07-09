@@ -3,6 +3,6 @@ display = "Simon’s .Net Development Weblog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://weblog.simondeshaies.com/"
+url = "https://web.archive.org/web/http://weblog.simondeshaies.com/"
 title = "Simon’s .Net Development Weblog"
 years = [ 2008 ]

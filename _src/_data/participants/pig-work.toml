@@ -3,6 +3,6 @@ display = "Pig Work"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.pigwork.info/"
+url = "https://web.archive.org/web/http://www.pigwork.info/"
 title = "Pig Work"
 years = [ 2006 ]

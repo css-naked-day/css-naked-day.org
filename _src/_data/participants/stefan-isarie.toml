@@ -3,6 +3,6 @@ display = "Stefan Isarie"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2005/http://www.isarie.com/"
+url = "https://web.archive.org/web/2005/http://www.isarie.com/"
 title = "Stefan Isarie"
 years = [ 2006 ]

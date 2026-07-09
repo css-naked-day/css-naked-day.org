@@ -3,6 +3,6 @@ display = "Stopdesign"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://stopdesign.com/"
+url = "https://web.archive.org/web/http://stopdesign.com/"
 title = "Stopdesign"
 years = [ 2009 ]

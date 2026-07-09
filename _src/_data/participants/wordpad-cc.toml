@@ -3,6 +3,6 @@ display = "wordpad.cc"
 # Websites
 
 [[websites]]
-url   = "http://wordpad.cc/"
+url = "http://wordpad.cc/"
 title = "wordpad.cc"
 years = [ 2009 ]

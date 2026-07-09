@@ -3,6 +3,6 @@ display = "任平生"
 # Websites
 
 [[websites]]
-url   = "http://rpsh.net/"
+url = "http://rpsh.net/"
 title = "任平生"
 years = [ 2009 ]

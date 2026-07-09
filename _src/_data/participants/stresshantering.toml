@@ -3,6 +3,6 @@ display = "Stresshantering"
 # Websites
 
 [[websites]]
-url   = "http://www.stresscoach.se/stresshantering/"
+url = "http://www.stresscoach.se/stresshantering/"
 title = "Stresshantering"
 years = [ 2009 ]

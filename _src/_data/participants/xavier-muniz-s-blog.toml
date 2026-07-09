@@ -3,6 +3,6 @@ display = "Xavier Muñiz’s blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://xmz.com.mx/"
+url = "https://web.archive.org/web/http://xmz.com.mx/"
 title = "Xavier Muñiz’s blog"
 years = [ 2008 ]

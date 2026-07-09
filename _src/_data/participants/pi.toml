@@ -3,6 +3,6 @@ display = "Pi"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://beats2.pinewave.tw/"
+url = "https://web.archive.org/web/http://beats2.pinewave.tw/"
 title = "Pi"
 years = [ 2009 ]

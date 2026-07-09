@@ -3,6 +3,6 @@ display = "France"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2005/http://www.point-break.com/"
+url = "https://web.archive.org/web/2005/http://www.point-break.com/"
 title = "France"
 years = [ 2006 ]

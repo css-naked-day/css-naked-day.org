@@ -3,6 +3,6 @@ display = "Pendulum blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://blog.grakhov.com/"
+url = "https://web.archive.org/web/2008/http://blog.grakhov.com/"
 title = "Pendulum blog"
 years = [ 2009 ]

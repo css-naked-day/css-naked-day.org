@@ -3,7 +3,7 @@ display = "I do my own stunts"
 # Websites
 
 [[websites]]
-url   = "http://idomyownstunts.blogspot.com/"
+url = "http://idomyownstunts.blogspot.com/"
 title = "blogspot.com"
 years = [
 	2007,
@@ -11,6 +11,6 @@ years = [
 ]
 
 [[websites]]
-url   = "http://blog.fabricio.org/"
+url = "http://blog.fabricio.org/"
 title = "fabricio.org"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Ontwerpbureau Fabrique"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.fabrique.nl/"
+url = "https://web.archive.org/web/http://www.fabrique.nl/"
 title = "Ontwerpbureau Fabrique"
 years = [ 2008 ]

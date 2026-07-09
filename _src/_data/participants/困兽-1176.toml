@@ -3,6 +3,6 @@ display = "困兽"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://kunshou.net/"
+url = "https://web.archive.org/web/http://kunshou.net/"
 title = "困兽"
 years = [ 2008 ]

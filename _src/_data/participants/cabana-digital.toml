@@ -3,6 +3,6 @@ display = "Cabana Digital"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2005/http://cabanadigital.com/weblog/"
+url = "https://web.archive.org/web/2005/http://cabanadigital.com/weblog/"
 title = "Cabana Digital"
 years = [ 2006 ]

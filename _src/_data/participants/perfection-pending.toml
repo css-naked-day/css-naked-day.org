@@ -3,6 +3,6 @@ display = "Perfection Pending"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.frogthis.com/perfection"
+url = "https://web.archive.org/web/2007/http://www.frogthis.com/perfection"
 title = "Perfection Pending"
 years = [ 2008 ]

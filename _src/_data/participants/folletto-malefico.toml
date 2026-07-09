@@ -3,6 +3,6 @@ display = "Folletto Malefico"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://im.digitalhymn.com/"
+url = "https://web.archive.org/web/http://im.digitalhymn.com/"
 title = "Folletto Malefico"
 years = [ 2006 ]

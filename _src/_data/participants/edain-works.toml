@@ -3,6 +3,6 @@ display = "Edaìn Works"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://www.edainworks.com/"
+url = "https://web.archive.org/web/2008/http://www.edainworks.com/"
 title = "Edaìn Works"
 years = [ 2009 ]

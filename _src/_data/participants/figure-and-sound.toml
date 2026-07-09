@@ -3,7 +3,7 @@ display = "Figure and Sound"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://figureandsound.com/"
+url = "https://web.archive.org/web/http://figureandsound.com/"
 title = "Figure and Sound"
 years = [
 	2007,

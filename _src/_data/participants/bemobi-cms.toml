@@ -3,6 +3,6 @@ display = "Bemobi CMS"
 # Websites
 
 [[websites]]
-url   = "http://www.bemobi.ru/"
+url = "http://www.bemobi.ru/"
 title = "Bemobi CMS"
 years = [ 2008 ]

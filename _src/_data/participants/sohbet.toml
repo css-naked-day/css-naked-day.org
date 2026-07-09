@@ -3,5 +3,5 @@ display = "sohbet"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.cikolata.net/"
+url = "https://web.archive.org/web/http://www.cikolata.net/"
 years = [ 2008 ]

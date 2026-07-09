@@ -3,6 +3,6 @@ display = "未知"
 # Websites
 
 [[websites]]
-url   = "http://web.archive.org/web/20070523165258/http://www.michi.cn:80/index.jsp?css=no"
+url = "http://web.archive.org/web/20070523165258/http://www.michi.cn:80/index.jsp?css=no"
 title = "未知"
 years = [ 2007 ]

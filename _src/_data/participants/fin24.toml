@@ -3,6 +3,6 @@ display = "fin24"
 # Websites
 
 [[websites]]
-url   = "http://fin24.ru/"
+url = "http://fin24.ru/"
 title = "fin24"
 years = [ 2008 ]

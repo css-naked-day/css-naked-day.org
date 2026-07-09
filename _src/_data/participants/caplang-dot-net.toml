@@ -3,6 +3,6 @@ display = "caplang[dot]net"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.caplang.net/"
+url = "https://web.archive.org/web/http://www.caplang.net/"
 title = "caplang[dot]net"
 years = [ 2008 ]

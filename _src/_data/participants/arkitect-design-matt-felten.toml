@@ -3,7 +3,7 @@ display = "Arkitect Design – Matt Felten"
 # Websites
 
 [[websites]]
-url   = "http://www.arkitect.org/"
+url = "http://www.arkitect.org/"
 title = "Arkitect Design – Matt Felten"
 years = [
 	2008,

@@ -3,6 +3,6 @@ display = "Blacktea Design Maple-Day"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.erlet.com/"
+url = "https://web.archive.org/web/http://www.erlet.com/"
 title = "Blacktea Design Maple-Day"
 years = [ 2008 ]

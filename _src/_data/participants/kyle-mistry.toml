@@ -3,7 +3,7 @@ display = "Kyle Mistry"
 # Websites
 
 [[websites]]
-url   = "http://kylepoint.com/"
+url = "http://kylepoint.com/"
 title = "Kyle Mistry"
 years = [
 	2006,

@@ -3,6 +3,6 @@ display = "Faceit"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.faceit.se/"
+url = "https://web.archive.org/web/http://www.faceit.se/"
 title = "Faceit"
 years = [ 2007 ]

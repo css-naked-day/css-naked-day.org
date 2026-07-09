@@ -3,6 +3,6 @@ display = "Talkabout Design"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.talkaboutdesign.com/"
+url = "https://web.archive.org/web/http://www.talkaboutdesign.com/"
 title = "Talkabout Design"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "DaBloOg, superfétatoire donc élémentaire"
 # Websites
 
 [[websites]]
-url   = "http://www.dabloog.com/"
+url = "http://www.dabloog.com/"
 title = "DaBloOg, superfétatoire donc élémentaire"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Cipping! 極品!"
 # Websites
 
 [[websites]]
-url   = "http://cipping.net/"
+url = "http://cipping.net/"
 title = "Cipping! 極品!"
 years = [ 2007 ]

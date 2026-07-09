@@ -3,6 +3,6 @@ display = "Gracias y de nada!"
 # Websites
 
 [[websites]]
-url   = "http://www.graciasdenada.com.ar/"
+url = "http://www.graciasdenada.com.ar/"
 title = "Gracias y de nada!"
 years = [ 2007 ]

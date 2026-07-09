@@ -3,6 +3,6 @@ display = "Łukasz Latacz"
 # Websites
 
 [[websites]]
-url   = "http://www.latacz.com/"
+url = "http://www.latacz.com/"
 title = "Łukasz Latacz"
 years = [ 2007 ]

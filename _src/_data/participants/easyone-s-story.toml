@@ -3,6 +3,6 @@ display = "easyOne’s story"
 # Websites
 
 [[websites]]
-url   = "http://easyone.tistory.com/"
+url = "http://easyone.tistory.com/"
 title = "easyOne’s story"
 years = [ 2008 ]

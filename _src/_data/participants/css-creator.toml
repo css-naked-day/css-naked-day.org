@@ -3,6 +3,6 @@ display = "CSS Creator"
 # Websites
 
 [[websites]]
-url   = "http://csscreator.com/"
+url = "http://csscreator.com/"
 title = "CSS Creator"
 years = [ 2009 ]

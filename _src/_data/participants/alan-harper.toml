@@ -3,6 +3,6 @@ display = "Alan Harper"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.aussiegeek.net/"
+url = "https://web.archive.org/web/http://www.aussiegeek.net/"
 title = "Alan Harper"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Grzesiek"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://granatowysen.net/"
+url = "https://web.archive.org/web/http://granatowysen.net/"
 title = "Grzesiek"
 years = [ 2006 ]

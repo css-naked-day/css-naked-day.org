@@ -1,13 +1,13 @@
 display = "joachim r."
-email   = "joachim@fourbi.eu"
+email = "joachim@fourbi.eu"
 
 
 # Websites
 
 [[websites]]
-url   = "https://fourbi.eu"
+url = "https://fourbi.eu"
 years = [
-  2026
+ 2026
 ]
 
 
@@ -15,13 +15,12 @@ years = [
 
 [[accounts]]
 type = "Mastodon"
-url  = "https://boitam.eu/@joachim"
+url = "https://boitam.eu/@joachim"
 
 [[accounts]]
-type     = "Codeberg"
-url      = "https://codeberg.org/joachim-fourbi"
+type = "Codeberg"
+url = "https://codeberg.org/joachim-fourbi"
 
 [[accounts]]
-type     = "GitHub"
-url      = "https://github.com/joachimesque"
-username = "joachimesque"
+type = "GitHub"
+url = "https://github.com/joachimesque"

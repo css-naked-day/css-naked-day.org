@@ -3,5 +3,5 @@ display = "БЛОГ"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.mihailfedorov.ru/"
+url = "https://web.archive.org/web/http://blog.mihailfedorov.ru/"
 years = [ 2008 ]

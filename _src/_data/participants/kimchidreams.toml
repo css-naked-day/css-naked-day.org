@@ -3,6 +3,6 @@ display = "KimchiDreams"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.kimchidreams.net/"
+url = "https://web.archive.org/web/http://www.kimchidreams.net/"
 title = "KimchiDreams"
 years = [ 2007 ]

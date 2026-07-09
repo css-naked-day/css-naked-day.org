@@ -3,6 +3,6 @@ display = "Gatopardo"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://rincondelgatopardo.blogspot.com/"
+url = "https://web.archive.org/web/http://rincondelgatopardo.blogspot.com/"
 title = "Gatopardo"
 years = [ 2006 ]

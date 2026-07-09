@@ -3,7 +3,7 @@ display = "maribel.dev"
 # Websites
 
 [[websites]]
-url   = "https://maribel.dev/"
+url = "https://maribel.dev/"
 title = "maribel.dev"
 years = [ 2025 ]
 

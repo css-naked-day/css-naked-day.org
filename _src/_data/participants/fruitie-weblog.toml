@@ -3,6 +3,6 @@ display = "Fruitie.Weblog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.fruitie.cn/blog"
+url = "https://web.archive.org/web/http://www.fruitie.cn/blog"
 title = "Fruitie.Weblog"
 years = [ 2008 ]

@@ -3,7 +3,7 @@ display = "Strikdiploma.nl"
 # Websites
 
 [[websites]]
-url   = "http://strikdiploma.nl/"
+url = "http://strikdiploma.nl/"
 title = "Strikdiploma.nl"
 years = [
 	2007,

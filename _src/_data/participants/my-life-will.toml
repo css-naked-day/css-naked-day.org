@@ -3,6 +3,6 @@ display = "My Life Will….."
 # Websites
 
 [[websites]]
-url   = "http://blog.roodo.com/maroon"
+url = "http://blog.roodo.com/maroon"
 title = "My Life Will….."
 years = [ 2008 ]

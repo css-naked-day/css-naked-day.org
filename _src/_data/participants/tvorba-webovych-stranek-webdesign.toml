@@ -3,6 +3,6 @@ display = "Tvorba webových stránek (Webdesign)"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.princ.name/"
+url = "https://web.archive.org/web/http://www.princ.name/"
 title = "Tvorba webových stránek (Webdesign)"
 years = [ 2008 ]

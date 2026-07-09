@@ -3,6 +3,6 @@ display = "Electric Ocean"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://electricocean.org/"
+url = "https://web.archive.org/web/http://electricocean.org/"
 title = "Electric Ocean"
 years = [ 2008 ]

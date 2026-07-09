@@ -3,6 +3,6 @@ display = "Bolzamo: вебмастеру на заметку"
 # Websites
 
 [[websites]]
-url   = "http://bolzamo.org.ru/"
+url = "http://bolzamo.org.ru/"
 title = "Bolzamo: вебмастеру на заметку"
 years = [ 2009 ]

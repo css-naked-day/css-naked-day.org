@@ -3,6 +3,6 @@ display = "Fabulacny nedennik"
 # Websites
 
 [[websites]]
-url   = "http://www.ine.sk/"
+url = "http://www.ine.sk/"
 title = "Fabulacny nedennik"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "Zievie Bielarus"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://jivebelarus.net/"
+url = "https://web.archive.org/web/http://jivebelarus.net/"
 title = "Zievie Bielarus"
 years = [ 2008 ]

@@ -3,12 +3,12 @@ display = "MilkHub"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://milk-hub.net/"
+url = "https://web.archive.org/web/http://milk-hub.net/"
 title = "MilkHub"
 years = [ 2007 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.milk-hub.net/"
+url = "https://web.archive.org/web/http://www.milk-hub.net/"
 title = "MilkHub"
 years = [
 	2008,

@@ -3,6 +3,6 @@ display = "/'angstalt/"
 # Websites
 
 [[websites]]
-url   = "http://www.angstalt.de/"
+url = "http://www.angstalt.de/"
 title = "/&#39;angstalt/"
 years = [ 2009 ]

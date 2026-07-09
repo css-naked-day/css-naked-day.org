@@ -3,6 +3,6 @@ display = "frAgor"
 # Websites
 
 [[websites]]
-url   = "http://samsu.fragworld.de/"
+url = "http://samsu.fragworld.de/"
 title = "frAgor"
 years = [ 2006 ]

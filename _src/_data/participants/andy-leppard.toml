@@ -3,6 +3,6 @@ display = "Andy Leppard"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.andyleppard.net/"
+url = "https://web.archive.org/web/http://www.andyleppard.net/"
 title = "Andy Leppard"
 years = [ 2007 ]

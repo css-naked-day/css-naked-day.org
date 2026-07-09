@@ -3,6 +3,6 @@ display = "Fran Tarifa"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://accesibilidadweb.blogspot.com/"
+url = "https://web.archive.org/web/http://accesibilidadweb.blogspot.com/"
 title = "Fran Tarifa"
 years = [ 2006 ]

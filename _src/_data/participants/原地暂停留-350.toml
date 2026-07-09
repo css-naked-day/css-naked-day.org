@@ -3,6 +3,6 @@ display = "原地暂停留"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://cyishere.cn/"
+url = "https://web.archive.org/web/http://cyishere.cn/"
 title = "原地暂停留"
 years = [ 2009 ]

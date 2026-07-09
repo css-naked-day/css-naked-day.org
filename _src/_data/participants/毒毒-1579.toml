@@ -3,6 +3,6 @@ display = "毒毒"
 # Websites
 
 [[websites]]
-url   = "http://hi.baidu.com/xydudu"
+url = "http://hi.baidu.com/xydudu"
 title = "毒毒"
 years = [ 2008 ]

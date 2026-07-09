@@ -3,6 +3,6 @@ display = "Bloogle"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.bloogle.com.ua/"
+url = "https://web.archive.org/web/http://www.bloogle.com.ua/"
 title = "Bloogle"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "tek"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://tek.org.uk/"
+url = "https://web.archive.org/web/http://tek.org.uk/"
 title = "tek"
 years = [ 2007 ]

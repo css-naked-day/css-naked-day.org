@@ -3,6 +3,6 @@ display = "WebAIM"
 # Websites
 
 [[websites]]
-url   = "http://webaim.org/"
+url = "http://webaim.org/"
 title = "WebAIM"
 years = [ 2007 ]

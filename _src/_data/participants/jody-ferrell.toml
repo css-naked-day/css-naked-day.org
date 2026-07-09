@@ -3,6 +3,6 @@ display = "Jody Ferrell"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://jodyferrell.com/"
+url = "https://web.archive.org/web/2007/http://jodyferrell.com/"
 title = "Jody Ferrell"
 years = [ 2008 ]

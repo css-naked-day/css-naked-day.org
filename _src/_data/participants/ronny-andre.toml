@@ -3,6 +3,6 @@ display = "ronny-andré"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.ronny-andre.no/"
+url = "https://web.archive.org/web/http://www.ronny-andre.no/"
 title = "ronny-andré"
 years = [ 2007 ]

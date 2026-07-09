@@ -3,6 +3,6 @@ display = "cowl@sdf"
 # Websites
 
 [[websites]]
-url   = "http://cowl.freeshell.org/"
+url = "http://cowl.freeshell.org/"
 title = "cowl@sdf"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Bvllets' Comedy Blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.wtfis.com"
+url = "https://web.archive.org/web/http://www.wtfis.com"
 title = "Bvllets&#39; Comedy Blog"
 years = [ 2007 ]

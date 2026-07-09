@@ -3,6 +3,6 @@ display = "RPS"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://rps.rigtersir.com/"
+url = "https://web.archive.org/web/2006/http://rps.rigtersir.com/"
 title = "RPS"
 years = [ 2007 ]

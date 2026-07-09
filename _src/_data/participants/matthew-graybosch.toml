@@ -3,10 +3,10 @@ display = "Matthew Graybosch"
 # Websites
 
 [[websites]]
-url     = "https://starbreaker.org/"
+url = "https://starbreaker.org/"
 homeURL = false
-title   = "starbreaker.org"
-years   = [
+title = "starbreaker.org"
+years = [
 	2024,
 	2025
 ]

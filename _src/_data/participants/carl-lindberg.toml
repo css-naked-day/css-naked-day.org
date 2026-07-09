@@ -3,6 +3,6 @@ display = "Carl Lindberg"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.illbehavior.com/"
+url = "https://web.archive.org/web/http://www.illbehavior.com/"
 title = "Carl Lindberg"
 years = [ 2007 ]

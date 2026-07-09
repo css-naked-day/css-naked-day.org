@@ -3,6 +3,6 @@ display = "CSS Diary"
 # Websites
 
 [[websites]]
-url   = "http://www.cssdiary.com/"
+url = "http://www.cssdiary.com/"
 title = "CSS Diary"
 years = [ 2009 ]

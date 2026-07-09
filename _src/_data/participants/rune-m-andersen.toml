@@ -3,6 +3,6 @@ display = "Rune M. Andersen"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://wiki.ime.ntnu.no/studier"
+url = "https://web.archive.org/web/http://wiki.ime.ntnu.no/studier"
 title = "Rune M. Andersen"
 years = [ 2006 ]

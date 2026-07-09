@@ -3,11 +3,11 @@ display = "Rob Wilmshurst"
 # Websites
 
 [[websites]]
-url   = "http://fifteenoclock.com/"
+url = "http://fifteenoclock.com/"
 title = "Rob Wilmshurst"
 years = [ 2006 ]
 
 [[websites]]
-url   = "http://robwilmshurst.com/"
+url = "http://robwilmshurst.com/"
 title = "Rob Wilmshurst"
 years = [ 2007 ]

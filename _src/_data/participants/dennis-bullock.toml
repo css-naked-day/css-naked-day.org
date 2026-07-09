@@ -3,6 +3,6 @@ display = "Dennis Bullock"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2005/http://dennisbullock.com/"
+url = "https://web.archive.org/web/2005/http://dennisbullock.com/"
 title = "Dennis Bullock"
 years = [ 2006 ]

@@ -3,6 +3,6 @@ display = "alltagskakophonie.de"
 # Websites
 
 [[websites]]
-url   = "http://www.alltagskakophonie.de/"
+url = "http://www.alltagskakophonie.de/"
 title = "alltagskakophonie.de"
 years = [ 2008 ]

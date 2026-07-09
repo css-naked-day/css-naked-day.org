@@ -3,6 +3,6 @@ display = "Rein Henrichs"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://reinh.com/"
+url = "https://web.archive.org/web/http://reinh.com/"
 title = "Rein Henrichs"
 years = [ 2009 ]

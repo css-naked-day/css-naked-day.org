@@ -3,6 +3,6 @@ display = "SammyLiu"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.sammyliu.com/"
+url = "https://web.archive.org/web/http://www.sammyliu.com/"
 title = "SammyLiu"
 years = [ 2008 ]

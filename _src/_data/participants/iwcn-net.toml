@@ -3,6 +3,6 @@ display = "Iwcn.Net"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.iwcn.net/"
+url = "https://web.archive.org/web/http://www.iwcn.net/"
 title = "Iwcn.Net"
 years = [ 2007 ]

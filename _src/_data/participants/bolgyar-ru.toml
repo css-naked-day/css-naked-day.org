@@ -3,13 +3,13 @@ display = "Bolgyar.ru"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://bolgyar.ru/"
+url = "https://web.archive.org/web/http://bolgyar.ru/"
 years = [ 2009 ]
 
 [[websites]]
-url   = "http://yares.ru/"
+url = "http://yares.ru/"
 years = [ 2009 ]
 
 [[websites]]
-url   = "http://yaratiso.ru/"
+url = "http://yaratiso.ru/"
 years = [ 2009 ]

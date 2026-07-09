@@ -3,6 +3,6 @@ display = "Websites That Don’t Suck"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://websitesthatdontsuck.com/"
+url = "https://web.archive.org/web/http://websitesthatdontsuck.com/"
 title = "Websites That Don’t Suck"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "roxstyle"
 # Websites
 
 [[websites]]
-url   = "http://www.roxstyle.com/"
+url = "http://www.roxstyle.com/"
 title = "roxstyle"
 years = [ 2008 ]

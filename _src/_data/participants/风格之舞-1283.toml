@@ -3,6 +3,6 @@ display = "风格之舞"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.style5.cn/"
+url = "https://web.archive.org/web/http://www.style5.cn/"
 title = "风格之舞"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Random Digital Garbage"
 # Websites
 
 [[websites]]
-url   = "http://www.pittaya.com/"
+url = "http://www.pittaya.com/"
 title = "Random Digital Garbage"
 years = [ 2008 ]

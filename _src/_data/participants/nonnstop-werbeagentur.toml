@@ -3,6 +3,6 @@ display = "Nonnstop Werbeagentur"
 # Websites
 
 [[websites]]
-url   = "http://www.nonnstop.de/"
+url = "http://www.nonnstop.de/"
 title = "Nonnstop Werbeagentur"
 years = [ 2007 ]

@@ -3,7 +3,7 @@ display = "The Letter"
 # Websites
 
 [[websites]]
-url   = "http://theletter.co.uk/"
+url = "http://theletter.co.uk/"
 title = "The Letter"
 years = [
 	2008,

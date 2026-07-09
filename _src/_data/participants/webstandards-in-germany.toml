@@ -3,6 +3,6 @@ display = "Webstandards in Germany"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.webstandardsingermany.de/"
+url = "https://web.archive.org/web/http://www.webstandardsingermany.de/"
 title = "Webstandards in Germany"
 years = [ 2008 ]

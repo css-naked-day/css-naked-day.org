@@ -3,6 +3,6 @@ display = "Dedicate to webmaster…"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.master-web.info/"
+url = "https://web.archive.org/web/http://www.master-web.info/"
 title = "Dedicate to webmaster…"
 years = [ 2008 ]

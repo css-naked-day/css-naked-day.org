@@ -3,6 +3,6 @@ display = "A Vagabond’s Journey"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://ezero.strife.com.mx/"
+url = "https://web.archive.org/web/http://ezero.strife.com.mx/"
 title = "A Vagabond’s Journey"
 years = [ 2007 ]

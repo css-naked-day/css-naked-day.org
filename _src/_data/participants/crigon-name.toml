@@ -3,6 +3,6 @@ display = "crigon.name"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://crigon.name/"
+url = "https://web.archive.org/web/http://crigon.name/"
 title = "crigon.name"
 years = [ 2008 ]

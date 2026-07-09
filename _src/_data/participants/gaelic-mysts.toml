@@ -3,6 +3,6 @@ display = "Gaelic Mysts"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://gaelicmysts.com/"
+url = "https://web.archive.org/web/2006/http://gaelicmysts.com/"
 title = "Gaelic Mysts"
 years = [ 2007 ]

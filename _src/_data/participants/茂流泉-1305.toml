@@ -3,6 +3,6 @@ display = "茂流泉"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://hi.baidu.com/shell32"
+url = "https://web.archive.org/web/http://hi.baidu.com/shell32"
 title = "茂流泉"
 years = [ 2008 ]

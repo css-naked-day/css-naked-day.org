@@ -3,6 +3,6 @@ display = "Ben Stucki"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.benstucki.net/"
+url = "https://web.archive.org/web/http://blog.benstucki.net/"
 title = "Ben Stucki"
 years = [ 2006 ]

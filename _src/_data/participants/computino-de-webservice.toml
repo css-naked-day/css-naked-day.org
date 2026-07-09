@@ -3,7 +3,7 @@ display = "computino.de Webservice"
 # Websites
 
 [[websites]]
-url   = "http://www.computino.de/"
+url = "http://www.computino.de/"
 title = "computino.de Webservice"
 years = [
 	2008,

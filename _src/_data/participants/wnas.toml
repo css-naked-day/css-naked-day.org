@@ -3,6 +3,6 @@ display = "wnas"
 # Websites
 
 [[websites]]
-url   = "http://www.wnas.nl/"
+url = "http://www.wnas.nl/"
 title = "wnas"
 years = [ 2008 ]

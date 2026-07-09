@@ -3,6 +3,6 @@ display = "Rodrigo García"
 # Websites
 
 [[websites]]
-url   = "http://www.mejoramos.com/"
+url = "http://www.mejoramos.com/"
 title = "Rodrigo García"
 years = [ 2007 ]

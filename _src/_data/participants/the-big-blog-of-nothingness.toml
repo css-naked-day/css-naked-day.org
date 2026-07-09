@@ -3,6 +3,6 @@ display = "The Big Blog of Nothingness"
 # Websites
 
 [[websites]]
-url   = "http://kimblim.dk/"
+url = "http://kimblim.dk/"
 title = "The Big Blog of Nothingness"
 years = [ 2008 ]

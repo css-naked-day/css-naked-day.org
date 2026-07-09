@@ -3,6 +3,6 @@ display = "phillnacelli.net"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.phillnacelli.net/"
+url = "https://web.archive.org/web/2007/http://www.phillnacelli.net/"
 title = "phillnacelli.net"
 years = [ 2008 ]

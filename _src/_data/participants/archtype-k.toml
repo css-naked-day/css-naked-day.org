@@ -3,7 +3,7 @@ display = "Archtype-k"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.archtype-k.com/"
+url = "https://web.archive.org/web/http://www.archtype-k.com/"
 title = "Archtype-k"
 years = [
 	2007,

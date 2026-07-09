@@ -3,6 +3,6 @@ display = "CITYWILL.net"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://citywill.blog.hexun.com/"
+url = "https://web.archive.org/web/http://citywill.blog.hexun.com/"
 title = "CITYWILL.net"
 years = [ 2007 ]

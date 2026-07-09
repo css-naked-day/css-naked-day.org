@@ -3,6 +3,6 @@ display = "Symphonic"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://ann.paperairplanes.nu/"
+url = "https://web.archive.org/web/http://ann.paperairplanes.nu/"
 title = "Symphonic"
 years = [ 2009 ]

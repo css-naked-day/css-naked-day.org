@@ -3,6 +3,6 @@ display = "Ultimate Frisbee in Zurich"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://zuf.ultimate.ch/en"
+url = "https://web.archive.org/web/http://zuf.ultimate.ch/en"
 title = "Ultimate Frisbee in Zurich"
 years = [ 2008 ]

@@ -3,7 +3,7 @@ display = "Vinicius Braga"
 # Websites
 
 [[websites]]
-url   = "http://viniciusbraga.com/"
+url = "http://viniciusbraga.com/"
 title = "Vinicius Braga"
 years = [
 	2006,

@@ -3,6 +3,6 @@ display = "blog Honzy Machaly"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://blog.fineboard.cz/"
+url = "https://web.archive.org/web/2006/http://blog.fineboard.cz/"
 title = "blog Honzy Machaly"
 years = [ 2007 ]

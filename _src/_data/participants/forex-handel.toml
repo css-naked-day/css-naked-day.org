@@ -3,6 +3,6 @@ display = "Forex Handel"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.forexhandel.info/"
+url = "https://web.archive.org/web/http://www.forexhandel.info/"
 title = "Forex Handel"
 years = [ 2008 ]

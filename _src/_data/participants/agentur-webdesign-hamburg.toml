@@ -3,6 +3,6 @@ display = "Agentur Webdesign Hamburg"
 # Websites
 
 [[websites]]
-url   = "http://www.designbits.de/"
+url = "http://www.designbits.de/"
 title = "Agentur Webdesign Hamburg"
 years = [ 2008 ]

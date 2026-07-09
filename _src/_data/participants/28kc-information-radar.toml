@@ -3,6 +3,6 @@ display = "28KC Information Radar"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.28kc.com/"
+url = "https://web.archive.org/web/http://www.28kc.com/"
 title = "28KC Information Radar"
 years = [ 2008 ]

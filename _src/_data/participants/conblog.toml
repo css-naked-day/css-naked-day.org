@@ -3,6 +3,6 @@ display = "conBLOG"
 # Websites
 
 [[websites]]
-url   = "http://blog.converter.cz/"
+url = "http://blog.converter.cz/"
 title = "conBLOG"
 years = [ 2007 ]

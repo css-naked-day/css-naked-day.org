@@ -3,6 +3,6 @@ display = "Starry City"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://starrycity.com/"
+url = "https://web.archive.org/web/http://starrycity.com/"
 title = "Starry City"
 years = [ 2008 ]

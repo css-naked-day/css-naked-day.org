@@ -3,6 +3,6 @@ display = "雨中人博客"
 # Websites
 
 [[websites]]
-url   = "http://www.aicui.com/"
+url = "http://www.aicui.com/"
 years = [ 2007 ]
 

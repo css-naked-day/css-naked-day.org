@@ -3,6 +3,6 @@ display = "Lord Jake"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://vivarevolucin/"
+url = "https://web.archive.org/web/http://vivarevolucin/"
 title = "Lord Jake"
 years = [ 2006 ]

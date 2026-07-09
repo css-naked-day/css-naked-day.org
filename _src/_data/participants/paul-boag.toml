@@ -3,6 +3,6 @@ display = "Paul Boag"
 # Websites
 
 [[websites]]
-url   = "http://www.boagworld.com/"
+url = "http://www.boagworld.com/"
 title = "Paul Boag"
 years = [ 2006 ]

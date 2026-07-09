@@ -3,6 +3,6 @@ display = "Spearia"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.spearia.com/"
+url = "https://web.archive.org/web/http://www.spearia.com/"
 title = "Spearia"
 years = [ 2008 ]

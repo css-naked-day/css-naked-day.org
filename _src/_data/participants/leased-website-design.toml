@@ -3,6 +3,6 @@ display = "Leased Website Design"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.websitestarter.com.au/"
+url = "https://web.archive.org/web/http://www.websitestarter.com.au/"
 title = "Leased Website Design"
 years = [ 2006 ]

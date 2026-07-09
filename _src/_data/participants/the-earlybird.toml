@@ -3,6 +3,6 @@ display = "the earlybird"
 # Websites
 
 [[websites]]
-url   = "http://theearlybird.co.uk/"
+url = "http://theearlybird.co.uk/"
 title = "the earlybird"
 years = [ 2008 ]

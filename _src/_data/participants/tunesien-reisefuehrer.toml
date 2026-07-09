@@ -3,6 +3,6 @@ display = "Tunesien Reiseführer"
 # Websites
 
 [[websites]]
-url   = "http://www.tunesien-infos.de/"
+url = "http://www.tunesien-infos.de/"
 title = "Tunesien Reiseführer"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Kindergarten München"
 # Websites
 
 [[websites]]
-url   = "http://www.kinderhaus-laterne.de/"
+url = "http://www.kinderhaus-laterne.de/"
 title = "Kindergarten München"
 years = [ 2007 ]

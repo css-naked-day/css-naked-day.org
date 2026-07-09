@@ -3,6 +3,6 @@ display = "Alex Butin a.k.a. purporte[X]"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://purportex.org/"
+url = "https://web.archive.org/web/http://purportex.org/"
 title = "Alex Butin a.k.a. purporte[X]"
 years = [ 2008 ]

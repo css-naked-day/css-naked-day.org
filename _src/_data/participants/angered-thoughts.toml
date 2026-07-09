@@ -3,6 +3,6 @@ display = "Angered Thoughts"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.angeredthoughts.com/"
+url = "https://web.archive.org/web/http://www.angeredthoughts.com/"
 title = "Angered Thoughts"
 years = [ 2007 ]

@@ -3,7 +3,7 @@ display = "Vida en Digital"
 # Websites
 
 [[websites]]
-url   = "http://www.vidaendigital.com/"
+url = "http://www.vidaendigital.com/"
 title = "Vida en Digital"
 years = [
 	2006,

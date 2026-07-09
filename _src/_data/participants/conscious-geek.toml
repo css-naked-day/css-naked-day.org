@@ -3,6 +3,6 @@ display = "Conscious Geek"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.consciousgeek.com/"
+url = "https://web.archive.org/web/http://www.consciousgeek.com/"
 title = "Conscious Geek"
 years = [ 2007 ]

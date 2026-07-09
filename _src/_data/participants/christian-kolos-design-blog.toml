@@ -3,6 +3,6 @@ display = "Christian Kolos – Design Blog"
 # Websites
 
 [[websites]]
-url   = "http://kolos.blogger.de/"
+url = "http://kolos.blogger.de/"
 title = "Christian Kolos – Design Blog"
 years = [ 2009 ]

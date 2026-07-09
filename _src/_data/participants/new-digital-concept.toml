@@ -3,6 +3,6 @@ display = "New Digital Concept"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.newdigitalconcept.com/"
+url = "https://web.archive.org/web/http://www.newdigitalconcept.com/"
 title = "New Digital Concept"
 years = [ 2007 ]

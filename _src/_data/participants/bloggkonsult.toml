@@ -3,6 +3,6 @@ display = "Bloggkonsult"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.bloggkonsult.se/"
+url = "https://web.archive.org/web/http://www.bloggkonsult.se/"
 title = "Bloggkonsult"
 years = [ 2009 ]

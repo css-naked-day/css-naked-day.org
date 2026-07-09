@@ -3,6 +3,6 @@ display = "Jon Åslund"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2005/http://jon.aslund.org/"
+url = "https://web.archive.org/web/2005/http://jon.aslund.org/"
 title = "Jon Åslund"
 years = [ 2006 ]

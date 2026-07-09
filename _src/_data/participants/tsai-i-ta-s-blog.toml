@@ -3,6 +3,6 @@ display = "Tsai I-Ta’s Blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://blog.tsaiid.idv.tw/"
+url = "https://web.archive.org/web/2007/http://blog.tsaiid.idv.tw/"
 title = "Tsai I-Ta’s Blog"
 years = [ 2008 ]

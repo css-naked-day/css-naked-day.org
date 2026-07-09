@@ -3,7 +3,7 @@ display = "El Chigüire Literario"
 # Websites
 
 [[websites]]
-url   = "http://www.elchiguireliterario.com/"
+url = "http://www.elchiguireliterario.com/"
 title = "El Chigüire Literario"
 years = [
 	2008,

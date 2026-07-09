@@ -3,6 +3,6 @@ display = "De Graça é Mais Gostoso"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.degracaemaisgostoso.org/"
+url = "https://web.archive.org/web/http://www.degracaemaisgostoso.org/"
 title = "De Graça é Mais Gostoso"
 years = [ 2009 ]

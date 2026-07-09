@@ -3,6 +3,6 @@ display = "Linux News"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.dselinux.com/"
+url = "https://web.archive.org/web/http://www.dselinux.com/"
 title = "Linux News"
 years = [ 2009 ]

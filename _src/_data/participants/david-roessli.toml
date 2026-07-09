@@ -1,11 +1,9 @@
-display   = "David Roessli"
-firstname = "David"
-surname   = "Roessli"
+display = "David Roessli"
 
 # Websites
 
 [[websites]]
-url   = "https://davidroessli.com/"
+url = "https://davidroessli.com/"
 years = [
 	2020,
 	2021,
@@ -18,9 +16,9 @@ years = [
 
 [[accounts]]
 type = "Mastodon"
-url  = "https://mastodon.social/@davidroessli"
+url = "https://mastodon.social/@davidroessli"
 
 [[accounts]]
-type     = "Bluesky"
-url      = "https://bsky.app/profile/davidroessli.com"
+type = "Bluesky"
+url = "https://bsky.app/profile/davidroessli.com"
 

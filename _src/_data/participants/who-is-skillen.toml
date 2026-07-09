@@ -3,6 +3,6 @@ display = "Who is Skillen"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.whoisskillen.co.uk/"
+url = "https://web.archive.org/web/http://www.whoisskillen.co.uk/"
 title = "Who is Skillen"
 years = [ 2008 ]

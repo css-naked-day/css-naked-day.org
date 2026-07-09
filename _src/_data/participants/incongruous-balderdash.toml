@@ -3,6 +3,6 @@ display = "Incongruous Balderdash"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.xvzx.net/"
+url = "https://web.archive.org/web/http://blog.xvzx.net/"
 title = "Incongruous Balderdash"
 years = [ 2008 ]

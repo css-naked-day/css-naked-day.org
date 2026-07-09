@@ -3,6 +3,6 @@ display = "Milo"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.imilo.net/"
+url = "https://web.archive.org/web/http://www.imilo.net/"
 title = "Milo"
 years = [ 2009 ]

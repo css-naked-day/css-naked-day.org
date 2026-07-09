@@ -3,6 +3,6 @@ display = "Anne Greene"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.educeme.com/"
+url = "https://web.archive.org/web/http://www.educeme.com/"
 title = "Anne Greene"
 years = [ 2009 ]

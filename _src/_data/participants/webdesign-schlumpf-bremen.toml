@@ -3,6 +3,6 @@ display = "webdesign schlumpf bremen"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.1pixel.de/"
+url = "https://web.archive.org/web/http://www.1pixel.de/"
 title = "webdesign schlumpf bremen"
 years = [ 2008 ]

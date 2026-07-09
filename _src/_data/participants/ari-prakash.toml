@@ -9,7 +9,7 @@ suffix = "(ariscript.org at the time)"
 years = [ 2025 ]
 
 [[websites]]
-url   = "https://ari.foo/"
+url = "https://ari.foo/"
 title = "Ari Prakash"
 homeURL = true
 years = [ 2026 ]

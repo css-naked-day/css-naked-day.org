@@ -3,6 +3,6 @@ display = "The Bovak Chronicle"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://bovak.com/"
+url = "https://web.archive.org/web/http://bovak.com/"
 title = "The Bovak Chronicle"
 years = [ 2008 ]

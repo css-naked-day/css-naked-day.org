@@ -3,6 +3,6 @@ display = ":: Blood of Glass"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://bloodglass.tistory.com/"
+url = "https://web.archive.org/web/http://bloodglass.tistory.com/"
 title = ":: Blood of Glass"
 years = [ 2008 ]

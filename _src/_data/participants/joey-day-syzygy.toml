@@ -3,7 +3,7 @@ display = "Joey Day : Syzygy"
 # Websites
 
 [[websites]]
-url   = "http://www.joeyday.com/"
+url = "http://www.joeyday.com/"
 title = "Joey Day : Syzygy"
 years = [
 	2007,

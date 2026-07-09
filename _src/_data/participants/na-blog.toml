@@ -3,6 +3,6 @@ display = "여전히 아무것도 없는 Na!의 Blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://na93008.openhaja.com/blog/"
+url = "https://web.archive.org/web/http://na93008.openhaja.com/blog/"
 title = "여전히 아무것도 없는 Na!의 Blog"
 years = [ 2009 ]

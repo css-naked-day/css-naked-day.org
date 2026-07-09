@@ -3,6 +3,6 @@ display = "Painauchocolat"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://painauchocolat.altervista.org"
+url = "https://web.archive.org/web/http://painauchocolat.altervista.org"
 title = "Painauchocolat"
 years = [ 2007 ]

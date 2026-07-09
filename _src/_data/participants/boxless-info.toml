@@ -3,6 +3,6 @@ display = "boxless.info"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.boxless.info/"
+url = "https://web.archive.org/web/http://www.boxless.info/"
 title = "boxless.info"
 years = [ 2007 ]

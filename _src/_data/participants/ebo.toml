@@ -3,6 +3,6 @@ display = "Ebo"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.pocastella.com/ebo"
+url = "https://web.archive.org/web/http://www.pocastella.com/ebo"
 title = "Ebo"
 years = [ 2006 ]

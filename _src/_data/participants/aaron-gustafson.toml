@@ -3,6 +3,6 @@ display = "Aaron Gustafson"
 # Websites
 
 [[websites]]
-url   = "http://www.easy-reader.net/"
+url = "http://www.easy-reader.net/"
 title = "Aaron Gustafson"
 years = [ 2006 ]

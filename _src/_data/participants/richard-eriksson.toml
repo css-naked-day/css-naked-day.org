@@ -3,7 +3,7 @@ display = "Richard Eriksson"
 # Websites
 
 [[websites]]
-url   = "https://richard.eriksson.ca/"
+url = "https://richard.eriksson.ca/"
 title = "Richard Eriksson"
 years = [ 2025 ]
 

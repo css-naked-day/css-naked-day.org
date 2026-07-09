@@ -3,6 +3,6 @@ display = "Stefan Nitzsche"
 # Websites
 
 [[websites]]
-url   = "http://nitzsche.info/"
+url = "http://nitzsche.info/"
 title = "Stefan Nitzsche"
 years = [ 2009 ]

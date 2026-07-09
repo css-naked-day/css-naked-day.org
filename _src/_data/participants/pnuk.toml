@@ -3,7 +3,7 @@ display = "pnuk!"
 # Websites
 
 [[websites]]
-url   = "http://pnuk.net/"
+url = "http://pnuk.net/"
 title = "pnuk!"
 years = [
 	2007,

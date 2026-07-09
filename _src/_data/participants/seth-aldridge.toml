@@ -3,6 +3,6 @@ display = "Seth Aldridge"
 # Websites
 
 [[websites]]
-url   = "http://www.sethaldridge.com/"
+url = "http://www.sethaldridge.com/"
 title = "Seth Aldridge"
 years = [ 2007 ]

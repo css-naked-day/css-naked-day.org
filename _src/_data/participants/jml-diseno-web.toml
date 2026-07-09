@@ -3,6 +3,6 @@ display = "JML Diseño Web"
 # Websites
 
 [[websites]]
-url   = "http://jmlweb.es/"
+url = "http://jmlweb.es/"
 title = "JML Diseño Web"
 years = [ 2008 ]

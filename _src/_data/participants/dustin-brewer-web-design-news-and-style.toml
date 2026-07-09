@@ -3,6 +3,6 @@ display = "Dustin Brewer – Web Design News & Style"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://dustinbrewer.com/"
+url = "https://web.archive.org/web/http://dustinbrewer.com/"
 title = "Dustin Brewer – Web Design News &amp; Style"
 years = [ 2008 ]

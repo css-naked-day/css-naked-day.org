@@ -3,6 +3,6 @@ display = "Smain.cz"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.smain.cz/"
+url = "https://web.archive.org/web/http://www.smain.cz/"
 title = "Smain.cz"
 years = [ 2008 ]

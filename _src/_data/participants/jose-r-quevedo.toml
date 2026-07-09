@@ -3,6 +3,6 @@ display = "José R. Quevedo"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.qweos.net/"
+url = "https://web.archive.org/web/http://www.qweos.net/"
 title = "José R. Quevedo"
 years = [ 2006 ]

@@ -3,6 +3,6 @@ display = "Paesi Italia"
 # Websites
 
 [[websites]]
-url   = "http://www.agoraitalia.it/"
+url = "http://www.agoraitalia.it/"
 title = "Paesi Italia"
 years = [ 2009 ]

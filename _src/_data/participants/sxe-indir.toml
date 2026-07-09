@@ -3,6 +3,6 @@ display = "Sxe İndir"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.sxe-indir.gen.tr/"
+url = "https://web.archive.org/web/http://www.sxe-indir.gen.tr/"
 title = "Sxe İndir"
 years = [ 2009 ]

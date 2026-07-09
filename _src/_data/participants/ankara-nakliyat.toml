@@ -3,17 +3,17 @@ display = "ankara nakliyat"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.ankaraevdenevenakliyeci.com/"
+url = "https://web.archive.org/web/http://www.ankaraevdenevenakliyeci.com/"
 years = [ 2008 ]
 
 [[websites]]
-url   = "http://www.ankaranakliyat.info/"
+url = "http://www.ankaranakliyat.info/"
 years = [ 2009 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.baskentlojistik.net/"
+url = "https://web.archive.org/web/http://www.baskentlojistik.net/"
 years = [ 2009 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.nakliyatevdeneve.name/"
+url = "https://web.archive.org/web/http://www.nakliyatevdeneve.name/"
 years = [ 2009 ]

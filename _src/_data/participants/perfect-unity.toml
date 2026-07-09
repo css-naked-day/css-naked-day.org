@@ -3,7 +3,7 @@ display = "Perfect Unity"
 # Websites
 
 [[websites]]
-url   = "http://www.perfectunity.hu/"
+url = "http://www.perfectunity.hu/"
 title = "Perfect Unity"
 years = [
 	2008,

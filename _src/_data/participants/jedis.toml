@@ -3,6 +3,6 @@ display = "JEDIS"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://jedis.aspweb.cz/"
+url = "https://web.archive.org/web/http://jedis.aspweb.cz/"
 title = "JEDIS"
 years = [ 2007 ]

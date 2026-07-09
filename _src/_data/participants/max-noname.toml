@@ -3,6 +3,6 @@ display = "Max Noname"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.itisnt.org/"
+url = "https://web.archive.org/web/http://www.itisnt.org/"
 title = "Max Noname"
 years = [ 2007 ]

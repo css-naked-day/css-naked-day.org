@@ -3,6 +3,6 @@ display = "ООО «Аль-Ведия»"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://www.alwedia.com/"
+url = "https://web.archive.org/web/2008/http://www.alwedia.com/"
 title = "ООО «Аль-Ведия»"
 years = [ 2009 ]

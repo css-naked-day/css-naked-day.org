@@ -3,6 +3,6 @@ display = "Heterodoxia"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://www.pabloalvestegui.com/"
+url = "https://web.archive.org/web/2008/http://www.pabloalvestegui.com/"
 title = "Heterodoxia"
 years = [ 2009 ]

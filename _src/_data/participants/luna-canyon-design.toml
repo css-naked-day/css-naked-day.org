@@ -3,6 +3,6 @@ display = "Luna Canyon Design"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.lunacanyondesign.com/"
+url = "https://web.archive.org/web/http://www.lunacanyondesign.com/"
 title = "Luna Canyon Design"
 years = [ 2008 ]

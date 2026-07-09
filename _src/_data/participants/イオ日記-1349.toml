@@ -3,6 +3,6 @@ display = "イオ日記"
 # Websites
 
 [[websites]]
-url   = "http://www.io-p.net/io_nikki/"
+url = "http://www.io-p.net/io_nikki/"
 title = "イオ日記"
 years = [ 2007 ]

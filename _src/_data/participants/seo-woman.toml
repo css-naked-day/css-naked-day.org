@@ -3,6 +3,6 @@ display = "SEO Woman"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.seowoman.com/"
+url = "https://web.archive.org/web/http://www.seowoman.com/"
 title = "SEO Woman"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Michael Tierney"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://miketierney.com/"
+url = "https://web.archive.org/web/http://miketierney.com/"
 title = "Michael Tierney"
 years = [ 2008 ]

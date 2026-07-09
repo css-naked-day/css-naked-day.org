@@ -3,6 +3,6 @@ display = "Brian McAllister"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.frequency-decoder.com/"
+url = "https://web.archive.org/web/2007/http://www.frequency-decoder.com/"
 title = "Brian McAllister"
 years = [ 2008 ]

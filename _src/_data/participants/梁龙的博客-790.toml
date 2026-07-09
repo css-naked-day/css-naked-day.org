@@ -3,6 +3,6 @@ display = "梁龙的博客"
 # Websites
 
 [[websites]]
-url   = "http://www.lianglong.cq.cn/"
+url = "http://www.lianglong.cq.cn/"
 title = "梁龙的博客"
 years = [ 2009 ]

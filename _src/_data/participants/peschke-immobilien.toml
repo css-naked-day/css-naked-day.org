@@ -3,6 +3,6 @@ display = "Peschke Immobilien"
 # Websites
 
 [[websites]]
-url   = "http://www.peschke-immobilien.de/"
+url = "http://www.peschke-immobilien.de/"
 title = "Peschke Immobilien"
 years = [ 2007 ]

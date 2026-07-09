@@ -3,11 +3,11 @@ display = "Talideon.com"
 # Websites
 
 [[websites]]
-url   = "http://talideon.com/"
+url = "http://talideon.com/"
 title = "Talideon.com"
 years = [ 2007 ]
 
 [[websites]]
-url   = "http://talideon.com/weblog/"
+url = "http://talideon.com/weblog/"
 title = "talideon.com"
 years = [ 2008 ]

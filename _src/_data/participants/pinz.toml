@@ -3,6 +3,6 @@ display = "Pinz"
 # Websites
 
 [[websites]]
-url   = "http://www.c1p2.blogspot.com/"
+url = "http://www.c1p2.blogspot.com/"
 title = "Pinz"
 years = [ 2006 ]

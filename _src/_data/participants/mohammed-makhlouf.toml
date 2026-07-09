@@ -3,6 +3,6 @@ display = "Mohammed Makhlouf"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.jjmak.com/"
+url = "https://web.archive.org/web/http://www.jjmak.com/"
 title = "Mohammed Makhlouf"
 years = [ 2009 ]

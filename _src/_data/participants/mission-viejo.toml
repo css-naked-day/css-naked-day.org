@@ -3,6 +3,6 @@ display = "Mission Viejo"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.missionviejo.org/"
+url = "https://web.archive.org/web/http://www.missionviejo.org/"
 title = "Mission Viejo"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Lyn4"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://lyn4.phpnet.us/"
+url = "https://web.archive.org/web/http://lyn4.phpnet.us/"
 title = "Lyn4"
 years = [ 2007 ]

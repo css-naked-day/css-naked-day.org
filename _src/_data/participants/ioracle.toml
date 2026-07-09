@@ -3,11 +3,11 @@ display = "iOracle"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://ioracle.ru/"
+url = "https://web.archive.org/web/http://ioracle.ru/"
 title = "iOracle"
 years = [ 2008 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.ioracle.ru/"
+url = "https://web.archive.org/web/http://www.ioracle.ru/"
 title = "iOracle"
 years = [ 2009 ]

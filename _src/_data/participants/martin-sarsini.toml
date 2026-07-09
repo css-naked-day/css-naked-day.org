@@ -3,10 +3,10 @@ display = "Martin Sarsini"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://sarsini.it/"
+url = "https://web.archive.org/web/http://sarsini.it/"
 years = [ 2008 ]
 
 
 [[websites]]
-url   = "https://www.apphancer.com/"
+url = "https://www.apphancer.com/"
 years = [ 2023 ]

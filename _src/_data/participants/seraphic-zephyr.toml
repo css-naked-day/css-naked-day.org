@@ -3,6 +3,6 @@ display = "Seraphic Zephyr"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.seraphiczephyr.us/"
+url = "https://web.archive.org/web/http://www.seraphiczephyr.us/"
 title = "Seraphic Zephyr"
 years = [ 2007 ]

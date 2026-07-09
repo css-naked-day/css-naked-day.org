@@ -3,6 +3,6 @@ display = "Travel"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.thehorizontravel.com/"
+url = "https://web.archive.org/web/http://www.thehorizontravel.com/"
 title = "Travel"
 years = [ 2009 ]

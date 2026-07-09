@@ -3,7 +3,7 @@ display = "Mandaris"
 # Websites
 
 [[websites]]
-url   = "https://mandarismoore.com/"
+url = "https://mandarismoore.com/"
 title = "Mandaris"
 years = [ 2025 ]
 

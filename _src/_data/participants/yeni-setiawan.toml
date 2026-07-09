@@ -3,6 +3,6 @@ display = "Yeni Setiawan"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://the.sandalian.com/"
+url = "https://web.archive.org/web/2007/http://the.sandalian.com/"
 title = "Yeni Setiawan"
 years = [ 2008 ]

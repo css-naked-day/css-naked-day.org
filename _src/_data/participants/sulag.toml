@@ -3,6 +3,6 @@ display = "Sulag"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.sulag.de/"
+url = "https://web.archive.org/web/http://www.sulag.de/"
 title = "Sulag"
 years = [ 2006 ]

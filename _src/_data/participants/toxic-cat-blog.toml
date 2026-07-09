@@ -3,6 +3,6 @@ display = "Toxic_Cat блог"
 # Websites
 
 [[websites]]
-url   = "http://radicat.blogspot.com/"
+url = "http://radicat.blogspot.com/"
 title = "Toxic_Cat блог"
 years = [ 2009 ]

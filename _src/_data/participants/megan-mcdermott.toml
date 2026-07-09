@@ -3,6 +3,6 @@ display = "Megan McDermott"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.meganmcdermott.com/"
+url = "https://web.archive.org/web/http://www.meganmcdermott.com/"
 title = "Megan McDermott"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "Blog do CTRL+C"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://ctrlc.blog.br/"
+url = "https://web.archive.org/web/http://ctrlc.blog.br/"
 title = "Blog do CTRL+C"
 years = [ 2009 ]

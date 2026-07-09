@@ -3,7 +3,7 @@ display = "yomotsu-net"
 # Websites
 
 [[websites]]
-url   = "http://www.yomotsu.net/"
+url = "http://www.yomotsu.net/"
 title = "yomotsu-net"
 years = [
 	2007,
@@ -11,6 +11,6 @@ years = [
 ]
 
 [[websites]]
-url   = "http://yomotsu.net/"
+url = "http://yomotsu.net/"
 title = "yomotsu.net"
 years = [ 2009 ]

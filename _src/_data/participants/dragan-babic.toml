@@ -3,6 +3,6 @@ display = "Dragan Babić"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://dnevnikeklektika.com/"
+url = "https://web.archive.org/web/http://dnevnikeklektika.com/"
 title = "Dragan Babić"
 years = [ 2007 ]

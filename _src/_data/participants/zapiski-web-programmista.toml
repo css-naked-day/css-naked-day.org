@@ -3,6 +3,6 @@ display = "Записки web-программиста"
 # Websites
 
 [[websites]]
-url   = "http://izra.ru/"
+url = "http://izra.ru/"
 title = "Записки web-программиста"
 years = [ 2009 ]

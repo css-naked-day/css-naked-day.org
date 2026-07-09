@@ -3,6 +3,6 @@ display = "Black Cabbath"
 # Websites
 
 [[websites]]
-url   = "http://web.archive.org/web/20090416184043/http://www.chameleonsoft.ic.cz:80/blackcabbath/"
+url = "http://web.archive.org/web/20090416184043/http://www.chameleonsoft.ic.cz:80/blackcabbath/"
 title = "Black Cabbath"
 years = [ 2009 ]

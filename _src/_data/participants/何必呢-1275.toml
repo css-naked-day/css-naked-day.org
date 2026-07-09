@@ -3,6 +3,6 @@ display = "何必呢"
 # Websites
 
 [[websites]]
-url   = "http://www.hebine.net/"
+url = "http://www.hebine.net/"
 title = "何必呢"
 years = [ 2008 ]

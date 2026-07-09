@@ -3,7 +3,7 @@ display = "Dan Rubin"
 # Websites
 
 [[websites]]
-url   = "http://superfluousbanter.org/"
+url = "http://superfluousbanter.org/"
 title = "Dan Rubin"
 years = [
 	2006,

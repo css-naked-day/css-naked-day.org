@@ -3,6 +3,6 @@ display = "Guezala Web Design"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://www.guezala.co.uk/"
+url = "https://web.archive.org/web/2008/http://www.guezala.co.uk/"
 title = "Guezala Web Design"
 years = [ 2009 ]

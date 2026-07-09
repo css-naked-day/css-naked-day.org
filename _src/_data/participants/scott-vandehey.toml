@@ -3,6 +3,6 @@ display = "Scott Vandehey"
 # Websites
 
 [[websites]]
-url   = "http://spaceninja.com/"
+url = "http://spaceninja.com/"
 title = "Scott Vandehey"
 years = [ 2007 ]

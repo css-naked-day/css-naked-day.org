@@ -3,6 +3,6 @@ display = "Inhenan"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.inhenan.com/"
+url = "https://web.archive.org/web/http://www.inhenan.com/"
 title = "Inhenan"
 years = [ 2007 ]

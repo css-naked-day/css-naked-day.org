@@ -3,6 +3,6 @@ display = "Prescott Websites"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://prescottazwebsites.com/blog"
+url = "https://web.archive.org/web/http://prescottazwebsites.com/blog"
 title = "Prescott Websites"
 years = [ 2008 ]

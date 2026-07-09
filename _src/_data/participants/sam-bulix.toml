@@ -3,5 +3,5 @@ display = "Sam"
 # Websites
 
 [[websites]]
-url   = "http://www.bulix.org/"
+url = "http://www.bulix.org/"
 years = [ 2006 ]

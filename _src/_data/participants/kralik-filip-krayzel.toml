@@ -3,6 +3,6 @@ display = "Králik – Filip Krayzel"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://kralik.profitux.cz/"
+url = "https://web.archive.org/web/http://kralik.profitux.cz/"
 title = "Králik – Filip Krayzel"
 years = [ 2007 ]

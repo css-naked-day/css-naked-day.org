@@ -3,6 +3,6 @@ display = "Sir_Iwan homepage"
 # Websites
 
 [[websites]]
-url   = "http://www.siriwan.livenet.pl/"
+url = "http://www.siriwan.livenet.pl/"
 title = "Sir_Iwan homepage"
 years = [ 2007 ]

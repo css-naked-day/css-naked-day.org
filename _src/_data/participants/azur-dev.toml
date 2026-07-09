@@ -3,6 +3,6 @@ display = "Azur Dev"
 # Websites
 
 [[websites]]
-url   = "http://azur.ironie.org/"
+url = "http://azur.ironie.org/"
 title = "Azur Dev"
 years = [ 2008 ]

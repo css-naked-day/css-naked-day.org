@@ -3,6 +3,6 @@ display = "Personal Coach Hamburg"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.beratensein.de/"
+url = "https://web.archive.org/web/http://www.beratensein.de/"
 title = "Personal Coach Hamburg"
 years = [ 2008 ]

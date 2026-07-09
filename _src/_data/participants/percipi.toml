@@ -3,6 +3,6 @@ display = "Percipi"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://percipi.ca/"
+url = "https://web.archive.org/web/http://percipi.ca/"
 title = "Percipi"
 years = [ 2009 ]

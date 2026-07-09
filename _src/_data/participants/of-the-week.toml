@@ -3,6 +3,6 @@ display = "Of The Week"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://readotw.com/"
+url = "https://web.archive.org/web/http://readotw.com/"
 title = "Of The Week"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Pysselklubben"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.deals.se/deal_1271106089.htm"
+url = "https://web.archive.org/web/http://www.deals.se/deal_1271106089.htm"
 title = "Pysselklubben"
 years = [ 2008 ]

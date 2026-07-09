@@ -3,5 +3,5 @@ display = "seo scout | suchmaschinenoptimierung"
 # Websites
 
 [[websites]]
-url   = "http://seo-scout.org/"
+url = "http://seo-scout.org/"
 years = [ 2009 ]

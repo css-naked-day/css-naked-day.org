@@ -3,6 +3,6 @@ display = "a break for coffee™"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.richardneililagan.com/"
+url = "https://web.archive.org/web/http://blog.richardneililagan.com/"
 title = "a break for coffee™"
 years = [ 2009 ]

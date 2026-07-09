@@ -3,6 +3,6 @@ display = "Shared Corner"
 # Websites
 
 [[websites]]
-url   = "http://ianemv.blogspot.com/"
+url = "http://ianemv.blogspot.com/"
 title = "Shared Corner"
 years = [ 2009 ]

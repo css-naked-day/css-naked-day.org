@@ -3,6 +3,6 @@ display = "Gamma Normids"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://gamma-normids.com/blog"
+url = "https://web.archive.org/web/http://gamma-normids.com/blog"
 title = "Gamma Normids"
 years = [ 2007 ]

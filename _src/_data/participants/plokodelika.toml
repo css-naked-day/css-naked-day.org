@@ -3,6 +3,6 @@ display = "Plokodelika"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://plokodelika.com/"
+url = "https://web.archive.org/web/http://plokodelika.com/"
 title = "Plokodelika"
 years = [ 2008 ]

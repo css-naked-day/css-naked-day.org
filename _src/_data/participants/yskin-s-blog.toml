@@ -3,7 +3,7 @@ display = "Yskin’s Blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://yskin.net/"
+url = "https://web.archive.org/web/2008/http://yskin.net/"
 title = "Yskin’s Blog"
 years = [
 	2007,

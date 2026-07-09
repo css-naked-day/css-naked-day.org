@@ -3,7 +3,7 @@ display = "Nathan Smith"
 # Websites
 
 [[websites]]
-url   = "http://sonspring.com/"
+url = "http://sonspring.com/"
 title = "Nathan Smith"
 years = [
 	2006,

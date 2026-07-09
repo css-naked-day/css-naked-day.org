@@ -3,6 +3,6 @@ display = "Dh’s blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://aheu.org/"
+url = "https://web.archive.org/web/http://aheu.org/"
 title = "Dh’s blog"
 years = [ 2008 ]

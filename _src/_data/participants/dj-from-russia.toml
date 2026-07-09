@@ -3,6 +3,6 @@ display = "DJ from Russia"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://djfromrussia.com/"
+url = "https://web.archive.org/web/http://djfromrussia.com/"
 title = "DJ from Russia"
 years = [ 2008 ]

@@ -3,7 +3,7 @@ display = "Adrian Turner"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://seeyouin1984.com/"
+url = "https://web.archive.org/web/http://seeyouin1984.com/"
 title = "Adrian Turner"
 years = [
 	2007,

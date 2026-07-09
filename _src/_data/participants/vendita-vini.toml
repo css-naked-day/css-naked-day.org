@@ -3,6 +3,6 @@ display = "Vendita Vini"
 # Websites
 
 [[websites]]
-url   = "http://www.lacompagniadelcavatappi.it/"
+url = "http://www.lacompagniadelcavatappi.it/"
 title = "Vendita Vini"
 years = [ 2007 ]

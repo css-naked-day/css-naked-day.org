@@ -3,6 +3,6 @@ display = "Swirling Mist"
 # Websites
 
 [[websites]]
-url   = "http://isaki.net/"
+url = "http://isaki.net/"
 title = "Swirling Mist"
 years = [ 2007 ]

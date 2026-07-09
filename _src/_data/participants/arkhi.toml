@@ -1,14 +1,11 @@
-display   = "Fabien Basmaison"
-firstname = "Fabien"
-surname   = "Basmaison"
-username  = "arkhi"
-email     = "contact@arkhi.org"
+display = "Fabien Basmaison"
+email = "contact@arkhi.org"
 
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://arkhi.org/"
+url = "http://arkhi.org/"
 years = [
 	2009,
 	2010,
@@ -20,7 +17,7 @@ years = [
 ]
 
 [[websites]]
-url   = "https://arkhi.org/"
+url = "https://arkhi.org/"
 years = [
 	2016,
 	2017,
@@ -38,9 +35,8 @@ years = [
 
 [[accounts]]
 type = "Mastodon"
-url  = "https://mamot.fr/@arkhi"
+url = "https://mamot.fr/@arkhi"
 
 [[accounts]]
-type     = "Last.fm"
-url      = "https://last.fm/user/an_archi"
-username = "an_archi"
+type = "Last.fm"
+url = "https://last.fm/user/an_archi"

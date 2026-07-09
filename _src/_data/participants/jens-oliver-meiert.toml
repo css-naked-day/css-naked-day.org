@@ -1,22 +1,19 @@
-display   = "Jens Oliver Meiert"
-firstname = "Jens"
-surname   = "Meiert"
-email     = "info@meiert.com"
-username  = "j9t"
+display = "Jens Oliver Meiert"
+email = "info@meiert.com"
 
 # Websites
 
 [[websites]]
-url     = "https://meiert.com/"
+url = "https://meiert.com/"
 homeURL = true
-years   = [
+years = [
 	2006,
 	2015,
 ]
 
 [[websites]]
 # UITest.com used to be a separate site, but was merged with Frontend Dogma in 2022
-url   = "https://frontenddogma.com/?uitest.com"
+url = "https://frontenddogma.com/?uitest.com"
 title = "UITest.com"
 years = [
 	2006,
@@ -25,7 +22,7 @@ years = [
 ]
 
 [[websites]]
-url   = "https://worlds-highest-website.com/"
+url = "https://worlds-highest-website.com/"
 title = "The World’s Highest Website"
 years = [
 	2021,
@@ -35,9 +32,8 @@ years = [
 
 [[accounts]]
 type = "Mastodon"
-url  = "https://mas.to/@j9t"
+url = "https://mas.to/@j9t"
 
 [[accounts]]
-type     = "GitHub"
-url      = "https://github.com/j9t"
-username = "j9t"
+type = "GitHub"
+url = "https://github.com/j9t"

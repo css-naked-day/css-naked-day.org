@@ -3,6 +3,6 @@ display = "网站优化"
 # Websites
 
 [[websites]]
-url   = "http://www.kseo.cn/"
+url = "http://www.kseo.cn/"
 title = "网站优化"
 years = [ 2007 ]

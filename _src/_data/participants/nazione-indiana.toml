@@ -3,6 +3,6 @@ display = "Nazione Indiana"
 # Websites
 
 [[websites]]
-url   = "http://www.nazioneindiana.com/"
+url = "http://www.nazioneindiana.com/"
 title = "Nazione Indiana"
 years = [ 2008 ]

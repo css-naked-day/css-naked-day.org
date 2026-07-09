@@ -3,6 +3,6 @@ display = "XThom"
 # Websites
 
 [[websites]]
-url   = "http://blog.gluchman.sk/"
+url = "http://blog.gluchman.sk/"
 title = "XThom"
 years = [ 2006 ]

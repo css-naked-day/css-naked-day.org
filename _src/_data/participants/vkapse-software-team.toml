@@ -3,6 +3,6 @@ display = "vKapse software team"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://vkapse.aspweb.cz/"
+url = "https://web.archive.org/web/http://vkapse.aspweb.cz/"
 title = "vKapse software team"
 years = [ 2007 ]

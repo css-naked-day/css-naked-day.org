@@ -3,7 +3,7 @@ display = "Frontend Dogma"
 # Websites
 
 [[websites]]
-url   = "https://frontenddogma.com/"
+url = "https://frontenddogma.com/"
 title = "Frontend Dogma"
 years = [
 	2022,
@@ -17,8 +17,8 @@ years = [
 
 [[accounts]]
 type = "Mastodon"
-url  = "https://mas.to/@frontenddogma"
+url = "https://mas.to/@frontenddogma"
 
 [[accounts]]
-type     = "GitHub"
-url      = "https://github.com/frontenddogma"
+type = "GitHub"
+url = "https://github.com/frontenddogma"

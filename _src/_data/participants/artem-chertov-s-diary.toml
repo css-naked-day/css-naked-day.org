@@ -3,6 +3,6 @@ display = "Artem.Chertov’s diary"
 # Websites
 
 [[websites]]
-url   = "http://artem.chertov.name/"
+url = "http://artem.chertov.name/"
 title = "Artem.Chertov’s diary"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Listva’s weblog"
 # Websites
 
 [[websites]]
-url   = "http://listva.jogger.pl/"
+url = "http://listva.jogger.pl/"
 title = "Listva’s weblog"
 years = [ 2007 ]

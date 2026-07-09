@@ -3,6 +3,6 @@ display = "脚本爱好者"
 # Websites
 
 [[websites]]
-url   = "http://www.scriptlover.com/"
+url = "http://www.scriptlover.com/"
 title = "脚本爱好者"
 years = [ 2009 ]

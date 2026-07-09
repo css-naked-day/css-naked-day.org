@@ -3,6 +3,6 @@ display = "Uploader panel"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://uploader-panel.com/"
+url = "https://web.archive.org/web/http://uploader-panel.com/"
 title = "Uploader panel"
 years = [ 2008 ]

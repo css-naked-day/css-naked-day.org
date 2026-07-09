@@ -3,6 +3,6 @@ display = "BeOSmAn’s Blooog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://beosman.dyndns.org/"
+url = "https://web.archive.org/web/2006/http://beosman.dyndns.org/"
 title = "BeOSmAn’s Blooog"
 years = [ 2007 ]

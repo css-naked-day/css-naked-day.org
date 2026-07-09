@@ -3,7 +3,7 @@ display = "Cameron’s Thoughts"
 # Websites
 
 [[websites]]
-url   = "http://www.cbulock.com/"
+url = "http://www.cbulock.com/"
 title = "Cameron’s Thoughts"
 years = [
 	2008,

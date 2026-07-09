@@ -3,6 +3,6 @@ display = "Dagmamma"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.dagmamma.se/"
+url = "https://web.archive.org/web/http://www.dagmamma.se/"
 title = "Dagmamma"
 years = [ 2009 ]

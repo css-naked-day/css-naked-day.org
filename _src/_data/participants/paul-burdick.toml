@@ -3,6 +3,6 @@ display = "Paul Burdick"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.reedmaniac.com/"
+url = "https://web.archive.org/web/http://www.reedmaniac.com/"
 title = "Paul Burdick"
 years = [ 2006 ]

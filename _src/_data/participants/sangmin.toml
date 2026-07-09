@@ -3,6 +3,6 @@ display = "SangMin"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://pellseer.cafe24.com/"
+url = "https://web.archive.org/web/http://pellseer.cafe24.com/"
 title = "SangMin"
 years = [ 2006 ]

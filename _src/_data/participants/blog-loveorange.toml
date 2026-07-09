@@ -3,5 +3,5 @@ display = "呵呵！的BLOG"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.loveorange.cn/"
+url = "https://web.archive.org/web/http://blog.loveorange.cn/"
 years = [ 2007 ]

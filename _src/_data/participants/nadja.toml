@@ -3,6 +3,6 @@ display = "Nadja"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.calm-n-easy.de/"
+url = "https://web.archive.org/web/http://blog.calm-n-easy.de/"
 title = "Nadja"
 years = [ 2006 ]

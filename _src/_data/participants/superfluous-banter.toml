@@ -3,6 +3,6 @@ display = "Superfluous Banter"
 # Websites
 
 [[websites]]
-url   = "http://superfluousbanter.org/"
+url = "http://superfluousbanter.org/"
 title = "Superfluous Banter"
 years = [ 2008 ]

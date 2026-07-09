@@ -3,6 +3,6 @@ display = "PJ Kix &gt; Hi-tek / Lo-life"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://pjkix.com/"
+url = "https://web.archive.org/web/http://pjkix.com/"
 title = "PJ Kix &amp;gt; Hi-tek / Lo-life"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Henrietta@Sunshine State"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.ettachou.com/"
+url = "https://web.archive.org/web/http://blog.ettachou.com/"
 title = "Henrietta@Sunshine State"
 years = [ 2008 ]

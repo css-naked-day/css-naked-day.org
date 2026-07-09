@@ -3,6 +3,6 @@ display = "Matthew Pennell"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.thewatchmakerproject.com/"
+url = "https://web.archive.org/web/http://www.thewatchmakerproject.com/"
 title = "Matthew Pennell"
 years = [ 2006 ]

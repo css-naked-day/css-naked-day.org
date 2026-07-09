@@ -3,6 +3,6 @@ display = "Osobystisnyj rozvytok"
 # Websites
 
 [[websites]]
-url   = "http://www.rozvytok.co.ua/"
+url = "http://www.rozvytok.co.ua/"
 title = "Osobystisnyj rozvytok"
 years = [ 2008 ]

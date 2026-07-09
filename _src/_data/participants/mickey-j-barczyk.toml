@@ -3,6 +3,6 @@ display = "Mickey J Barczyk"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://mj.barczyk.se/blog/"
+url = "https://web.archive.org/web/http://mj.barczyk.se/blog/"
 title = "Mickey J Barczyk"
 years = [ 2008 ]

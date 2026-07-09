@@ -3,6 +3,6 @@ display = "plavání kojenců"
 # Websites
 
 [[websites]]
-url   = "http://amalka.info"
+url = "http://amalka.info"
 title = "plavání kojenců"
 years = [ 2008 ]

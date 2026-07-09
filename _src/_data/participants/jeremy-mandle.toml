@@ -3,6 +3,6 @@ display = "Jeremy Mandle"
 # Websites
 
 [[websites]]
-url   = "http://mandle.org/wordpress"
+url = "http://mandle.org/wordpress"
 title = "Jeremy Mandle"
 years = [ 2009 ]

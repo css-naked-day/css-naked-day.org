@@ -3,6 +3,6 @@ display = "Medicine"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://nynik.ru/"
+url = "https://web.archive.org/web/http://nynik.ru/"
 title = "Medicine"
 years = [ 2009 ]

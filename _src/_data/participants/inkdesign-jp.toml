@@ -3,6 +3,6 @@ display = "inkdesign.jp"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.inkdesign.jp/"
+url = "https://web.archive.org/web/http://www.inkdesign.jp/"
 title = "inkdesign.jp"
 years = [ 2008 ]

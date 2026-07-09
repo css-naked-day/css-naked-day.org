@@ -3,6 +3,6 @@ display = "Critical Mass – Ragmeg minden nap! :D"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://criticalmass.hu/"
+url = "https://web.archive.org/web/http://criticalmass.hu/"
 title = "Critical Mass – Ragmeg minden nap! :D"
 years = [ 2008 ]

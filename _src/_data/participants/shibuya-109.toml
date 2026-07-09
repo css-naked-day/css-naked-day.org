@@ -3,6 +3,6 @@ display = "Shibuya 109"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://shibuya-109.org/"
+url = "https://web.archive.org/web/http://shibuya-109.org/"
 title = "Shibuya 109"
 years = [ 2008 ]

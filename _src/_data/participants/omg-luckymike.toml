@@ -3,6 +3,6 @@ display = "OMG Luckymike!"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://omg.luckymike.com/"
+url = "https://web.archive.org/web/http://omg.luckymike.com/"
 title = "OMG Luckymike!"
 years = [ 2008 ]

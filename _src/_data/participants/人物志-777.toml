@@ -3,6 +3,6 @@ display = "人物志"
 # Websites
 
 [[websites]]
-url   = "http://tsov.net/"
+url = "http://tsov.net/"
 title = "人物志"
 years = [ 2009 ]

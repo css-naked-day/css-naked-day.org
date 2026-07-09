@@ -3,6 +3,6 @@ display = "Allan Haggett"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://journal.allanh.org/"
+url = "https://web.archive.org/web/http://journal.allanh.org/"
 title = "Allan Haggett"
 years = [ 2006 ]

@@ -3,11 +3,11 @@ display = "Crazy Web"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.webdeveloping.cn/"
+url = "https://web.archive.org/web/http://www.webdeveloping.cn/"
 title = "home"
 years = [ 2009 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/2008/http://www.webdeveloping.cn/blog/"
+url = "https://web.archive.org/web/2008/http://www.webdeveloping.cn/blog/"
 title = "blog"
 years = [ 2009 ]

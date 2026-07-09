@@ -3,6 +3,6 @@ display = "Piotr [constructor] Buliński"
 # Websites
 
 [[websites]]
-url   = "http://piotr.bulinski.pl/"
+url = "http://piotr.bulinski.pl/"
 title = "Piotr [constructor] Buliński"
 years = [ 2009 ]

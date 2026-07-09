@@ -3,6 +3,6 @@ display = "Pixel Cow"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.pixelcow.com/blog/"
+url = "https://web.archive.org/web/http://www.pixelcow.com/blog/"
 title = "Pixel Cow"
 years = [ 2006 ]

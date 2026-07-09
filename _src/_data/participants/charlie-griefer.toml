@@ -3,6 +3,6 @@ display = "Charlie Griefer"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://charlie.griefer.com/"
+url = "https://web.archive.org/web/http://charlie.griefer.com/"
 title = "Charlie Griefer"
 years = [ 2009 ]

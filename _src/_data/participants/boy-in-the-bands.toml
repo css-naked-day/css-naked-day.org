@@ -3,7 +3,7 @@ display = "Boy in the Bands"
 # Websites
 
 [[websites]]
-url   = "http://www.boyinthebands.com/"
+url = "http://www.boyinthebands.com/"
 title = "Boy in the Bands"
 years = [
 	2008,

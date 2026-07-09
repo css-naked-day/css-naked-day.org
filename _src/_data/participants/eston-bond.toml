@@ -3,6 +3,6 @@ display = "Eston Bond"
 # Websites
 
 [[websites]]
-url   = "http://www.hyalineskies.com/blog/"
+url = "http://www.hyalineskies.com/blog/"
 title = "Eston Bond"
 years = [ 2006 ]

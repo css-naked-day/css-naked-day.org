@@ -3,6 +3,6 @@ display = "猫窝"
 # Websites
 
 [[websites]]
-url   = "http://blog.wangjunyu.net/"
+url = "http://blog.wangjunyu.net/"
 title = "猫窝"
 years = [ 2008 ]

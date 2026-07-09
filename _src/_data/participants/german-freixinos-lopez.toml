@@ -3,6 +3,6 @@ display = "Germán Freixinós López"
 # Websites
 
 [[websites]]
-url   = "https://www.germanfrelo.dev/"
+url = "https://www.germanfrelo.dev/"
 title = "Germán Freixinós López"
 years = [ 2023 ]

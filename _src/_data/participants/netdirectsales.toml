@@ -3,6 +3,6 @@ display = "netdirectsales"
 # Websites
 
 [[websites]]
-url   = "http://www.nds.uk.com/"
+url = "http://www.nds.uk.com/"
 title = "netdirectsales"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "PV-Internetmarketing"
 # Websites
 
 [[websites]]
-url   = "http://www.pevau.info/"
+url = "http://www.pevau.info/"
 title = "PV-Internetmarketing"
 years = [ 2008 ]

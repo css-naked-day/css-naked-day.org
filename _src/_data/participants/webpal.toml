@@ -3,6 +3,6 @@ display = "Webpal"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.webpal.se/blogg"
+url = "https://web.archive.org/web/http://www.webpal.se/blogg"
 title = "Webpal"
 years = [ 2009 ]

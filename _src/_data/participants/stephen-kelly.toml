@@ -3,7 +3,7 @@ display = "Stephen Kelly"
 # Websites
 
 [[websites]]
-url   = "http://www.twoplayer.net/"
+url = "http://www.twoplayer.net/"
 title = "Stephen Kelly"
 years = [
 	2007,

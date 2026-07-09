@@ -3,6 +3,6 @@ display = "Sea Quest"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://dev.vis-maior.net/"
+url = "https://web.archive.org/web/http://dev.vis-maior.net/"
 title = "Sea Quest"
 years = [ 2006 ]

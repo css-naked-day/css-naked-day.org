@@ -3,6 +3,6 @@ display = "Clever Minds Designs"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://inetlnx.francistuttle.com/hanks"
+url = "https://web.archive.org/web/http://inetlnx.francistuttle.com/hanks"
 title = "Clever Minds Designs"
 years = [ 2009 ]

@@ -3,7 +3,7 @@ display = "trickeries!"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://trickeries.com/"
+url = "https://web.archive.org/web/http://trickeries.com/"
 title = "trickeries!"
 years = [
 	2008,

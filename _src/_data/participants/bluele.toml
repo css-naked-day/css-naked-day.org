@@ -3,6 +3,6 @@ display = "bluele"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://bluele.splinder.com/"
+url = "https://web.archive.org/web/http://bluele.splinder.com/"
 title = "bluele"
 years = [ 2007 ]

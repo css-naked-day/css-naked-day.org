@@ -3,6 +3,6 @@ display = "Allisons mind"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.blaze.unbeknownst-music.org/Allison"
+url = "https://web.archive.org/web/http://www.blaze.unbeknownst-music.org/Allison"
 title = "Allisons mind"
 years = [ 2007 ]

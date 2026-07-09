@@ -3,6 +3,6 @@ display = "webáruház készítés, weboldal"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://netpromo.hu/"
+url = "https://web.archive.org/web/2007/http://netpromo.hu/"
 title = "webáruház készítés, weboldal"
 years = [ 2008 ]

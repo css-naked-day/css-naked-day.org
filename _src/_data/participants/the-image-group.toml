@@ -3,6 +3,6 @@ display = "The Image Group"
 # Websites
 
 [[websites]]
-url   = "http://www.imagegroup.com/"
+url = "http://www.imagegroup.com/"
 title = "The Image Group"
 years = [ 2008 ]

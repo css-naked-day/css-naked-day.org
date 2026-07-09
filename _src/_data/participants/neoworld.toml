@@ -3,6 +3,6 @@ display = "Neoworld"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.neoworld.cn/"
+url = "https://web.archive.org/web/http://www.neoworld.cn/"
 title = "Neoworld"
 years = [ 2007 ]

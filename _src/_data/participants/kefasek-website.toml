@@ -3,6 +3,6 @@ display = "Kefasek Website"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.kefasek.boo.pl/"
+url = "https://web.archive.org/web/http://www.kefasek.boo.pl/"
 title = "Kefasek Website"
 years = [ 2007 ]

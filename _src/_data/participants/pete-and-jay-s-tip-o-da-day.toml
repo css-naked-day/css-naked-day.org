@@ -3,6 +3,6 @@ display = "Pete & Jay’s Tip O Da Day"
 # Websites
 
 [[websites]]
-url   = "http://tips.petervcook.com/"
+url = "http://tips.petervcook.com/"
 title = "Pete &amp; Jay’s Tip O Da Day"
 years = [ 2007 ]

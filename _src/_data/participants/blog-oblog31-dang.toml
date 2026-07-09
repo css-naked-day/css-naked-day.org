@@ -3,5 +3,5 @@ display = "世外桃源--Blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.fxhj.net/oblog31/user1/dang/"
+url = "https://web.archive.org/web/http://www.fxhj.net/oblog31/user1/dang/"
 years = [ 2007 ]

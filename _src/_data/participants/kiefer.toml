@@ -3,6 +3,6 @@ display = "Kiefer"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.angere.net/blog"
+url = "https://web.archive.org/web/http://www.angere.net/blog"
 title = "Kiefer"
 years = [ 2007 ]

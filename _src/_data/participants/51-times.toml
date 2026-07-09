@@ -3,6 +3,6 @@ display = "51 Times"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://51times.tv/"
+url = "https://web.archive.org/web/http://51times.tv/"
 title = "51 Times"
 years = [ 2006 ]

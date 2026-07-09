@@ -3,6 +3,6 @@ display = "dexbol"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://dexbol.com/"
+url = "https://web.archive.org/web/http://dexbol.com/"
 title = "dexbol"
 years = [ 2008 ]

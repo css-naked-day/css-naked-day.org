@@ -3,6 +3,6 @@ display = "Teknosexua"
 # Websites
 
 [[websites]]
-url   = "http://www.eibar.org/blogak/teknosexua"
+url = "http://www.eibar.org/blogak/teknosexua"
 title = "Teknosexua"
 years = [ 2006 ]

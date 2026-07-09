@@ -3,6 +3,6 @@ display = "Velvet Unravelled"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2006/http://www.velvet.id.au/"
+url = "https://web.archive.org/web/2006/http://www.velvet.id.au/"
 title = "Velvet Unravelled"
 years = [ 2007 ]

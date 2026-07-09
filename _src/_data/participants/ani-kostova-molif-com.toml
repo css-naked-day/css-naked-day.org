@@ -3,6 +3,6 @@ display = "Ani Kostova (molif.com)"
 # Websites
 
 [[websites]]
-url   = "http://www.molif.com/"
+url = "http://www.molif.com/"
 title = "Ani Kostova (molif.com)"
 years = [ 2008 ]

@@ -3,7 +3,7 @@ display = "Unintentionally Blank"
 # Websites
 
 [[websites]]
-url   = "http://www.unintentionallyblank.co.uk/"
+url = "http://www.unintentionallyblank.co.uk/"
 title = "Unintentionally Blank"
 years = [
 	2007,

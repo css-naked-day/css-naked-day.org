@@ -3,6 +3,6 @@ display = "mail"
 # Websites
 
 [[websites]]
-url   = "http://mail.ru"
+url = "http://mail.ru"
 title = "mail"
 years = [ 2008 ]

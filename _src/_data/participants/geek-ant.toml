@@ -3,6 +3,6 @@ display = "Geek Ant"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2007/http://www.geekant.co.uk/"
+url = "https://web.archive.org/web/2007/http://www.geekant.co.uk/"
 title = "Geek Ant"
 years = [ 2008 ]

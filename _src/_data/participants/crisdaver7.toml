@@ -3,6 +3,6 @@ display = "Crisdaver7"
 # Websites
 
 [[websites]]
-url   = "http://my.opera.com/bgchan/blog/"
+url = "http://my.opera.com/bgchan/blog/"
 title = "Crisdaver7"
 years = [ 2007 ]

@@ -3,6 +3,6 @@ display = "Pablo López"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.hacce.com/"
+url = "https://web.archive.org/web/http://www.hacce.com/"
 title = "Pablo López"
 years = [ 2006 ]

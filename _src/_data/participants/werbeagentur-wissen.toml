@@ -3,6 +3,6 @@ display = "Werbeagentur Wissen"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://openminds.lucido-media.de/"
+url = "https://web.archive.org/web/http://openminds.lucido-media.de/"
 title = "Werbeagentur Wissen"
 years = [ 2009 ]

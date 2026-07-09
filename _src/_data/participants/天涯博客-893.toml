@@ -3,6 +3,6 @@ display = "天涯博客"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.tyblog.com/"
+url = "https://web.archive.org/web/http://www.tyblog.com/"
 title = "天涯博客"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "Cynatic"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://cynatic.org/"
+url = "https://web.archive.org/web/http://cynatic.org/"
 title = "Cynatic"
 years = [ 2009 ]

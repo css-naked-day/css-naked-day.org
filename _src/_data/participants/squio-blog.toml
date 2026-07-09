@@ -3,11 +3,11 @@ display = "Squio blog"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://squio.nl/blog/"
+url = "https://web.archive.org/web/http://squio.nl/blog/"
 title = "Squio blog"
 years = [ 2007 ]
 
 [[websites]]
-url   = "https://web.archive.org/web/http://squio.nl/blog"
+url = "https://web.archive.org/web/http://squio.nl/blog"
 title = "Squio Blog"
 years = [ 2009 ]

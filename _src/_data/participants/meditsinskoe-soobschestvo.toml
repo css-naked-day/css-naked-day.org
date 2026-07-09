@@ -3,6 +3,6 @@ display = "Медицинское сообщество"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://medsocium.com/"
+url = "https://web.archive.org/web/http://medsocium.com/"
 title = "Медицинское сообщество"
 years = [ 2008 ]

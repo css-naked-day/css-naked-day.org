@@ -3,6 +3,6 @@ display = "Articulos"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.yugler.com/"
+url = "https://web.archive.org/web/http://www.yugler.com/"
 title = "Articulos"
 years = [ 2008 ]

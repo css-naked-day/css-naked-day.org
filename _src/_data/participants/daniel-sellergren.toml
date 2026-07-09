@@ -3,7 +3,7 @@ display = "Daniel Sellergren"
 # Websites
 
 [[websites]]
-url   = "https://danielsellergren.com/"
+url = "https://danielsellergren.com/"
 title = "Daniel Sellergren"
 years = [
 	2021,

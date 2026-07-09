@@ -3,6 +3,6 @@ display = "PleXuality Clanpage"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.plexuality.de/"
+url = "https://web.archive.org/web/http://www.plexuality.de/"
 title = "PleXuality Clanpage"
 years = [ 2009 ]

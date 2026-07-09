@@ -3,6 +3,6 @@ display = "oombrella | User Experience"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.oombrella.com/"
+url = "https://web.archive.org/web/http://www.oombrella.com/"
 title = "oombrella | User Experience"
 years = [ 2007 ]

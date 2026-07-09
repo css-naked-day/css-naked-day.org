@@ -3,6 +3,6 @@ display = "Life of a designer kid"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://lifeofadesignerkid.com/"
+url = "https://web.archive.org/web/http://lifeofadesignerkid.com/"
 title = "Life of a designer kid"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "ROCK ZONE"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://rockj.cn/"
+url = "https://web.archive.org/web/http://rockj.cn/"
 title = "ROCK ZONE"
 years = [ 2009 ]

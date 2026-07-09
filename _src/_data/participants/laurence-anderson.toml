@@ -3,6 +3,6 @@ display = "Laurence Anderson"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://amacgenius.com/"
+url = "https://web.archive.org/web/http://amacgenius.com/"
 title = "Laurence Anderson"
 years = [ 2006 ]

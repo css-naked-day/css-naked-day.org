@@ -3,6 +3,6 @@ display = "Siriux (Nico)"
 # Websites
 
 [[websites]]
-url   = "http://siriux.net/"
+url = "http://siriux.net/"
 title = "Siriux (Nico)"
 years = [ 2006 ]

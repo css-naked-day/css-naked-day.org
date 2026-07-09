@@ -3,11 +3,11 @@ display = "Onet.pl"
 # Websites
 
 [[websites]]
-url   = "http://onet.pl/"
+url = "http://onet.pl/"
 title = "Onet.pl"
 years = [ 2007 ]
 
 [[websites]]
-url   = "http://www.onet.pl/"
+url = "http://www.onet.pl/"
 title = "Onet.pl"
 years = [ 2009 ]

@@ -3,6 +3,6 @@ display = "CSSForest"
 # Websites
 
 [[websites]]
-url   = "http://www.cssforest.org/blog"
+url = "http://www.cssforest.org/blog"
 title = "CSSForest"
 years = [ 2009 ]

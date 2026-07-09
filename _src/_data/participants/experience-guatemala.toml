@@ -3,6 +3,6 @@ display = "Experience Guatemala"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.experienceguatemala.com/"
+url = "https://web.archive.org/web/http://www.experienceguatemala.com/"
 title = "Experience Guatemala"
 years = [ 2009 ]

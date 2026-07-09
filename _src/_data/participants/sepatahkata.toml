@@ -3,6 +3,6 @@ display = "Sepatahkata"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.sepatahkata.or.id/"
+url = "https://web.archive.org/web/http://www.sepatahkata.or.id/"
 title = "Sepatahkata"
 years = [ 2006 ]

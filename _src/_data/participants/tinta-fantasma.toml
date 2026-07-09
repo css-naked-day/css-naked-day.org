@@ -3,6 +3,6 @@ display = "Tinta Fantasma"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://tintafantasma.net/"
+url = "https://web.archive.org/web/http://tintafantasma.net/"
 title = "Tinta Fantasma"
 years = [ 2007 ]

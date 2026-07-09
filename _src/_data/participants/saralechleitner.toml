@@ -3,6 +3,6 @@ display = "SaraLechleitner"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.saralechleitner.com/"
+url = "https://web.archive.org/web/http://www.saralechleitner.com/"
 title = "SaraLechleitner"
 years = [ 2008 ]

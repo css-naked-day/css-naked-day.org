@@ -3,6 +3,6 @@ display = "飛行船Air-2号"
 # Websites
 
 [[websites]]
-url   = "http://airshipair.exblog.jp/"
+url = "http://airshipair.exblog.jp/"
 title = "飛行船Air-2号"
 years = [ 2007 ]

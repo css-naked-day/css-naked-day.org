@@ -3,6 +3,6 @@ display = "Scatterheart"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://scatterheart.ca/"
+url = "https://web.archive.org/web/http://scatterheart.ca/"
 title = "Scatterheart"
 years = [ 2009 ]

@@ -3,11 +3,11 @@ display = "Resistan"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://blog.naxer.net/"
+url = "https://web.archive.org/web/http://blog.naxer.net/"
 title = "Resistan"
 years = [ 2006 ]
 
 [[websites]]
-url   = "http://www.resistan.com/"
+url = "http://www.resistan.com/"
 title = "resistan"
 years = [ 2008 ]

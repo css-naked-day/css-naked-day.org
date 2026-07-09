@@ -3,7 +3,7 @@ display = "Robert Brodrecht"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://robertdot.org/"
+url = "https://web.archive.org/web/http://robertdot.org/"
 title = "Robert Brodrecht"
 years = [
 	2006,

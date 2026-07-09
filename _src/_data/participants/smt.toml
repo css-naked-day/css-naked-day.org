@@ -3,6 +3,6 @@ display = "SMT"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://1800smt.com/"
+url = "https://web.archive.org/web/http://1800smt.com/"
 title = "SMT"
 years = [ 2006 ]

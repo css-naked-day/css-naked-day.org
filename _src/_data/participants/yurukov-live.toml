@@ -3,6 +3,6 @@ display = "Yurukov Live"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://yurukov.net/blog"
+url = "https://web.archive.org/web/http://yurukov.net/blog"
 title = "Yurukov Live"
 years = [ 2008 ]

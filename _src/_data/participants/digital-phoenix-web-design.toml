@@ -3,6 +3,6 @@ display = "Digital Phoenix Web Design"
 # Websites
 
 [[websites]]
-url   = "http://digitalphoenix.ca/"
+url = "http://digitalphoenix.ca/"
 title = "Digital Phoenix Web Design"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "ALPHA LABEL"
 # Websites
 
 [[websites]]
-url   = "http://www.alphalabel.net/"
+url = "http://www.alphalabel.net/"
 title = "ALPHA LABEL"
 years = [ 2008 ]

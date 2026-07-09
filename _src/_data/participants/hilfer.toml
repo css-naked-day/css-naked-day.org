@@ -3,6 +3,6 @@ display = "hilfer"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.acme.e12.pl/hilfer/hilfer_www/kontakt.htm"
+url = "https://web.archive.org/web/http://www.acme.e12.pl/hilfer/hilfer_www/kontakt.htm"
 title = "hilfer"
 years = [ 2007 ]

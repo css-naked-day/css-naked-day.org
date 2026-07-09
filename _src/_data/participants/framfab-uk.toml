@@ -3,6 +3,6 @@ display = "Framfab UK"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/2005/http://stream.framfab.com/"
+url = "https://web.archive.org/web/2005/http://stream.framfab.com/"
 title = "Framfab UK"
 years = [ 2006 ]

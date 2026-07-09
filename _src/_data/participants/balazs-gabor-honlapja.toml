@@ -3,6 +3,6 @@ display = "Balázs Gábor honlapja"
 # Websites
 
 [[websites]]
-url   = "http://balazsgabi.hu/"
+url = "http://balazsgabi.hu/"
 title = "Balázs Gábor honlapja"
 years = [ 2008 ]

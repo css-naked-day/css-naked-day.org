@@ -3,6 +3,6 @@ display = "n0h4ck3d!"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://obiskywalker.signaly.cz/"
+url = "https://web.archive.org/web/http://obiskywalker.signaly.cz/"
 title = "n0h4ck3d!"
 years = [ 2008 ]

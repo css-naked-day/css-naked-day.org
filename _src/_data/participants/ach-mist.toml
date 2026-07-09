@@ -3,6 +3,6 @@ display = "Ach!Mist"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.achmmist.de/blog"
+url = "https://web.archive.org/web/http://www.achmmist.de/blog"
 title = "Ach!Mist"
 years = [ 2008 ]

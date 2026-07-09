@@ -3,11 +3,11 @@ display = "Matt Jones"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://mattbobjones.com/"
+url = "https://web.archive.org/web/http://mattbobjones.com/"
 title = "Matt Jones"
 years = [ 2006 ]
 
 [[websites]]
-url   = "http://snurfer.org/jibba"
+url = "http://snurfer.org/jibba"
 title = "Matt Jones"
 years = [ 2008 ]

@@ -3,6 +3,6 @@ display = "Astronomy Blog"
 # Websites
 
 [[websites]]
-url   = "http://www.strudel.org.uk/blog/astro/index.shtml"
+url = "http://www.strudel.org.uk/blog/astro/index.shtml"
 title = "Astronomy Blog"
 years = [ 2008 ]

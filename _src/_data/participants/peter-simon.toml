@@ -3,6 +3,6 @@ display = "Peter Simon"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://loonkwil.try.hu/"
+url = "https://web.archive.org/web/http://loonkwil.try.hu/"
 title = "Peter Simon"
 years = [ 2008 ]

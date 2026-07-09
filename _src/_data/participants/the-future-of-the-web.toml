@@ -3,6 +3,6 @@ display = "The Future of the Web"
 # Websites
 
 [[websites]]
-url   = "http://thefutureoftheweb.com/"
+url = "http://thefutureoftheweb.com/"
 title = "The Future of the Web"
 years = [ 2007 ]

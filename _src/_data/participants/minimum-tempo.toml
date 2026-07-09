@@ -3,6 +3,6 @@ display = "Minimum Tempo"
 # Websites
 
 [[websites]]
-url   = "http://www.minimumtempo.com/"
+url = "http://www.minimumtempo.com/"
 title = "Minimum Tempo"
 years = [ 2008 ]

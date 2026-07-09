@@ -3,6 +3,6 @@ display = "客家人在深圳"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://www.yczhang.com/"
+url = "https://web.archive.org/web/http://www.yczhang.com/"
 title = "客家人在深圳"
 years = [ 2007 ]

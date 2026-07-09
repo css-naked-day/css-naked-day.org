@@ -3,6 +3,6 @@ display = "Eric Florenzano"
 # Websites
 
 [[websites]]
-url   = "http://www.eflorenzano.com/"
+url = "http://www.eflorenzano.com/"
 title = "Eric Florenzano"
 years = [ 2009 ]

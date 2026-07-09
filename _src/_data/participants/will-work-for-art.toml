@@ -3,6 +3,6 @@ display = "Will Work for Art"
 # Websites
 
 [[websites]]
-url   = "http://willworkforart.net/"
+url = "http://willworkforart.net/"
 title = "Will Work for Art"
 years = [ 2008 ]

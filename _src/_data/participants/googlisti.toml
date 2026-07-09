@@ -3,7 +3,7 @@ display = "Googlisti"
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://googlisti.com/"
+url = "https://web.archive.org/web/http://googlisti.com/"
 title = "Googlisti"
 years = [
 	2006,

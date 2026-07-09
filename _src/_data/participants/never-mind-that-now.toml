@@ -3,6 +3,6 @@ display = "never mind that now."
 # Websites
 
 [[websites]]
-url   = "https://web.archive.org/web/http://nevermindthatnow.com/"
+url = "https://web.archive.org/web/http://nevermindthatnow.com/"
 title = "never mind that now."
 years = [ 2008 ]

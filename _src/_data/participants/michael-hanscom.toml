@@ -3,7 +3,7 @@ display = "Michael Hanscom"
 # Websites
 
 [[websites]]
-url   = "https://michaelhans.com/eclecticism/"
+url = "https://michaelhans.com/eclecticism/"
 title = "Michael Hanscom"
 years = [ 2025 ]
 
