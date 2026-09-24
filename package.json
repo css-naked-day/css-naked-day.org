@@ -27,10 +27,10 @@
     "@eslint/js": "^10.0.1",
     "@iarna/toml": "^2.2.5",
     "@stylistic/eslint-plugin": "^5.10.0",
-    "eslint": "^10.10.0",
+    "eslint": "^10.11.0",
     "eslint-plugin-toml": "^1.5.0",
     "globals": "^17.12.0",
-    "html-minifier-next": "^8.4.5",
+    "html-minifier-next": "^8.5.3",
     "regexp.escape": "^2.0.1"
   }
 }
