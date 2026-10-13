@@ -5,4 +5,7 @@ display = "Tota Scriptura (Joey Day)"
 [[websites]]
 url = "https://totascriptura.org"
 title = "Tota Scriptura (Joey Day)"
-years = [ 2026 ]
+years = [
+	2026,
+	2027
+]
