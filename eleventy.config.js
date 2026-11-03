@@ -1,5 +1,5 @@
 import toml from '@iarna/toml';
-import { minify } from 'html-minifier-next';
+import { minify } from 'html-minifier';
 
 function getWebsiteDomain(url) {
 	return url.replace(
