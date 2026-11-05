@@ -3,7 +3,8 @@ display = "Frontend Dogma"
 # Websites
 
 [[websites]]
-url = "https://frontenddogma.com/"
+# Frontend Dogma used to be a separate site but was rebranded as dxsrc in 2026
+url = "https://dxsrc.org/?ref=frontenddogma.com"
 title = "Frontend Dogma"
 years = [
 	2022,

@@ -12,8 +12,8 @@ years = [
 ]
 
 [[websites]]
-# UITest.com used to be a separate site, but was merged with Frontend Dogma in 2022
-url = "https://frontenddogma.com/?uitest.com"
+# UITest.com used to be a separate site but was merged with Frontend Dogma in 2022, and rebranded as dxsrc in 2026
+url = "https://dxsrc.org/?ref=uitest.com"
 title = "UITest.com"
 years = [
 	2006,
